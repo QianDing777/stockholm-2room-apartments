@@ -1,0 +1,2141 @@
+area,adress,price,price_per_sqm,monthly_fee,size_in_sqm,date_sold
+Södermalm,"Götgatan 128, 3tr",4850000,74615,2798.0,65,2023-02-03
+Årsta,Möckelvägen 32,2650000,63095,3281.0,42,2023-02-03
+Södermalm,Heleneborgsgatan 30,4500000,97826,2451.0,46,2023-02-02
+Östermalm,"Körsbärsvägen 10, 5tr",5025000,94811,2664.0,53,2023-02-02
+Vasastan,"Anna Steckséns Gata 15, 10 tr",4900000,128947,2387.0,38,2023-02-02
+Vasastan,Hälsingegatan 10B,5760000,108679,2912.0,53,2023-02-02
+Södermalm,"Lorensbergsgatan 5B, 5 tr",4500000,118421,1878.0,38,2023-02-02
+Södermalm,Ringvägen 124,3350000,88158,1651.0,38,2023-02-02
+Vasastan,"Tulegatan 42, 6tr",4900000,100000,2528.0,49,2023-02-02
+Östermalm,"Eriksbergsgatan 1A, 5tr",6900000,127778,1770.0,54,2023-02-02
+Vasastan,"Karlbergsvägen 29A, 1tr",6625000,120455,2531.0,55,2023-02-01
+Östermalm,Valhallavägen 152B,5050000,105208,2006.0,48,2023-02-01
+Vasastan,"Sankt Eriksgatan 87, 2tr",5350000,127381,1199.0,42,2023-02-01
+Södermalm,"Maria Skolgata 77B, VÅN4",5050000,101000,3057.0,50,2023-02-01
+Årsta,"Årstavägen 71, 3 tr",2970000,61237,3762.0,48,2023-02-01
+Södermalm,Åsögatan 173,7615000,82772,5575.0,92,2023-02-01
+Södermalm,"Reimersholmsgatan 8, 3 tr",4400000,91667,3135.0,48,2023-02-01
+Södermalm,Lundagatan 48A,5300000,112766,2374.0,47,2023-02-01
+Södermalm,"Borgargatan 6, 4 tr",5510000,96667,3052.0,57,2023-02-01
+Södermalm,"Bondegatan 79, 2 tr",3920000,93333,2249.0,42,2023-02-01
+Östermalm,Valhallavägen 164,6900000,127778,2688.0,54,2023-02-01
+Södermalm,"Åsögatan 194, vån 4",5075000,101500,2797.0,50,2023-02-01
+Södermalm,Heleneborgsgatan 52,4000000,119760,1820.0,33,2023-02-01
+Vasastan,Tomtebogatan 40,4400000,122222,2018.0,36,2023-02-01
+Södermalm,Pokalvägen 5,5825000,100431,3571.0,58,2023-02-01
+Södermalm,Folkskolegatan 12,3500000,125000,2305.0,28,2023-02-01
+Södermalm,Blekingegatan 36,4010000,95476,2146.0,42,2023-02-01
+Vasastan,Vanadisvägen 7,5160000,86000,2720.0,60,2023-01-31
+Årsta,Dellensvägen 35,2870000,56275,2884.0,51,2023-01-31
+Årsta,"Siljansvägen 74, 5 / 7tr",3475000,63182,3764.0,55,2023-01-31
+Vasastan,"Birkagatan 26, 4tr",6600000,103125,2952.0,64,2023-01-31
+Vasastan,"Idungatan 8A, 2tr",6720000,122182,2205.0,55,2023-01-31
+Södermalm,"Tavastgatan 15, 2 tr ACCEPTERAT PRIS",3400000,113333,2066.0,30,2023-01-31
+Södermalm,"Åsögatan 92, 1 tr",5600000,100000,3245.0,56,2023-01-31
+Södermalm,Bergsundsgatan 14,3350000,81707,3288.0,41,2023-01-31
+Östermalm,"Wittstocksgatan 2, 1 / 2 tr",7600000,122581,3366.0,62,2023-01-31
+Östermalm,Nybrogatan 62,5100000,124390,1072.0,41,2023-01-31
+Årsta,Åmänningevägen 23,2590000,61667,3449.0,42,2023-01-31
+Vasastan,Torsgatan 78,3995000,90795,2699.0,44,2023-01-31
+Vasastan,"Sankt Eriksgatan 85A, mot gård",5150000,100980,1346.0,51,2023-01-31
+Östermalm,Rådmansgatan 11,4375000,121528,1038.0,36,2023-01-31
+Vasastan,"Vanadisplan 1, 3 tr",5550000,113265,1901.0,49,2023-01-31
+Södermalm,Långholmsgatan 3,5415000,100278,2506.0,54,2023-01-31
+Östermalm,Grev Magnigatan 10A,6600000,126923,3139.0,52,2023-01-31
+Vasastan,"Döbelnsgatan 16A, 5tr",11800000,145679,3726.0,811,2023-01-31
+Östermalm,Nybrogatan 72,5450000,123864,1950.0,44,2023-01-30
+Vasastan,"Norrbackagatan 24, 4 tr.",5750000,108491,2288.0,53,2023-01-30
+Östermalm,Valhallavägen 104,5800000,128889,1830.0,45,2023-01-30
+Södermalm,"Ölandsgatan 49C, 2,5tr Gårdshus",6500000,108333,2482.0,60,2023-01-30
+Vasastan,Gävlegatan 11,4150000,109211,1742.0,38,2023-01-29
+Vasastan,Dalagatan 108 (31 / 1105),3495000,102794,2149.0,34,2023-01-29
+Östermalm,"Rådmansgatan 11, 4 tr",4600000,124324,1130.0,37,2023-01-28
+Södermalm,Timotejgatan 7,3750000,83333,2545.0,45,2023-01-28
+Södermalm,Maria Prästgårdsgata 2 B,4000000,105263,2488.0,38,2023-01-28
+Årsta,Eklångsvägen 19,2870000,67213,2720.0,42,2023-01-28
+Vasastan,"Rödabergsgatan 9A 1,5 tr",4625000,102778,2658.0,45,2023-01-27
+Östermalm,Linnegatan 16,7000000,127273,2969.0,55,2023-01-27
+Södermalm,Timmermansgatan 37,4360000,96889,2585.0,45,2023-01-26
+Vasastan,"Torbjörn Klockares Gata 2, 3tr",4340000,108500,2339.0,40,2023-01-26
+Östermalm,Sturegatan 42,5500000,130952,1469.0,42,2023-01-26
+Södermalm,Gotlandsgatan 67,4600000,86792,2054.0,53,2023-01-26
+Vasastan,Tegnérgatan 55D,4650000,110714,2725.0,42,2023-01-26
+Södermalm,"Brännkyrkagatan 88, 2 tr",5200000,94545,3210.0,55,2023-01-26
+Östermalm,"Valhallavägen 22b, 4tr",3950000,103947,2428.0,38,2023-01-26
+Södermalm,"Tegelviksgatan 30, 2 tr",4050000,80198,4088.0,50,2023-01-26
+Fredhäll,Vitalisvägen 6,3265000,84805,2150.0,38,2023-01-26
+Årsta,"Storsjövägen 38, 2tr",3420000,63333,3048.0,54,2023-01-25
+Vasastan,"Gästrikegatan 3A, 1 tr",6300000,116667,3048.0,54,2023-01-25
+Södermalm,Slipgatan 5,4050000,98780,2476.0,41,2023-01-25
+Vasastan,"Norra Stationsgatan 119, 4tr",5300000,84127,4082.0,63,2023-01-25
+Fredhäll,"Palmbladsvägen 2, 3tr",4650000,78814,4342.0,59,2023-01-25
+Östermalm,Eriksbergsgatan 12 A,7800000,147170,1761.0,53,2023-01-25
+Årsta,"Kolsnarsvägen 9, 3 tr",2960000,69321,2871.0,42,2023-01-25
+Vasastan,"Surbrunnsgatan 60, 3 tr.",7050000,119492,3133.0,59,2023-01-25
+Vasastan,"Norra Stationsgatan 64A, 6tr",3610000,103143,2428.0,35,2023-01-25
+Vasastan,Teknologgatan 7A,5900000,113462,2933.0,52,2023-01-25
+Södermalm,Tavastgatan 43,5650000,101802,3021.0,55,2023-01-25
+Vasastan,"Norrtullsgatan 63, 2tr",3600000,100000,1886.0,36,2023-01-25
+Södermalm,"Bondegatan 16B, 3 tr",6100000,105172,2495.0,58,2023-01-25
+Södermalm,"Tjurbergsgatan 34, 1 tr",3900000,97500,2391.0,40,2023-01-25
+Östermalm,Lill-Jans Plan 3A,7700000,118462,2684.0,65,2023-01-25
+Vasastan,"Surbrunnsgatan 55, 9tr",5400000,93103,3576.0,58,2023-01-24
+Vasastan,"Surbrunnsgatan 55, 7tr",4650000,80172,3725.0,58,2023-01-24
+Vasastan,"Hälsingegatan 14F, 3 tr",6325000,126500,1729.0,50,2023-01-24
+Östermalm,Valhallavägen 152 C,4150000,109211,1588.0,38,2023-01-24
+Vasastan,"Dalagatan 86E, 2tr",4260000,112105,2415.0,38,2023-01-24
+Östermalm,Östermalmsgatan 42,6620000,137917,2076.0,48,2023-01-24
+Vasastan,Roslagsgatan 58,6000000,98361,3780.0,61,2023-01-24
+Södermalm,Bohusgatan 57,3940000,85652,2473.0,46,2023-01-24
+Vasastan,Torsplan 8,6550000,114912,4104.0,57,2023-01-24
+Vasastan,"Hagagatan 52, 1tr",4660000,103556,2686.0,45,2023-01-24
+Vasastan,Norrbackagatan 25 A,3950000,94048,2576.0,42,2023-01-24
+Östermalm,Grevgatan 13 A,6275000,145930,1981.0,43,2023-01-24
+Vasastan,"Sankt Eriksgatan 85A, 3tr innergården.",5740000,108302,1675.0,53,2023-01-24
+Vasastan,Luntmakargatan 81,6995000,107615,1546.0,65,2023-01-24
+Östermalm,Östermalmsgatan 68B,7650000,139091,2526.0,55,2023-01-24
+Årsta,"Sandfjärdsgatan 29, 9 tr",2950000,49580,3517.0,59,2023-01-24
+Årsta,Orrfjärdsgränd 4,3000000,51724,4068.0,58,2023-01-23
+Vasastan,Sankt Eriksgatan 120,5275000,101442,3511.0,52,2023-01-23
+Vasastan,"Karlbergsvägen 53A, 2 tr",6200000,114815,2365.0,54,2023-01-23
+Södermalm,Bergsundsgatan 12,3750000,104167,2028.0,36,2023-01-23
+Vasastan,Hagagatan 1,5350000,89167,3684.0,60,2023-01-23
+Vasastan,"Anna Steckséns Gata 15, vån 2",4200000,110526,2387.0,38,2023-01-23
+Södermalm,Fatburs kvarngata 7,4200000,68852,5337.0,61,2023-01-22
+Vasastan,"Döbelnsgatan 93, 1tr",4800000,111628,1333.0,43,2023-01-21
+Vasastan,Gävlegatan 26,3850000,113235,1700.0,34,2023-01-21
+Södermalm,Bondegatan 75,4200000,95455,1767.0,44,2023-01-21
+Vasastan,"Hagagatan 50A, 4 tr ö.g",5525000,102315,3321.0,54,2023-01-20
+Södermalm,"Hallandsgatan 30, vån 3",3550000,93421,2346.0,38,2023-01-20
+Vasastan,Nina einhorns gata 4,5300000,96364,3299.0,55,2023-01-20
+Vasastan,Döbelnsgatan 67,5800000,126087,2821.0,46,2023-01-20
+Östermalm,"Torstenssonsgatan 13A, 3 tr. över gården",8900000,125352,2865.0,71,2023-01-20
+Vasastan,"Sonja Kovalevskys gata 6, vån 3",4665000,99255,2320.0,47,2023-01-19
+Södermalm,Högbergsgatan 42A,6500000,93525,4576.0,69,2023-01-19
+Vasastan,"Norra Stationsgatan 62B, 3tr",3500000,100000,2428.0,35,2023-01-19
+Vasastan,"Torbjörn Klockares Gata 23, 3tr",5750000,82143,3809.0,70,2023-01-19
+Södermalm,Anders Reimers väg 15,4380000,91250,3436.0,48,2023-01-19
+Östermalm,Rådmansgatan 3,7700000,126230,4172.0,611,2023-01-18
+Södermalm,"Ringvägen 151 B, 4 tr",3500000,89744,2122.0,39,2023-01-18
+Södermalm,"Marmorgatan 1, 3tr",3800000,71698,3685.0,53,2023-01-18
+Södermalm,"Grindsgatan 52, 5tr",3300000,83544,2070.0,39,2023-01-18
+Östermalm,Engelbrektsgatan 12A,6800000,125926,2058.0,54,2023-01-18
+Södermalm,"Gotlandsgatan 78, 3tr",5225000,96759,2828.0,54,2023-01-18
+Vasastan,Upplandsgatan 67 nb ÖG,5200000,104000,2834.0,50,2023-01-18
+Vasastan,Bråvallagatan 5,4800000,109091,2590.0,44,2023-01-18
+Vasastan,Roslagsgatan 51,5700000,123913,2480.0,46,2023-01-18
+Södermalm,Katarina Bangata 79,6050000,104310,480.0,58,2023-01-18
+Östermalm,"Breitenfeldsgatan 7, 1 tr",7350000,128049,3665.0,57,2023-01-18
+Årsta,"Årstavägen 81, 2tr",3260000,58214,4195.0,56,2023-01-17
+Södermalm,"Tavastgatan 31, 2tr",6100000,100000,1674.0,61,2023-01-17
+Södermalm,Södermannagatan 12,4210000,107949,2362.0,39,2023-01-17
+Södermalm,"Renstiernas gata 25, 3 tr",5475000,97768,2300.0,56,2023-01-17
+Södermalm,"Renstiernas gata 16, 4tr",6700000,110744,2360.0,60,2023-01-17
+Årsta,Kolsnarsvägen 23,3250000,59963,3332.0,54,2023-01-17
+Östermalm,Karlavägen 70,6500000,138298,1642.0,47,2023-01-17
+Vasastan,"Johannes Plan 3, 3tr",10300000,124096,3360.0,83,2023-01-17
+Södermalm,Södermannagatan 12,3925000,100641,2362.0,39,2023-01-17
+Årsta,"Steningevägen 5, 7 tr",4960000,80000,3941.0,62,2023-01-17
+Södermalm,Doktor Abelins Gata 4,4500000,107143,2333.0,42,2023-01-17
+Vasastan,"Rödabergsbrinken 16, 1,5 tr",4680000,102857,2833.0,45,2023-01-16
+Södermalm,"Heleneborgsgatan 40, 3 tr",4250000,101190,2398.0,42,2023-01-16
+Vasastan,Torsgatan 42A,4650000,114815,2394.0,40,2023-01-16
+Södermalm,Eriksdalsgatan 34,4050000,93103,2534.0,43,2023-01-16
+Årsta,Sandfjärdsgatan 84,3000000,50420,4220.0,59,2023-01-16
+Vasastan,"Rådmansgatan 75, vån 5",5600000,100000,4296.0,56,2023-01-16
+Årsta,Möckelvägen 34,2400000,57143,3281.0,42,2023-01-15
+Fredhäll,"Fredhällsgatan 5, 1,5 tr",3900000,97500,2187.0,40,2023-01-15
+Vasastan,Torsgatan 42A,4600000,112195,2108.0,41,2023-01-15
+Årsta,Slätbaksvägen 30,3300000,62264,3115.0,53,2023-01-14
+Årsta,Sköntorpsvägen 115,2600000,63415,3773.0,41,2023-01-13
+Vasastan,Upplandsgatan 43,5120000,124878,2123.0,41,2023-01-13
+Vasastan,"Bråvallagatan 9B, 2 tr",4060000,102785,2244.0,39,2023-01-13
+Södermalm,Blekingegatan 38,5050000,84167,3472.0,60,2023-01-13
+Vasastan,Norrbackagatan 25 B,5400000,90000,3369.0,60,2023-01-13
+Södermalm,"Råggatan 8, vån 2 / 2",2900000,77333,2136.0,37,2023-01-13
+Östermalm,Kommendörsgatan 39,6900000,107813,1363.0,64,2023-01-13
+Södermalm,Borgmästargatan 4A,3700000,97368,2271.0,38,2023-01-13
+Årsta,"Rämensvägen 16, 3 tr",2950000,59000,4017.0,50,2023-01-13
+Södermalm,Katarina bangata 17,7500000,115385,2546.0,65,2023-01-13
+Vasastan,"Hagagatan 44B, BV",3825000,103378,1484.0,37,2023-01-12
+Södermalm,Skånegatan 80 B,4475000,91327,1980.0,49,2023-01-12
+Årsta,Siljansvägen 35,2800000,62222,3528.0,45,2023-01-12
+Östermalm,"Karlavägen 4, 5 tr",7550000,132456,2152.0,57,2023-01-12
+Vasastan,Torbjörn klockares gata 23,5280000,80000,3628.0,66,2023-01-12
+Östermalm,Strandvägen 53A,8000000,200000,1816.0,40,2023-01-11
+Årsta,Rämensvägen 28,2850000,64045,3495.0,44,2023-01-11
+Vasastan,"Rådmansgatan 86, 3 tr",7400000,105714,2232.0,70,2023-01-11
+Årsta,Bolmensvägen 4,3180000,67660,2311.0,47,2023-01-11
+Södermalm,Fatburstrappan 18,5200000,69333,4793.0,75,2023-01-11
+Årsta,"Årstavägen 131, våning 3 / 3",2650000,69737,3294.0,38,2023-01-05
+Södermalm,Tullgårdsgatan 14,4660000,84727,3230.0,55,2023-01-05
+Vasastan,Torsplan 8,6350000,105833,4260.0,60,2023-01-02
+Östermalm,"Östermalmsgatan 32, 3 tr.",6000000,113208,3355.0,53,2022-12-30
+Årsta,"Årstavägen 70, 5tr",3200000,58182,3464.0,55,2022-12-29
+Vasastan,Döbelnsgatan 89,4400000,112821,967.0,39,2022-12-29
+Södermalm,Katarina bangata 49,4700000,82456,3124.0,57,2022-12-29
+Vasastan,"Sonja Kovalevskys Gata 3, vån 3",5350000,95536,2800.0,56,2022-12-28
+Vasastan,Idungatan 1B,4350000,98864,2151.0,44,2022-12-28
+Vasastan,Hagaesplanaden 80,3100000,89855,2610.0,34,2022-12-23
+Vasastan,Torsgatan 56,4625000,107558,2075.0,43,2022-12-23
+Årsta,Bråviksvägen 1,2100000,48837,2702.0,43,2022-12-21
+Södermalm,Slipgatan 2,4960000,120976,2383.0,41,2022-12-21
+Fredhäll,"Ernst Ahlgrens Väg 7, 3tr",3600000,81818,2416.0,44,2022-12-20
+Södermalm,"Tavastgatan 28, 3 tr",3650000,101389,1938.0,36,2022-12-20
+Vasastan,"Hagaesplanaden 74, 1 tr",3850000,86517,3184.0,44,2022-12-20
+Södermalm,Tjärhovsgatan 52,5400000,88525,2195.0,61,2022-12-20
+Vasastan,Hagaesplanaden 80,4100000,88172,3422.0,46,2022-12-19
+Södermalm,Bjurholmsgatan 37,4100000,100000,1988.0,41,2022-12-19
+Vasastan,Vulcanusgatan 13,3800000,108571,1861.0,35,2022-12-18
+Östermalm,Riddargatan 21,8500000,121429,3354.0,70,2022-12-18
+Vasastan,Sonja Kovalevskys Gata 11,4900000,89091,2750.0,55,2022-12-16
+Vasastan,Norrtullsgatan 63,3450000,95833,1885.0,36,2022-12-16
+Södermalm,Bondegatan 80,3875000,77500,3323.0,50,2022-12-16
+Årsta,Borensvägen 25,2650000,64634,2394.0,41,2022-12-15
+Vasastan,"Hagagatan 17 M, 5 tr",6175000,95000,3205.0,65,2022-12-15
+Vasastan,Gävlegatan 26 6tr,4200000,105000,2000.0,40,2022-12-15
+Östermalm,Skeppargatan 11,3960000,123750,1866.0,32,2022-12-15
+Södermalm,Tegelviksgatan 33,5350000,86290,4299.0,62,2022-12-15
+Vasastan,"Birger Jarlsgatan 103 B, 2 tr",4700000,112981,2112.0,41,2022-12-15
+Årsta,"Siljansvägen 34, vån. 3 / 3",2900000,65169,3217.0,44,2022-12-15
+Vasastan,Torbjörn klockares gata 21,5400000,93103,2347.0,58,2022-12-14
+Vasastan,Västmannagatan 61 A,6200000,106897,2353.0,58,2022-12-14
+Södermalm,Lundagatan 40B,3400000,100000,1782.0,34,2022-12-14
+Årsta,Långhalsvägen 7,3350000,60909,3404.0,55,2022-12-14
+Södermalm,"Tavastgatan 40, 3 tr",5320000,104314,2897.0,51,2022-12-14
+Vasastan,"Anna Steckséns Gata 15, 4:1303",3900000,95122,2526.0,41,2022-12-14
+Östermalm,Sibyllegatan 42,5550000,113265,3245.0,49,2022-12-13
+Årsta,Borensvägen 30,2795000,49911,3997.0,56,2022-12-13
+Södermalm,Dalslandsgatan 7,3400000,90667,1762.0,37,2022-12-13
+Årsta,Storsjövägen 35,4100000,67213,4041.0,61,2022-12-12
+Södermalm,Bysistorget 6,3870000,88966,1841.0,43,2022-12-12
+Vasastan,"Dalagatan 60, 5 tr",7125000,129545,2149.0,55,2022-12-12
+Södermalm,"Skolgränd 1, 2 tr",4125000,93750,2420.0,44,2022-12-11
+Södermalm,"Kristinehovsgatan 5A, 3tr",3250000,92857,2242.0,35,2022-12-11
+Vasastan,Tegnérgatan 5A,5275000,99528,2352.0,53,2022-12-09
+Årsta,Borensvägen 38,2725000,68125,2957.0,40,2022-12-09
+Vasastan,"Frejgatan 99, 4tr",5350000,121591,1869.0,44,2022-12-09
+Vasastan,"Bråvallagatan 9 B, 3tr",4100000,120588,1931.0,34,2022-12-09
+Vasastan,"Sigtunagatan 3A, 2tr",7500000,119048,2845.0,63,2022-12-09
+Årsta,Siljansvägen 37,2900000,55769,3839.0,52,2022-12-09
+Södermalm,Metargatan 9,3325000,99254,2234.0,33,2022-12-09
+Södermalm,"Högbergsgatan 67, 4 tr",7380000,108529,765.0,68,2022-12-09
+Södermalm,Råggatan 8,3500000,94595,2159.0,37,2022-12-09
+Södermalm,Skånegatan 86,5700000,95000,3371.0,60,2022-12-09
+Vasastan,Birkagatan 4,7500000,117188,3295.0,64,2022-12-09
+Vasastan,Upplandsgatan 39,6850000,96479,2920.0,71,2022-12-08
+Vasastan,"Upplandsgatan 32, 2 TR",6800000,100741,3519.0,67,2022-12-08
+Vasastan,"Västmannagatan 13, 3 tr",7200000,130909,2885.0,55,2022-12-08
+Vasastan,Upplandsgatan 45,6450000,111207,1549.0,58,2022-12-08
+Vasastan,"Upplandsgatan 39, 4 tr",7900000,109722,3016.0,72,2022-12-08
+Östermalm,Skeppargatan 22C,5000000,121951,1581.0,41,2022-12-08
+Vasastan,Norrbackagatan 2  /  S:t Eriksgatan 65,4200000,65625,2504.0,64,2022-12-07
+Södermalm,Fatburs kvarngata 32,4500000,71429,4062.0,63,2022-12-07
+Årsta,Möckelvägen 11,2840000,60426,2311.0,47,2022-12-07
+Södermalm,"Grindsgatan 52, 6 tr",3775000,83889,2143.0,45,2022-12-07
+Årsta,"Sköntorpsvägen 115, 5 tr",2830000,69024,3144.0,41,2022-12-07
+Södermalm,"Svartensgatan 8B, 2 tr",6400000,106667,2049.0,60,2022-12-07
+Vasastan,"Tegnérgatan 55A, 6tr",4525000,145968,2089.0,31,2022-12-06
+Vasastan,Torbjörn Klockares Gata 3,4450000,98889,2320.0,45,2022-12-06
+Vasastan,Roslagsgatan 36,5400000,90000,2451.0,60,2022-12-06
+Vasastan,"Västmannagatan 101, 1,5 TR",6000000,105263,2887.0,57,2022-12-06
+Vasastan,"Kungstensgatan 63, 1 tr",6200000,103333,1988.0,60,2022-12-06
+Vasastan,Ingemarsgatan 3B,3800000,108571,2043.0,35,2022-12-05
+Årsta,Årstavägen 73,2950000,60825,3458.0,48,2022-12-05
+Östermalm,Styrmansgatan 49,7000000,120690,3889.0,58,2022-12-05
+Vasastan,"Karlbergsvägen 87A, 3 tr",5600000,93333,3236.0,60,2022-12-03
+Östermalm,Valhallavägen 80A,4100000,93182,2560.0,44,2022-12-03
+Vasastan,"Norrbackagatan 54, 1,5 tr",3700000,94872,2076.0,39,2022-12-03
+Östermalm,Uggelviksgatan 12,5650000,88281,4218.0,64,2022-12-02
+Södermalm,Ringvägen 86,4450000,82407,2702.0,54,2022-12-02
+Vasastan,"Gästrikegatan 18A, 3tr. ög",6750000,125000,1939.0,54,2022-12-02
+Årsta,Rämensvägen 11,2700000,52941,3978.0,51,2022-12-02
+Årsta,Glindragränd 5,3325000,61574,3618.0,54,2022-12-02
+Östermalm,"Nybrogatan 87A, 4 tr",5400000,135000,1781.0,40,2022-12-02
+Vasastan,"Hälsingegatan 51, vån 4",5050000,93519,2700.0,54,2022-12-01
+Södermalm,Åsögatan 192,4200000,83168,2365.0,50,2022-12-01
+Årsta,Siljansvägen 26,2800000,62921,3005.0,44,2022-12-01
+Södermalm,Brännerigatan 5,4650000,91176,2868.0,51,2022-12-01
+Årsta,"Sköntorpsvägen 124, 8tr",3000000,51282,3546.0,58,2022-12-01
+Fredhäll,"Ernst Ahlgrens Väg 6, 2 tr",3750000,91463,2173.0,41,2022-12-01
+Vasastan,"Karlbergsvägen 48, 6tr",7050000,133019,3236.0,53,2022-12-01
+Årsta,Skedviksvägen 20B,3350000,52756,4171.0,63,2022-11-30
+Årsta,"Årstavägen 133, vån 2 / 4",2615000,68816,3167.0,38,2022-11-30
+Östermalm,Engelbrektsgatan 14,9800000,128947,3284.0,76,2022-11-30
+Fredhäll,Adlerbethsgatan 17,3070000,90294,1847.0,34,2022-11-30
+Östermalm,Grev Turegatan 76,8100000,139655,2815.0,58,2022-11-30
+Vasastan,"Anna Steckséns Gata 15, 5 tr",4800000,106667,2787.0,45,2022-11-30
+Vasastan,Torsgatan 42 A,7650000,103378,3807.0,74,2022-11-30
+Södermalm,"Ringvägen 127B, 2tr",3550000,101429,1314.0,35,2022-11-30
+Vasastan,"Vikingagatan 28, 2tr",6200000,103333,1461.0,60,2022-11-29
+Vasastan,Birkagatan 31,6300000,106780,2516.0,59,2022-11-29
+Östermalm,Valhallavägen 65,5875000,78333,4624.0,75,2022-11-29
+Vasastan,"Karlbergsvägen 62, 4tr",7595000,110072,1194.0,69,2022-11-29
+Södermalm,"Anders Reimers väg 15, 2 tr",3875000,96875,2754.0,40,2022-11-29
+Vasastan,"Sveavägen 138, 4 tr",3900000,100000,1601.0,39,2022-11-29
+Vasastan,Torsplan 8,6650000,105556,3866.0,63,2022-11-29
+Vasastan,Norrbackagatan 40,3890000,99744,2142.0,39,2022-11-29
+Vasastan,"Roslagsgatan 23, 4tr",6300000,110526,2453.0,57,2022-11-29
+Fredhäll,"Runiusgatan 9, 1,5 tr",3140000,82632,1633.0,38,2022-11-29
+Vasastan,"Karlbergsvägen 25B, 3 tr",6770000,110984,2369.0,61,2022-11-29
+Södermalm,Dalslandsgatan 7,3400000,93151,1715.0,36,2022-11-29
+Södermalm,"Hornsgatan 62A, 2 tr ö.g",4750000,103261,1162.0,46,2022-11-28
+Vasastan,"Anna Steckséns Gata 15, 5 tr",4150000,101220,2526.0,41,2022-11-27
+Södermalm,Wollmar Yxkullsgatan 15a,3420000,79535,1826.0,43,2022-11-26
+Årsta,"Rämensvägen 24, 3 tr",2840000,56800,3728.0,50,2022-11-26
+Södermalm,"Stigbergsgatan 32A, 3 tr",4290000,112895,1781.0,38,2022-11-26
+Södermalm,"Götgatan 118, 2tr",4410000,84808,2314.0,52,2022-11-25
+Vasastan,"Birkagatan 34, 1 / 2 tr",6150000,97619,1999.0,63,2022-11-25
+Östermalm,"Eriksbergsgatan 6, 4 tr",5750000,110577,1334.0,52,2022-11-25
+Södermalm,Krukmakargatan 73,3545000,65648,2142.0,54,2022-11-25
+Södermalm,"Katarina Bangata 52, 5 tr",4070000,110000,2116.0,37,2022-11-24
+Vasastan,"Frejgatan 23, 3tr",4525000,102841,2672.0,44,2022-11-24
+Vasastan,"Döbelnsgatan 79, 1tr",6325000,103181,3101.0,61,2022-11-24
+Vasastan,"Dalagatan 72, 2tr",6650000,110833,3590.0,60,2022-11-24
+Östermalm,Östermalmsgatan 75A,6025000,120500,2694.0,50,2022-11-24
+Södermalm,"Bergsunds strand 42, 4tr",3850000,104054,1212.0,37,2022-11-24
+Södermalm,"Hornsgatan 94, 5tr",4940000,93208,2841.0,53,2022-11-24
+Vasastan,Döbelnsgatan 18,4980000,117176,2942.0,42,2022-11-24
+Södermalm,Krukmakargatan 58,6000000,88235,2954.0,68,2022-11-24
+Vasastan,"Roslagsgatan 21, 3tr",6150000,109821,2760.0,56,2022-11-23
+Östermalm,"Kaptensgatan 14 A, 1 tr ög",6230000,117547,1785.0,53,2022-11-23
+Södermalm,Malmgårdsvägen 20,5470000,94310,2991.0,58,2022-11-23
+Vasastan,"Upplandsgatan 17B, 2tr",25900000,104016,10997.0,24,2022-11-23
+Södermalm,"Ljusterögatan 14, 3tr",6300000,90000,3073.0,70,2022-11-23
+Vasastan,"Vanadisplan 1, 4tr",8350000,107051,3255.0,78,2022-11-22
+Vasastan,"Karlbergsvägen 70B, 1 / 2",4600000,102222,2398.0,45,2022-11-22
+Vasastan,Västmannagatan 17C,7350000,108088,2653.0,68,2022-11-22
+Fredhäll,Messeniusgatan 6,2900000,93548,2059.0,31,2022-11-22
+Södermalm,Björngårdsgatan 16,6440000,115000,2772.0,56,2022-11-22
+Vasastan,"Birger Jarlsgatan 109D, 2tr",5925000,105804,2468.0,56,2022-11-22
+Vasastan,Hagaesplanaden 74,4295000,92366,3299.0,46,2022-11-21
+Vasastan,Hagagatan 14A,6000000,109091,2295.0,55,2022-11-21
+Östermalm,Riddargatan 51,4600000,127778,1320.0,36,2022-11-21
+Vasastan,Falugatan 17,4000000,100000,2467.0,40,2022-11-19
+Södermalm,"Södermannagatan 45, 3,5tr",6350000,100794,3297.0,63,2022-11-19
+Vasastan,"Karlbergsvägen 53A, 4tr.",6200000,114815,2150.0,54,2022-11-18
+Vasastan,"Roslagsgatan 9, vån 4",5295000,108061,1984.0,49,2022-11-18
+Vasastan,"Sveavägen 126, mot innergård",4000000,102564,1915.0,39,2022-11-18
+Vasastan,"Upplandsgatan 34, 4tr",6600000,117857,2415.0,56,2022-11-18
+Vasastan,Robert Almströmsgatan 12,3830000,106389,2075.0,36,2022-11-18
+Vasastan,"Västmannagatan 89A, 3tr ö.g",4100000,107895,1515.0,38,2022-11-17
+Östermalm,"Eriksbergsgatan 36, 3 tr",6500000,120370,3213.0,54,2022-11-17
+Södermalm,Färgargårdstorget 10,5200000,71724,3483.0,72,2022-11-17
+Vasastan,Birger Jarlsgatan 93 B,5225000,103877,2493.0,50,2022-11-17
+Södermalm,"Skånegatan 80, 3 tr",4100000,93182,1818.0,44,2022-11-17
+Södermalm,Brännkyrkagatan 83,3300000,91667,1929.0,36,2022-11-17
+Södermalm,"Bondegatan 16 B, 1tr",5750000,99138,2434.0,58,2022-11-17
+Fredhäll,"Vitalisvägen 3, 2 tr",3300000,78571,2203.0,42,2022-11-17
+Fredhäll,"Stagneliusvägen 28, 3 tr",3350000,82716,2841.0,40,2022-11-17
+Årsta,Borensvägen 60,2820000,55294,2779.0,51,2022-11-17
+Östermalm,Brahegatan 50,5550000,106731,2453.0,52,2022-11-17
+Vasastan,"Luntmakargatan 92, 1,5tr.",4350000,114474,1939.0,38,2022-11-16
+Vasastan,"Roslagsgatan 45, 2tr",4370000,87400,2711.0,50,2022-11-16
+Vasastan,"Döbelnsgatan 47, 3tr",4015000,114714,1936.0,35,2022-11-16
+Vasastan,"Tulegatan 23B, 3tr",7850000,126613,2550.0,62,2022-11-16
+Vasastan,Ingemarsgatan 7,3900000,111429,2050.0,35,2022-11-16
+Södermalm,Tavastgatan 15,3250000,108333,2025.0,30,2022-11-16
+Östermalm,"Grevgatan 49, 5 tr",6404000,108542,2735.0,59,2022-11-16
+Vasastan,Norrbackagatan 14,3625000,95395,2298.0,38,2022-11-16
+Vasastan,Robert Almströmsgatan 7,6250000,117925,2552.0,53,2022-11-16
+Årsta,Slätbaksvägen 46,2500000,58824,2324.0,42,2022-11-16
+Södermalm,"Krukmakargatan 27, 2tr",4200000,85714,2860.0,49,2022-11-16
+Vasastan,"Sonja Kovalevskys Gata 3, 7tr",4895000,101979,2400.0,48,2022-11-16
+Södermalm,Klippgatan 14I,4020000,95714,2169.0,42,2022-11-15
+Vasastan,"Bråvallagatan 7, 1tr",4535000,113375,2297.0,40,2022-11-15
+Östermalm,"Cardellgatan 4, 3 tr",7225000,133796,3812.0,54,2022-11-15
+Södermalm,Katarina västra kyrkogata 4C,5275000,101442,3239.0,52,2022-11-15
+Vasastan,"Sveavägen 93, 2 tr",3725000,94304,1903.0,39,2022-11-15
+Vasastan,"Vulcanusgatan 10, 4 tr",4525000,116026,2023.0,39,2022-11-15
+Vasastan,"Dalagatan 41A, 3 TR",4700000,102174,2245.0,46,2022-11-15
+Södermalm,Samaritgränd 3,3595000,87683,2246.0,41,2022-11-15
+Vasastan,"Sonja Kovalevskys Gata 11, vån 12",4925000,107065,2300.0,46,2022-11-15
+Vasastan,Markvardsgatan 15,4750000,90476,853.0,52,2022-11-15
+Vasastan,Nina Einhorns Gata 7,4800000,96970,2417.0,49,2022-11-15
+Vasastan,"Frejgatan 50, 4 tr",4950000,104873,2526.0,47,2022-11-15
+Vasastan,"Roslagsgatan 35A, ög",4900000,104255,2269.0,47,2022-11-14
+Södermalm,"Ringvägen 129A, 5 tr",4250000,88542,1831.0,48,2022-11-14
+Årsta,"Gullmarsvägen 29, 1 tr",2775000,50455,3777.0,55,2022-11-13
+Fredhäll,"Messeniusgatan 6, 4 TR",2950000,95161,2059.0,31,2022-11-13
+Södermalm,Tjustgatan 2,3400000,85000,3401.0,40,2022-11-12
+Södermalm,"Hallandsgatan 50B, 3tr",3350000,88158,2171.0,38,2022-11-12
+Fredhäll,Stagneliusvägen 23,3775000,77835,3317.0,48,2022-11-11
+Vasastan,Gästrikegatan 16A,6480000,117818,1939.0,55,2022-11-11
+Södermalm,Vickergatan 7,3380000,82439,2307.0,41,2022-11-11
+Södermalm,Fatburs Brunnsgata 18,4500000,73770,3334.0,61,2022-11-11
+Vasastan,Västmannagatan 79,5100000,106250,1748.0,48,2022-11-11
+Årsta,"Järnlundsvägen 13, 3tr",3250000,56034,3387.0,58,2022-11-11
+Vasastan,"Markvardsgatan 4, 2tr",6100000,105172,2706.0,58,2022-11-10
+Vasastan,"Tomtebogatan 49, 1,5tr",6725000,115948,2891.0,58,2022-11-10
+Fredhäll,"Atterbomsvägen 38, 1 TR",3625000,75521,2715.0,48,2022-11-10
+Vasastan,"Torsgatan 50, 1,5tr",4000000,119403,1298.0,33,2022-11-10
+Östermalm,Östermalmsgatan 75A,6000000,120000,2694.0,50,2022-11-10
+Vasastan,Atlasgatan 20,6995000,99929,2234.0,70,2022-11-10
+Östermalm,Grev Magnigatan 19,5850000,130000,2048.0,45,2022-11-10
+Södermalm,Högalidsgatan 36C,5285000,103627,2917.0,51,2022-11-10
+Vasastan,"Norrtullsgatan 63, 5tr",5000000,89286,2800.0,56,2022-11-09
+Östermalm,Artillerigatan 46,5550000,142308,0.0,39,2022-11-09
+Södermalm,"Heleneborgsgatan 6A, 2 tr",5150000,95370,3290.0,54,2022-11-09
+Vasastan,Sankt eriksgatan 99,6900000,90789,2355.0,76,2022-11-09
+Södermalm,Kattgränd 3,4650000,105682,2154.0,44,2022-11-09
+Vasastan,"Odengatan 62A, 2 tr ög",6000000,98361,1044.0,61,2022-11-09
+Södermalm,Katarina Bangata 57,3450000,88462,2151.0,39,2022-11-09
+Vasastan,Torsgatan 61,5425000,106373,2914.0,51,2022-11-09
+Årsta,"Årstavägen 129, 6 tr",3000000,56604,3728.0,53,2022-11-08
+Södermalm,Åsögatan 192,5700000,85075,3172.0,67,2022-11-08
+Årsta,"Tämnarvägen 36, 2 tr",3400000,61818,2880.0,55,2022-11-08
+Vasastan,Rådmansgatan 75,3820000,109143,1660.0,35,2022-11-08
+Södermalm,"Götgatan 92A, 5 tr",3825000,83152,1672.0,46,2022-11-08
+Södermalm,"Mariatorget 6 A, 2 tr",6850000,114167,2620.0,60,2022-11-08
+Vasastan,Medevigatan 8,4580000,91600,3065.0,50,2022-11-08
+Södermalm,Lundagatan 36C 4 / 4 tr. Högst upp i huset!,5750000,127778,2273.0,45,2022-11-08
+Vasastan,"Karlbergsvägen 69B, 4tr",5300000,123256,1732.0,43,2022-11-08
+Vasastan,Hälsingegatan 8A,5800000,98305,1998.0,59,2022-11-08
+Vasastan,Vikingagatan 12,5500000,101852,1309.0,54,2022-11-07
+Östermalm,Grevgatan 49,3600000,94737,2052.0,38,2022-11-07
+Vasastan,Frejgatan 4A,6400000,104918,2960.0,61,2022-11-07
+Södermalm,Nytorgsgatan 15,4200000,105000,2297.0,40,2022-11-07
+Vasastan,Döbelnsgatan 35,5500000,110000,1800.0,50,2022-11-06
+Södermalm,Maria Skolgata 93,4950000,90000,3405.0,55,2022-11-06
+Vasastan,"Medevigatan 8, 3tr",3700000,107246,2416.0,34,2022-11-05
+Södermalm,"Vindragarvägen 10, 5 tr",3840000,90353,2627.0,42,2022-11-05
+Vasastan,"Sveavägen 126, vån 7 / 7",3900000,114706,1669.0,34,2022-11-04
+Vasastan,Birger Jarlsgatan 98A,6650000,105556,3140.0,63,2022-11-04
+Södermalm,Brännkyrkagatan 40,4000000,129032,2550.0,31,2022-11-04
+Södermalm,Västgötagränd 1A,4400000,70968,4323.0,62,2022-11-04
+Vasastan,Torbjörn Klockares Gata 6,5800000,92063,2514.0,63,2022-11-04
+Vasastan,"Karlbergsvägen 84, 1.5 tr",5540000,100727,2922.0,55,2022-11-04
+Årsta,Eklångsvägen 32,2915000,64778,2547.0,45,2022-11-04
+Vasastan,"Anna Steckséns Gata 15, 12 tr",5300000,139474,2387.0,38,2022-11-04
+Vasastan,"Tomtebogatan 39A, 4tr",5225000,91667,3031.0,57,2022-11-04
+Vasastan,"Emmy Rappes gata 3, 5 tr",4000000,100000,2381.0,40,2022-11-04
+Södermalm,"Reimersholmsgatan 65, 6 / 6 tr!",5600000,80000,4888.0,70,2022-11-04
+Östermalm,"Skeppargatan 21A, 3 tr",7625000,146635,0.0,52,2022-11-04
+Vasastan,"Sankt Eriksgatan 80, 2tr",5895000,117900,29.0,50,2022-11-04
+Årsta,"Åmänningevägen 12, 3 tr",3000000,55556,3591.0,54,2022-11-04
+Årsta,"Rämensvägen 20, 3tr",2595000,51900,3914.0,50,2022-11-03
+Södermalm,"Folkungagatan 61, 6tr",4350000,101163,1943.0,43,2022-11-03
+Vasastan,Gästrikegatan 6A,6900000,113115,3005.0,61,2022-11-03
+Södermalm,Tegelviksgatan 79,5250000,73944,4024.0,71,2022-11-03
+Vasastan,Tomtebogatan 32A,5750000,94262,3220.0,61,2022-11-03
+Södermalm,Erstagatan 26 / Bondegatan 55,4400000,100000,2235.0,44,2022-11-03
+Vasastan,"Birkagatan 24A, ög",3300000,110000,1771.0,30,2022-11-02
+Vasastan,"Torbjörn Klockares gata 2, 2tr",4250000,106250,1654.0,40,2022-11-02
+Årsta,"Borensvägen 37, 3tr",2784000,63273,2802.0,44,2022-11-02
+Årsta,"Eklångsvägen 37, 3 tr",2925000,67241,2732.0,43,2022-11-02
+Vasastan,"Odengatan 37A, 2tr ög",5150000,114444,757.0,45,2022-11-02
+Vasastan,Dannemoragatan 18,4500000,78947,2843.0,57,2022-11-02
+Södermalm,Tjärhovsgatan 10,4525000,94271,2011.0,48,2022-11-02
+Vasastan,Tomtebogatan 28,4725000,107386,1040.0,44,2022-11-01
+Östermalm,Östermalmsgatan 84,11000000,127907,0.0,86,2022-11-01
+Södermalm,"Heleneborgsgatan 7B, gårdshus",6760000,107302,2934.0,63,2022-11-01
+Södermalm,Hornsgatan 29G (Ingång 29C),6000000,111111,1008.0,54,2022-11-01
+Vasastan,"Sveavägen 138, 3 tr",3900000,100000,1601.0,39,2022-11-01
+Östermalm,Narvavägen 4,6700000,106349,2669.0,63,2022-11-01
+Fredhäll,"Frödingsvägen 5, 2 tr",3620000,84186,2226.0,43,2022-10-31
+Vasastan,Norrbackagatan 25C,4100000,97619,2231.0,42,2022-10-31
+Södermalm,"Västgötagatan 22, 4 tr",3350000,90541,1981.0,37,2022-10-31
+Södermalm,Brännkyrkagatan 119,3400000,103030,2325.0,33,2022-10-31
+Södermalm,Ekehjelmstorget 2,4495000,80268,2019.0,56,2022-10-31
+Vasastan,Rörstrandsgatan 14A,6900000,107813,1869.0,64,2022-10-31
+Södermalm,"Skaraborgsgatan 9, 3 tr",3860000,78776,3733.0,49,2022-10-30
+Årsta,"Möckelvägen 15, 2 tr",3000000,75000,2228.0,40,2022-10-30
+Vasastan,Hälsingegatan 12A,6695000,101439,2890.0,66,2022-10-30
+Årsta,Årstavägen 4,3220000,64400,3032.0,50,2022-10-28
+Fredhäll,"Vitalisvägen 4, 2tr",3550000,76344,2491.0,46,2022-10-28
+Östermalm,"Valhallavägen 146F, 5tr",6160000,104407,2407.0,59,2022-10-28
+Södermalm,Erstagatan 11,4000000,90909,2165.0,44,2022-10-28
+Vasastan,Döbelnsgatan 87,6975000,107308,2499.0,65,2022-10-28
+Årsta,Rämensvägen 43,2800000,62222,3591.0,45,2022-10-28
+Östermalm,"Erik Dahlbergsallén 9B, 1 tr",6200000,119231,2126.0,52,2022-10-28
+Årsta,"Sköntorpsvägen 41, 2tr",2850000,52583,3265.0,54,2022-10-27
+Årsta,"Sandfjärdsgatan 112, 3tr",2420000,56279,2962.0,43,2022-10-27
+Vasastan,"Dalagatan 68 B, 3 tr",6290000,104833,3198.0,60,2022-10-27
+Vasastan,"Frejgatan 46B, 4tr",7375000,109259,3352.0,67,2022-10-27
+Vasastan,"Dalagatan 86F, 2,5 tr",4080000,120000,1847.0,34,2022-10-27
+Södermalm,Rutger Fuchsgatan 4,3850000,83696,2211.0,46,2022-10-27
+Årsta,Kolsnarsvägen 7,2375000,55621,2529.0,42,2022-10-27
+Vasastan,"Roslagsgatan 49, 3tr",3180000,106000,1690.0,30,2022-10-27
+Södermalm,Kocksgatan 28,7300000,104286,2300.0,70,2022-10-27
+Årsta,Rörviksbacken 9,2950000,60204,2879.0,49,2022-10-27
+Södermalm,Maria Skolgata 93,8100000,147273,3414.0,55,2022-10-27
+Södermalm,Bondegatan 13,4100000,93182,2588.0,44,2022-10-27
+Vasastan,"Västmannagatan 25, 1 tr",5575000,103241,2073.0,54,2022-10-27
+Södermalm,Östgötagatan 79,3525000,100714,1315.0,35,2022-10-27
+Vasastan,"Birger Jarlsgatan 111B, 2tr",6275000,98047,2891.0,64,2022-10-26
+Vasastan,Tomtebogatan 1B,4250000,128788,955.0,33,2022-10-26
+Fredhäll,Rålambsvägen 52,3495000,82235,2226.0,42,2022-10-26
+Östermalm,Skeppargatan 21A,6550000,136458,0.0,48,2022-10-26
+Södermalm,"Katarina bangata 49, 2 tr",5250000,84677,3367.0,62,2022-10-26
+Södermalm,"Ringvägen 153, 2 tr",3550000,84524,2431.0,42,2022-10-26
+Södermalm,"Borgargatan 6, 3,5tr",5120000,111304,2463.0,46,2022-10-26
+Södermalm,Tegelviksgatan 30,3700000,73267,4088.0,50,2022-10-26
+Fredhäll,"Ernst Ahlgrens väg 4, vån 3 av 3",4100000,97619,2217.0,42,2022-10-26
+Årsta,Möckelvägen 9,2950000,73750,2228.0,40,2022-10-26
+Vasastan,Sonja Kovalevskys Gata 11,6800000,107937,3150.0,63,2022-10-26
+Årsta,Årstavägen 31,3320000,61481,2487.0,54,2022-10-26
+Årsta,Järnlundsvägen 14,2975000,54091,3671.0,55,2022-10-26
+Södermalm,Ringvägen 135,4170000,99286,1534.0,42,2022-10-26
+Årsta,Borensvägen 46,2620000,65500,2978.0,40,2022-10-25
+Vasastan,"Hagagatan 37, 2,5 tr",3600000,105882,2085.0,34,2022-10-25
+Östermalm,"Valhallavägen 152D, entréplan",5450000,111224,1914.0,49,2022-10-20
+Östermalm,"Riddargatan 45A, 1tr",7200000,144000,1487.0,50,2022-10-20
+Södermalm,Sågargatan 4,4725000,89658,2477.0,52,2022-10-20
+Vasastan,"Robert Almströmsgatan 12, 5 tr",4000000,111111,2075.0,36,2022-10-20
+Södermalm,Ringvägen 153,3375000,102273,1986.0,33,2022-10-20
+Vasastan,"Norra Stationsgatan 115, 5tr",3750000,87209,1732.0,43,2022-10-20
+Södermalm,Ringvägen 138,3950000,75962,2774.0,52,2022-10-20
+Årsta,"Malgomajvägen 13, 2 tr",3300000,57895,3603.0,57,2022-10-20
+Årsta,Bolmensvägen 22,3075000,65426,2311.0,47,2022-10-19
+Vasastan,"Vikingagatan 14b, 4tr. ö.g",6400000,104918,1790.0,61,2022-10-19
+Vasastan,"Västmannagatan 24, 1,5tr",4650000,110714,1233.0,42,2022-10-19
+Östermalm,"Valhallavägen 174, 2 tr",3850000,96250,2201.0,40,2022-10-19
+Södermalm,Högbergsgatan 81C,4985000,85948,3476.0,58,2022-10-19
+Årsta,"Tämnarvägen 26, 2 tr",2880000,62609,2657.0,46,2022-10-19
+Södermalm,"Noe arksgränden 6, BV",3910000,93095,1773.0,42,2022-10-19
+Södermalm,"Lilla Erstagatan 6, 1tr",4035000,87717,2197.0,46,2022-10-19
+Fredhäll,"Stagneliusvägen 23, 2 tr",3330000,86494,2687.0,38,2022-10-19
+Vasastan,Roslagsgatan 17,4850000,110227,805.0,44,2022-10-19
+Östermalm,"Sibyllegatan 57, 1tr",7510000,136545,2236.0,55,2022-10-19
+Vasastan,"Norrtullsgatan 13, 1 tr",4545000,104483,1318.0,43,2022-10-19
+Södermalm,"Mariatorget 6A, högst upp!",6710000,111833,2620.0,60,2022-10-19
+Östermalm,"Frejgatan 15, 4tr",6565000,101000,2081.0,65,2022-10-19
+Fredhäll,"Frödingsvägen 2, Möjlig 3:a (Balkong)",4600000,86792,2518.0,53,2022-10-19
+Södermalm,Gotlandsgatan 37,3700000,94872,2301.0,39,2022-10-19
+Fredhäll,"Vitalisvägen 6, 2 tr",3500000,76923,2359.0,45,2022-10-19
+Årsta,Svärdlångsvägen 43,3250000,57018,3603.0,57,2022-10-19
+Vasastan,"Karlbergsvägen 23, 1 tr",4830000,115000,1877.0,42,2022-10-19
+Fredhäll,"Frödingsvägen 2, 2,5 tr",3620000,84186,2043.0,43,2022-10-19
+Vasastan,Torsgatan 39,5000000,83333,1829.0,60,2022-10-19
+Södermalm,Helgalunden 17 (Gårdsläge),3250000,104839,1889.0,31,2022-10-18
+Södermalm,Lundagatan 50,3750000,107143,1839.0,35,2022-10-18
+Södermalm,"Högalidsgatan 40B, 4tr",6000000,100000,2528.0,60,2022-10-18
+Södermalm,"Slipgatan 11, 5tr.",3225000,87162,2566.0,37,2022-10-18
+Vasastan,Gästrikegatan 8,6800000,103030,4158.0,66,2022-10-18
+Södermalm,"Tideliusgatan 11, 3 tr",4600000,73016,1721.0,63,2022-10-18
+Östermalm,Lill-Jans Plan 3A,8800000,135385,2684.0,65,2022-10-18
+Södermalm,"Kvarngatan 2, 1tr",5300000,84127,3281.0,63,2022-10-18
+Södermalm,"Folkskolegatan 4, 4 tr",4070000,113056,1887.0,36,2022-10-18
+Södermalm,Heleneborgsgatan 3,5900000,103509,2142.0,57,2022-10-18
+Vasastan,Rödabergsgatan 10,5800000,78378,3180.0,74,2022-10-17
+Södermalm,"Krukmakargatan 38, 1tr",3200000,86486,3029.0,37,2022-10-17
+Vasastan,Valhallavägen 22A,3400000,94444,2025.0,36,2022-10-17
+Fredhäll,"Rålambsvägen 69, 5 tr",3370000,91081,2328.0,37,2022-10-17
+Södermalm,Västgötagränd 1A,4850000,78862,4293.0,61,2022-10-17
+Södermalm,"Hallandsgatan 50A, vån 4",3600000,105882,2024.0,34,2022-10-17
+Östermalm,"Birger Jarlsgatan 65B, 2 tr",6500000,97015,2135.0,67,2022-10-15
+Vasastan,Dalagatan 86E,4350000,114474,2236.0,38,2022-10-15
+Vasastan,Luntmakargatan 74,6250000,113636,3300.0,55,2022-10-15
+Vasastan,"Birger Jarlsgatan 104H, 1 tr",5050000,114773,2822.0,44,2022-10-14
+Södermalm,Bastugatan 19,4495000,80268,2555.0,56,2022-10-14
+Södermalm,Tavastgatan 14,4855000,103298,2385.0,47,2022-10-14
+Södermalm,"Bastugatan 27, 1 tr Accepterat pris",4350000,92553,2195.0,47,2022-10-14
+Östermalm,Grevgatan 23B,6895000,143646,2288.0,48,2022-10-14
+Östermalm,Sibyllegatan 29,6200000,116981,2475.0,53,2022-10-14
+Vasastan,Västmannagatan 85C,4750000,118750,2247.0,40,2022-10-14
+Vasastan,Frejgatan 56,7000000,104012,2283.0,67,2022-10-14
+Årsta,"Siljansvägen 45, 3 tr",3050000,57009,3556.0,53,2022-10-14
+Vasastan,Vanadisvägen 24,4300000,110256,938.0,39,2022-10-13
+Östermalm,Storgatan 32,3100000,119231,1717.0,26,2022-10-13
+Södermalm,"Hornsgatan 94, 7tr",5750000,127778,2412.0,45,2022-10-13
+Årsta,"Siljansvägen 73A, Accepterat pris",3995000,65492,4244.0,61,2022-10-13
+Södermalm,Bondegatan 74 D,4400000,89796,2875.0,49,2022-10-13
+Södermalm,"Bysistorget 4, 6 tr",6100000,103390,1736.0,591,2022-10-13
+Årsta,Ottsjövägen 25,3675000,61250,3981.0,60,2022-10-13
+Årsta,Slätbaksvägen 24,2730000,64235,2324.0,42,2022-10-13
+Södermalm,Tavastgatan 22,3675000,95455,1792.0,38,2022-10-13
+Södermalm,Allhelgonagatan 7,4600000,79310,2568.0,58,2022-10-13
+Vasastan,Tomtebogatan 33A,6900000,106154,2694.0,65,2022-10-13
+Södermalm,"Brännerigatan 1, 5 tr",5680000,90159,2656.0,63,2022-10-13
+Årsta,"Årstavägen 129, 6 tr",3000000,53097,3926.0,56,2022-10-13
+Årsta,Årstavägen 101,2750000,51887,3532.0,53,2022-10-12
+Södermalm,Maria bangata 2B,4000000,111111,1950.0,36,2022-10-12
+Årsta,Sköntorpsvägen 98,2475000,57558,2435.0,43,2022-10-12
+Södermalm,"Hornsgatan 60, 5 tr, vind",5400000,94737,1652.0,57,2022-10-12
+Östermalm,Sibyllegatan 40,7600000,131034,2368.0,58,2022-10-12
+Vasastan,"Dalagatan 62, 1½ tr.",5500000,88710,3578.0,62,2022-10-12
+Södermalm,Wollmar Yxkullsgatan 3A,5250000,114130,3253.0,46,2022-10-12
+Vasastan,"Dalagatan 8, *Accepterat pris*",4895000,95980,2661.0,51,2022-10-12
+Östermalm,Sibyllegatan 40 - mot gård,5250000,102941,2118.0,51,2022-10-11
+Östermalm,"Linnégatan 16, 4tr",7870000,115735,3233.0,68,2022-10-11
+Östermalm,Linnégatan 42,6750000,120536,2590.0,56,2022-10-11
+Östermalm,Birger Jarlsgatan 114,4760000,101277,2057.0,47,2022-10-11
+Vasastan,"Odengatan 31C, 3tr",6300000,104132,585.0,60,2022-10-11
+Södermalm,"Bergsunds strand 34, accepterat pris!",3800000,86364,2114.0,44,2022-10-11
+Södermalm,"Rosenlundsgatan 18, 4tr",3900000,90698,2379.0,43,2022-10-11
+Södermalm,"Maria Skolgata 77 B, 6 tr",4675000,93500,3057.0,50,2022-10-11
+Vasastan,"Luntmakargatan 75, 2tr",6800000,103030,3065.0,66,2022-10-10
+Östermalm,Sibyllegatan 83,4950000,133784,1257.0,37,2022-10-09
+Vasastan,"Hagaesplanaden 76, 4tr",3750000,107143,2234.0,35,2022-10-08
+Vasastan,Västmannagatan 39,6800000,117241,2524.0,58,2022-10-08
+Årsta,"Malgomajvägen 12, 3 tr",3110000,54561,3603.0,57,2022-10-08
+Vasastan,Upplandsgatan 87,7300000,108955,2507.0,67,2022-10-08
+Fredhäll,"Vitalisvägen 7, 2tr",3150000,78750,2201.0,40,2022-10-07
+Södermalm,Götgatan 101,5440000,83692,2554.0,65,2022-10-07
+Vasastan,Birkagatan 4,5725000,89734,3179.0,63,2022-10-07
+Vasastan,Roslagsgatan 23,6400000,106667,2692.0,60,2022-10-07
+Södermalm,Ploggatan 12,3500000,94595,1976.0,37,2022-10-07
+Östermalm,Wittstocksgatan 21,4525000,94271,2741.0,48,2022-10-07
+Södermalm,Hornsgatan 75B,6600000,110000,1659.0,60,2022-10-07
+Vasastan,"Torsgatan 31, 2 tr (5 tr från gård)",6050000,97581,3456.0,62,2022-10-06
+Årsta,Hjälmarsvägen 27,3100000,57196,3323.0,54,2022-10-06
+Fredhäll,"Orvar odds väg 51, 2tr",5150000,88793,2970.0,58,2022-10-06
+Södermalm,Hallandsgatan 24,3900000,82979,2349.0,47,2022-10-06
+Vasastan,"Valfrid Palmgrens gata 7, 3 tr",5560000,123556,1334.0,45,2022-10-06
+Södermalm,Klippgatan 14B,4300000,91489,2342.0,47,2022-10-06
+Vasastan,"Roslagsgatan 35A, 1tr",4375000,106707,1979.0,41,2022-10-06
+Vasastan,Tre Liljor 1,6050000,106140,2238.0,57,2022-10-06
+Södermalm,"Bergsundsgatan 4, 5tr",4455000,92813,1732.0,48,2022-10-06
+Vasastan,"Luntmakargatan 59, 5+6tr.",4750000,98958,3287.0,48,2022-10-05
+Vasastan,"Robert Almströmsgatan 9B, 2tr",6325000,117130,2435.0,54,2022-10-05
+Vasastan,Robert Almströmsgatan 12,5100000,127500,2261.0,40,2022-10-05
+Årsta,Åmänningevägen 10,3220000,58545,3730.0,55,2022-10-05
+Östermalm,"Grev Magnigatan 17C, 2 tr. över gården",7800000,125806,1992.0,62,2022-10-05
+Vasastan,Teknologgatan 11,4000000,90909,1710.0,44,2022-10-05
+Östermalm,Cardellgatan 5,6100000,129787,1950.0,47,2022-10-05
+Vasastan,"Norrbackagatan 15, 4tr.",5665000,99386,1556.0,57,2022-10-04
+Vasastan,"Frejgatan 51, 2tr",5425000,117935,2125.0,46,2022-10-04
+Östermalm,Stureparken 11,6400000,123077,1600.0,52,2022-10-04
+Vasastan,"Sveavägen 97, 3 tr - Gårdsläge",4550000,104598,2057.0,43,2022-10-04
+Södermalm,"Åsögatan 175, 4tr",4450000,94681,2758.0,47,2022-10-04
+Södermalm,"Heleneborgsgatan 13B, 4 tr",5400000,96429,2974.0,56,2022-10-04
+Södermalm,Högbergsgatan 24,3430000,85750,2478.0,40,2022-10-04
+Södermalm,Allhelgonagatan 7,4700000,81034,2279.0,58,2022-10-04
+Södermalm,Katarina Bangata 61,4050000,109459,2332.0,37,2022-10-04
+Vasastan,Rödabergsgatan 9B,3950000,96341,2560.0,41,2022-10-04
+Södermalm,"Repslagargatan 23, vån 4",5250000,82031,2544.0,64,2022-10-04
+Vasastan,"Torsgatan 41, 4 tr",3750000,96154,1507.0,39,2022-10-04
+Fredhäll,"Rålambsvägen 48, 3tr, ACCEPTERAT PRIS",3050000,79221,2135.0,38,2022-10-03
+Årsta,Rämensvägen 26,2725000,61236,3213.0,44,2022-10-03
+Östermalm,Stureparken 11,6400000,123077,1600.0,52,2022-10-03
+Vasastan,"Roslagsgatan 45, 4 tr",3820000,115758,1874.0,33,2022-10-03
+Södermalm,"Bondegatan 79, mot gård!",3650000,86905,2195.0,42,2022-10-03
+Vasastan,"Vulcanusgatan 1, 2tr",4150000,101220,2026.0,41,2022-10-03
+Vasastan,Vidargatan 4,3800000,135714,1043.0,28,2022-10-03
+Södermalm,Repslagargatan 16,3800000,84444,3361.0,45,2022-10-02
+Östermalm,Lill-Jans Plan 3A,7200000,109091,2768.0,66,2022-10-02
+Fredhäll,"Stagneliusvägen 42, 4 tr av 4",4550000,85849,2728.0,53,2022-10-02
+Södermalm,"Folkungagatan 63 , 3,5 tr, mot gård!",5750000,112745,2618.0,51,2022-10-02
+Vasastan,"Torsgatan 39, vån 5 Accepterat Pris!",5950000,99167,1829.0,60,2022-10-02
+Östermalm,Styrmansgatan 14B,8500000,154545,2180.0,55,2022-10-01
+Vasastan,Roslagsgatan 23 B,6042000,100700,2299.0,60,2022-10-01
+Södermalm,"Bondegatan 50, 4 tr",3800000,88372,1777.0,43,2022-10-01
+Årsta,Sandfjärdsgatan 13,2700000,46957,3327.0,57,2022-09-30
+Fredhäll,Stagneliusvägen 26,3500000,72165,3227.0,48,2022-09-30
+Vasastan,"Hagagatan 18A ö.g, Accepterat Pris!",3400000,100000,1443.0,34,2022-09-30
+Vasastan,"Falugatan 14, 2tr",4300000,91489,2752.0,47,2022-09-30
+Södermalm,Ringvägen 135,3440000,90526,1314.0,38,2022-09-30
+Fredhäll,"Stagneliusvägen 43, 2 tr",4550000,78448,1408.0,58,2022-09-30
+Södermalm,Åsögatan 167,6550000,107377,3075.0,61,2022-09-30
+Vasastan,Ingemarsgatan 8,4600000,104545,1215.0,44,2022-09-30
+Vasastan,Norrbackagatan 44,7000000,106061,3282.0,66,2022-09-30
+Årsta,"Skagersvägen 11, 2 tr",2680000,60909,3094.0,44,2022-09-30
+Östermalm,Brahegatan 52,5450000,104808,2670.0,52,2022-09-30
+Vasastan,Vanadisvägen 7A,3700000,92500,1745.0,40,2022-09-30
+Årsta,Dellensvägen 11,2650000,50000,3829.0,53,2022-09-30
+Östermalm,"Karlavägen 53, 5 tr - Inkl garageplats!",6200000,140909,2215.0,44,2022-09-30
+Vasastan,Rödabergsbrinken 12,3500000,116667,1779.0,30,2022-09-30
+Södermalm,"Blekingegatan 38, 4 tr",4950000,81148,3034.0,61,2022-09-30
+Årsta,Dellensvägen 13,2940000,50690,4036.0,58,2022-09-29
+Vasastan,"Karlbergsvägen 54 0,5 TR",4000000,100000,2272.0,40,2022-09-29
+Södermalm,"Möregatan 10, 3 tr",3450000,101471,1926.0,34,2022-09-29
+Vasastan,Hälsingegatan 14C,5450000,99091,1644.0,55,2022-09-29
+Södermalm,"Mariatorget 8A, högst upp!",7650000,115909,1841.0,66,2022-09-29
+Södermalm,Brännkyrkagatan 54B,6800000,104615,3135.0,65,2022-09-29
+Vasastan,"Hälsingegatan 3A, ÖG",5250000,105000,1630.0,50,2022-09-29
+Årsta,Siljansvägen 7,2870000,64494,3494.0,44,2022-09-29
+Årsta,Årstavägen 127A,2070000,84490,1988.0,24,2022-09-29
+Vasastan,Sveavägen 99 - Gårdsläge,3875000,93373,1897.0,41,2022-09-29
+Årsta,"Sandfjärdsgatan 128, Accepterat pris",2800000,47458,4001.0,59,2022-09-28
+Södermalm,Eriksdalsgatan 17,5250000,99057,3034.0,53,2022-09-28
+Vasastan,"Norrbackagatan 70B, 3 tr",5900000,89394,3285.0,66,2022-09-28
+Södermalm,"Tjustgatan 3, 6 tr",4120000,95814,2688.0,43,2022-09-28
+Södermalm,Björngårdsgatan 16 B,7100000,110938,3061.0,64,2022-09-28
+Vasastan,"Vikingagatan 18 A, 2 tr",5565000,105000,945.0,53,2022-09-28
+Östermalm,Storgatan 36,6400000,72727,3497.0,88,2022-09-28
+Södermalm,"Grindsgatan 37, ACCEPTERAT PRIS",5250000,86066,2829.0,61,2022-09-28
+Södermalm,Marmorgatan 2,4750000,69343,3209.0,68,2022-09-28
+Södermalm,"Metargatan 3, 2tr",4200000,105000,784.0,40,2022-09-28
+Södermalm,Maria Prästgårdsgata 4,4225000,103049,2338.0,41,2022-09-28
+Vasastan,"Valentin Sabbats Gata 1, 6 tr",4770000,109655,2328.0,43,2022-09-28
+Södermalm,"Ölandsgatan 46, 3 tr",3750000,89286,2799.0,42,2022-09-28
+Vasastan,"David Bagares gata 22, 1tr",4500000,115385,1425.0,39,2022-09-27
+Östermalm,Lill-Jans plan 1B,4125000,108553,1605.0,38,2022-09-27
+Södermalm,Tjustgatan 2,3250000,83333,3401.0,39,2022-09-27
+Årsta,Hjälmarsvägen 3,2800000,60870,2608.0,46,2022-09-27
+Södermalm,"Katarina Bangata 61, 5 tr",3100000,93939,1946.0,33,2022-09-27
+Vasastan,Vulcanusgatan 3,3600000,90000,2363.0,40,2022-09-27
+Vasastan,"Hälsingegatan 15, 2tr",6100000,108929,2408.0,56,2022-09-27
+Årsta,Storsjövägen 46,2500000,56818,2796.0,44,2022-09-27
+Södermalm,Ljusterögatan 3,6050000,87681,4103.0,69,2022-09-27
+Södermalm,"Ringvägen 127A, 2 tr",5700000,93443,2177.0,61,2022-09-26
+Östermalm,Gyllenstiernsgatan 7,6100000,89051,2873.0,68,2022-09-26
+Vasastan,"Gästrikegatan 18A, 2tr",6500000,118182,1939.0,55,2022-09-26
+Södermalm,"Ringvägen 139 B, 5 / 5 tr",4900000,100000,3358.0,49,2022-09-26
+Årsta,Eklångsvägen 33,2720000,61818,2569.0,44,2022-09-26
+Vasastan,Torsplan 8,6850000,120175,3593.0,57,2022-09-26
+Vasastan,"Falugatan 14, 1,5tr",3950000,109722,2338.0,36,2022-09-25
+Vasastan,"Gävlegatan 4, 1tr",7000000,100000,2843.0,70,2022-09-25
+Vasastan,"Norra Stationsgatan 53, 5tr - Accepterat pris!",3030000,84167,1836.0,36,2022-09-25
+Vasastan,"Karlbergsvägen 48A, 3tr över gård",5495000,114479,2331.0,48,2022-09-25
+Vasastan,Gävlegatan 7,4400000,102326,1705.0,43,2022-09-25
+Vasastan,Torsgatan 41,4050000,103846,1507.0,39,2022-09-24
+Södermalm,Renstiernas Gata 30,3350000,79762,2206.0,42,2022-09-24
+Södermalm,"Hornsgatan 94, 1 tr",4100000,78846,2787.0,52,2022-09-24
+Södermalm,Tideliusgatan 11 4tr.,5500000,87302,1721.0,63,2022-09-24
+Årsta,Sköntorpsvägen 53,2600000,54968,2920.0,47,2022-09-23
+Fredhäll,Palmbladsvägen 2,3400000,72340,2960.0,47,2022-09-23
+Årsta,Rämensvägen 43,2800000,62222,3360.0,45,2022-09-23
+Vasastan,Vikingagatan 15,5300000,101923,2791.0,52,2022-09-23
+Vasastan,Dalagatan 76A,6600000,115789,3626.0,57,2022-09-23
+Södermalm,Bjurholmsplan 23,4350000,94565,3309.0,46,2022-09-23
+Östermalm,"Skeppargatan 26, 5 tr -  inkl garageplats!",5800000,141463,309.0,41,2022-09-23
+Södermalm,"Slipgatan 9, 7 tr",4900000,115294,2561.0,42,2022-09-23
+Vasastan,Sonja Kovalevskys Gata 11,6300000,100000,3150.0,63,2022-09-23
+Vasastan,Roslagsgatan 39A,4100000,109333,1561.0,37,2022-09-22
+Årsta,"Borensvägen 40, 3tr",2600000,65000,2957.0,40,2022-09-22
+Vasastan,Roslagsgatan 27,5400000,112500,2040.0,48,2022-09-22
+Vasastan,Vanadisvägen 7,5625000,93750,2720.0,60,2022-09-22
+Södermalm,"Hornsgatan 154, 1 tr",5000000,94340,2462.0,53,2022-09-22
+Årsta,Bråviksvägen 16,3000000,55556,3785.0,54,2022-09-22
+Södermalm,"Magnus Ladulåsgatan 29, 3 tr",4150000,72807,2630.0,57,2022-09-22
+Vasastan,Falugatan 18,4210000,110789,2253.0,38,2022-09-21
+Vasastan,Västmannagatan 71A,6500000,114035,2032.0,57,2022-09-21
+Södermalm,"Tjärhovsgatan 50, 4tr",4720000,112381,1431.0,42,2022-09-21
+Södermalm,Ringvägen 104 3 tr,4410000,80182,1622.0,55,2022-09-21
+Södermalm,"Västgötagatan 22, 4 tr",3830000,98205,2146.0,39,2022-09-21
+Vasastan,"Torsgatan 61, 4tr",6350000,105833,3025.0,60,2022-09-21
+Södermalm,Brännkyrkagatan 55,4975000,85776,3391.0,58,2022-09-21
+Östermalm,Kaptensgatan 15,6650000,133000,2325.0,50,2022-09-21
+Östermalm,Skeppargatan 70A,4850000,127632,1885.0,38,2022-09-21
+Södermalm,"Ljusterögatan 5, 2 tr.",4100000,82000,3195.0,50,2022-09-21
+Östermalm,"Uggelviksgatan 13, 2 tr",6900000,143750,1836.0,48,2022-09-21
+Östermalm,Jungfrugatan 43B,7300000,125862,2284.0,58,2022-09-21
+Vasastan,"Surbrunnsgatan 4, 3tr",6565000,117232,2428.0,56,2022-09-21
+Östermalm,Uggelviksgatan 13,10050000,124074,2958.0,81,2022-09-21
+Årsta,"Siljansvägen 42, vån 3 / 3",3050000,68539,3217.0,44,2022-09-21
+Årsta,Sköntorpsvägen 112,2960000,56923,2952.0,52,2022-09-20
+Vasastan,"Vikingagatan 41, 2tr",4400000,89796,2499.0,49,2022-09-20
+Årsta,"Sandfjärdsgatan 128, vån. 3 / 3",2900000,49153,4042.0,59,2022-09-20
+Östermalm,Wittstocksgatan 3C,9650000,158197,813.0,61,2022-09-20
+Vasastan,"Döbelnsgatan 52, 4tr",4690000,90192,2123.0,52,2022-09-20
+Södermalm,"Erstagatan 26, 5 Tr",5300000,120455,2261.0,44,2022-09-20
+Fredhäll,"Adlerbethsgatan 17, 4tr",4475000,97283,2630.0,46,2022-09-19
+Vasastan,Torsgatan 27,6000000,100000,2923.0,60,2022-09-19
+Vasastan,Völundsgatan 3,3950000,98750,2329.0,40,2022-09-19
+Vasastan,Torsgatan 69,6400000,110345,2717.0,58,2022-09-19
+Vasastan,Tomtebogatan 27,5210000,110851,2217.0,47,2022-09-19
+Årsta,Malgomajvägen 9,2800000,49123,3603.0,57,2022-09-19
+Södermalm,"Metargatan 3, 3tr",4315000,110641,784.0,39,2022-09-19
+Årsta,"Sköntorpsvägen 69, 2tr",2950000,69087,2550.0,42,2022-09-18
+Södermalm,"Bondegatan 74 C, 1 ½ tr",5670000,101250,3261.0,56,2022-09-18
+Östermalm,Birger Jarlsgatan 104F,4150000,98810,2878.0,42,2022-09-17
+Vasastan,"Tomtebogatan 26, 3tr",6525000,118852,3061.0,54,2022-09-16
+Östermalm,Erik Dahlbergsallén 11,5700000,121277,1530.0,47,2022-09-16
+Södermalm,Ringvägen 162,4400000,95652,2400.0,46,2022-09-16
+Södermalm,Heleneborgsgatan 5B,6500000,97015,3776.0,67,2022-09-16
+Södermalm,Tideliusgatan 67,2700000,87097,1244.0,31,2022-09-16
+Södermalm,Bergsunds Strand 34,3700000,90244,1997.0,41,2022-09-16
+Södermalm,"Slipgatan 11, 1 tr",3400000,91892,2566.0,37,2022-09-16
+Årsta,"Svärdlångsvägen 51, 2 tr",2360000,61299,3159.0,38,2022-09-16
+Årsta,Sköntorpsvägen 71,2750000,64403,2472.0,42,2022-09-16
+Södermalm,Ölandsgatan 48,4000000,95238,1700.0,42,2022-09-16
+Vasastan,"Upplandsgatan 77A, 3tr",6950000,128704,2768.0,54,2022-09-15
+Södermalm,Södermannagatan 76,3150000,76829,2207.0,41,2022-09-15
+Årsta,Rämensvägen 29B,3700000,71154,3167.0,52,2022-09-15
+Södermalm,"Maria Prästgårdsgata 8, 1tr",3235000,101094,2032.0,32,2022-09-15
+Vasastan,"Vegagatan 15, BV",5500000,110000,1106.0,50,2022-09-15
+Södermalm,"Långholmsgatan 11A, 3 tr",5075000,92273,2748.0,55,2022-09-15
+Södermalm,Assessorsgatan 18E,5360000,81212,2425.0,66,2022-09-15
+Östermalm,"Lill-jans plan 1B, 3 tr Ö.G",6750000,140625,1902.0,48,2022-09-15
+Fredhäll,"Frödingsvägen 6, 2 tr",3400000,79070,1851.0,43,2022-09-15
+Östermalm,Majorsgatan 6 - FAST PRIS,6750000,120536,389.0,56,2022-09-15
+Södermalm,Swedenborgsgatan 6A,7700000,116667,1773.0,66,2022-09-15
+Södermalm,"Rosenlundsgatan 28A, 4tr",4075000,110135,1074.0,37,2022-09-15
+Vasastan,Gävlegatan 26,5450000,99091,2750.0,55,2022-09-14
+Årsta,Siljansvägen 24,2810000,63146,3127.0,44,2022-09-14
+Fredhäll,"Frödingsvägen 2, 1,5 tr",3850000,75490,2423.0,51,2022-09-14
+Vasastan,"Teknologgatan 8C, 2tr",7450000,130702,3830.0,572,2022-09-14
+Södermalm,Hornsgatan 29F,5700000,116327,2213.0,49,2022-09-14
+Vasastan,"Idungatan 7C, 3 tr",4175000,112838,1462.0,37,2022-09-14
+Södermalm,"Maria Bangata 2B, 4tr. ACCEPTERAT PRIS",3775000,104861,1950.0,36,2022-09-14
+Södermalm,Folkungagatan 97,5800000,112621,2009.0,51,2022-09-14
+Östermalm,Styrmansgatan 23A,6750000,135000,2724.0,50,2022-09-14
+Vasastan,Vanadisvägen 28,5750000,97458,2428.0,59,2022-09-14
+Vasastan,Frejgatan 10,6495000,110085,1213.0,59,2022-09-14
+Vasastan,Torsgatan 42D,4500000,112500,2179.0,40,2022-09-14
+Södermalm,"Rutger Fuchsgatan 4A, 3tr",3550000,98611,1758.0,36,2022-09-14
+Fredhäll,"Frödingsvägen 2, 2 tr",3825000,88953,2043.0,43,2022-09-14
+Vasastan,"Tegnérgatan 55D, 3tr",5325000,104412,3149.0,51,2022-09-14
+Vasastan,Atlasgatan 3,7650000,121429,2875.0,63,2022-09-14
+Fredhäll,"Fredhällsgatan 7, 2 tr",4210000,91522,2239.0,46,2022-09-13
+Södermalm,Tavastgatan 43,4950000,103125,2354.0,48,2022-09-13
+Fredhäll,Runiusgatan 7,3300000,86842,1633.0,38,2022-09-13
+Vasastan,Roslagsgatan 36 a,4768000,113524,1752.0,42,2022-09-13
+Vasastan,Kungstensgatan 46,4500000,95745,1201.0,47,2022-09-13
+Östermalm,Nybrogatan 83,5100000,115909,1950.0,44,2022-09-13
+Vasastan,"Karlbergsvägen 71B, 3 tr",4100000,113889,1794.0,36,2022-09-13
+Södermalm,Katarina Bangata 59C,3900000,108333,2294.0,36,2022-09-13
+Södermalm,Sankt Paulsgatan 28 a,6100000,107018,3272.0,57,2022-09-13
+Vasastan,Birger Jarlsgatan 79,9150000,142969,1402.0,64,2022-09-13
+Östermalm,Valhallavägen 22B,5225000,93304,2973.0,56,2022-09-13
+Vasastan,"Hälsingegatan 8A, 5tr.",4500000,145161,1135.0,31,2022-09-12
+Södermalm,"Lundagatan 40A, 1 tr",4645000,91980,2392.0,50,2022-09-11
+Södermalm,"Bergsunds strand 5, 3 tr",3700000,105714,2364.0,35,2022-09-11
+Östermalm,Floragatan 7,5260000,146111,1237.0,36,2022-09-10
+Södermalm,Grindsgatan 29,3680000,80000,2285.0,46,2022-09-10
+Vasastan,"Vulcanusgatan 13, 1tr",4150000,109211,1986.0,38,2022-09-09
+Vasastan,"Falugatan 16, 2 tr",5400000,110204,2906.0,49,2022-09-09
+Vasastan,"Frejgatan 50, 3 tr",5400000,114894,2553.0,47,2022-09-09
+Östermalm,Artillerigatan 26B,5000000,119048,1911.0,42,2022-09-09
+Årsta,Siljansvägen 33,2900000,64444,3242.0,45,2022-09-09
+Östermalm,Sibyllegatan 50A,7300000,115873,2502.0,63,2022-09-09
+Vasastan,Rörstrandsgatan 38A,4350000,114474,1904.0,38,2022-09-09
+Östermalm,Storgatan 30A,6200000,112727,1708.0,55,2022-09-09
+Södermalm,"Fatburstrappan 18, 11 tr",5300000,92982,4019.0,57,2022-09-09
+Vasastan,Karlbergsvägen 32B,6700000,100000,2461.0,67,2022-09-09
+Vasastan,"Sveavägen 140, 4 tr",7900000,105333,1875.0,75,2022-09-09
+Årsta,Sandfjärdsgatan 134,2900000,48739,3980.0,59,2022-09-08
+Fredhäll,Atterbomsvägen 28,3850000,85556,2639.0,45,2022-09-08
+Södermalm,"Hornsgatan 70, vind mot gård",6650000,120909,3218.0,55,2022-09-08
+Södermalm,"Bergsunds Strand 36, 3tr",4250000,98837,2075.0,43,2022-09-08
+Vasastan,Norrtullsgatan 63,4800000,85714,2800.0,56,2022-09-08
+Årsta,Slätbaksvägen 6,3010000,67640,2426.0,44,2022-09-08
+Östermalm,Östermalmsgatan 57,7360000,120656,2738.0,61,2022-09-08
+Östermalm,Grevgatan 47,6200000,134783,1331.0,46,2022-09-08
+Södermalm,"Östgötagatan 66, 5tr",3145000,116481,743.0,27,2022-09-08
+Östermalm,"Valhallavägen 14A, 2 tr - Accepterat pris!",4100000,95349,1633.0,43,2022-09-08
+Fredhäll,"Ernst Ahlgrens väg 10, 3tr",4000000,97561,2173.0,41,2022-09-08
+Årsta,Långhalsvägen 20,3600000,74227,2896.0,48,2022-09-08
+Östermalm,Linnégatan 94,4550000,113750,2291.0,40,2022-09-08
+Årsta,"Tämnarvägen 28, ACCEPTERAT PRIS",3100000,56364,3100.0,55,2022-09-07
+Östermalm,Styrmansgatan 5A,8750000,143443,2723.0,61,2022-09-07
+Södermalm,"Anders Reimers Väg 11, 2 tr",5300000,106000,3540.0,50,2022-09-07
+Södermalm,"Svartensgatan 8 B, 1 tr, ö.g.",5930000,98833,2049.0,60,2022-09-07
+Östermalm,"Birger Jarlsgatan 78, 3tr",5600000,128736,1353.0,43,2022-09-07
+Östermalm,Nybrogatan 38A,7850000,130833,2421.0,60,2022-09-07
+Vasastan,Drottning Kristinas väg 11,3950000,80612,1722.0,49,2022-09-07
+Årsta,"Borensvägen 13, vån 3 / 3",3035000,65978,2464.0,46,2022-09-07
+Östermalm,Skeppargatan 21A,5700000,121277,0.0,47,2022-09-07
+Årsta,Sköntorpsvägen 63,2875000,60782,2785.0,47,2022-09-07
+Södermalm,Krukmakargatan 71,5200000,77612,2723.0,67,2022-09-07
+Södermalm,Lundagatan 50,3700000,105714,1817.0,35,2022-09-07
+Årsta,Skagersvägen 16,2650000,59551,3119.0,44,2022-09-07
+Vasastan,"Dalagatan 86H, 1tr",5410000,110408,2724.0,49,2022-09-06
+Vasastan,"Karlbergsvägen 54, 1,5tr",4950000,110000,2456.0,45,2022-09-06
+Vasastan,"Dalagatan 23 A, 3tr över gård",5700000,126667,1784.0,45,2022-09-06
+Södermalm,"Södermannagatan 8, 3tr",6200000,112727,2186.0,55,2022-09-06
+Södermalm,Krukmakarbacken 4B,4995000,80565,2258.0,62,2022-09-06
+Vasastan,"Roslagsgatan 42C, 3tr",6700000,109836,3320.0,61,2022-09-06
+Södermalm,"Timmermansgatan 37, 3tr",3200000,91429,1997.0,35,2022-09-06
+Vasastan,Markvardsgatan 11,6260000,102623,1600.0,61,2022-09-06
+Årsta,Bolmensvägen 13,2815000,61196,3522.0,46,2022-09-06
+Fredhäll,"Stagneliusvägen 28, 3 tr",3180000,90857,2468.0,35,2022-09-06
+Vasastan,"Tre Liljor 2B, 3tr",5050000,103061,2783.0,49,2022-09-06
+Östermalm,Grevgatan 19,5350000,140789,1646.0,38,2022-09-06
+Vasastan,"Sigtunagatan 13A, 1tr",3700000,123333,983.0,30,2022-09-06
+Vasastan,"Vanadisvägen 26 B, 2 tr",5475000,116489,2080.0,47,2022-09-06
+Vasastan,Birkagatan 19,5150000,128750,1484.0,40,2022-09-06
+Vasastan,Vanadisvägen 11,5800000,87879,2270.0,66,2022-09-06
+Årsta,"Sköntorpsvägen 1, 4tr",3950000,66949,2466.0,59,2022-09-05
+Vasastan,"Karlbergsvägen 72B, 2 tr.",5650000,110784,2103.0,51,2022-09-05
+Vasastan,Hälsingegatan 7 A,4400000,137500,1240.0,32,2022-09-05
+Södermalm,"Grindsgatan 37, 5tr",3970000,96829,1902.0,41,2022-09-05
+Vasastan,"Norrbackagatan 33, våning 3",5000000,75758,3521.0,66,2022-09-04
+Vasastan,"Torsgatan 43, 6 tr",4200000,110526,1374.0,38,2022-09-03
+Södermalm,"Svartensgatan 26, 2tr",4375000,128676,1974.0,34,2022-09-03
+Årsta,Marviksvägen 7,4500000,69767,3849.0,64,2022-09-02
+Vasastan,Tegnérgatan 16,4750000,107955,773.0,44,2022-09-02
+Södermalm,Bondegatan 1B,4400000,133333,1745.0,33,2022-09-02
+Årsta,"Bränningevägen 3, 3 tr",3000000,55556,3122.0,54,2022-09-02
+Fredhäll,Stagneliusvägen 43,4700000,81034,1408.0,58,2022-09-02
+Årsta,"Sköntorpsvägen 111, 2tr",2800000,68293,3144.0,41,2022-09-01
+Årsta,Skagersvägen 13,2500000,58140,2847.0,43,2022-09-01
+Fredhäll,Rålambsvägen 69,3175000,85811,2264.0,37,2022-09-01
+Vasastan,"Robert Almströmsgatan 4, 5tr",6150000,116038,2829.0,53,2022-09-01
+Vasastan,Tomtebogatan 3,5200000,136842,1052.0,38,2022-09-01
+Södermalm,"Timotejgatan 6, vån 3",2845000,80141,2086.0,35,2022-09-01
+Årsta,"Åmänningevägen 18, 1 tr",3100000,54386,3670.0,57,2022-09-01
+Vasastan,"Hälsingegatan 3, 2 tr ög",7000000,127273,1882.0,55,2022-09-01
+Södermalm,"Heleneborgsgatan 7A, 2tr, Accepterat pris!",6210000,92687,3009.0,67,2022-09-01
+Årsta,"Gullmarsvägen 29, 1 tr",3200000,57143,3827.0,56,2022-09-01
+Vasastan,Sveavägen 133,3700000,97368,1868.0,38,2022-09-01
+Östermalm,Odengatan 12A,5500000,119565,990.0,46,2022-09-01
+Vasastan,Teknologgatan 9D,5400000,116129,2042.0,46,2022-09-01
+Södermalm,"Doktor Abelins gata 2, 4 tr",5000000,106383,2685.0,47,2022-09-01
+Årsta,Ottsjövägen 25,3195000,53250,3981.0,60,2022-08-31
+Östermalm,Grevgatan 49,4900000,122500,2120.0,40,2022-08-31
+Vasastan,Birkagatan 32,7400000,115625,1313.0,64,2022-08-31
+Vasastan,Rörstrandsgatan 14A,6225000,115278,1757.0,54,2022-08-31
+Södermalm,"Högbergsgatan 22, 2tr",4495000,95638,2813.0,47,2022-08-31
+Östermalm,"Körsbärsvägen 10, 3tr",3650000,104286,1608.0,35,2022-08-31
+Södermalm,"Hornsgatan 149, 7 tr",4750000,105556,2580.0,45,2022-08-31
+Södermalm,"Bergsundsgatan 19, 4 tr",4240000,94222,2527.0,45,2022-08-31
+Södermalm,"Ploggatan 2, 3tr",3800000,100000,2295.0,38,2022-08-31
+Östermalm,Roslagstullsbacken 18,4450000,69969,3418.0,63,2022-08-30
+Vasastan,Gävlegatan 32,4450000,80909,2750.0,55,2022-08-30
+Vasastan,"Gävlegatan 26, vån 10",4825000,109659,2200.0,44,2022-08-30
+Årsta,Siljansvägen 67,3150000,55752,3718.0,56,2022-08-30
+Östermalm,Nybrogatan 19B,7890000,140893,2200.0,56,2022-08-30
+Vasastan,"Tomtebogatan 28 A, 4tr",7050000,117500,1712.0,60,2022-08-29
+Fredhäll,Frödingsvägen 6,3495000,72813,2152.0,48,2022-08-29
+Vasastan,Vegagatan 6A,5200000,108333,2249.0,48,2022-08-29
+Östermalm,"Karlavägen 61A, 4 tr",6600000,143478,1224.0,46,2022-08-29
+Södermalm,"Folkungagatan 130, 5 tr",6600000,106452,3067.0,62,2022-08-29
+Södermalm,"Lundagatan 39A, 2 tr",3650000,107353,2484.0,34,2022-08-29
+Vasastan,Tre Liljor 2B,4800000,117073,2186.0,41,2022-08-28
+Vasastan,Hälsingegatan 61,6600000,104762,3150.0,63,2022-08-27
+Östermalm,Nybrogatan 70A,4650000,136765,1557.0,34,2022-08-27
+Fredhäll,Rålambsvägen 52,3120000,76098,2173.0,41,2022-08-26
+Årsta,Siljansvägen 51 - ACCEPTERAT PRIS,2850000,53271,3556.0,53,2022-08-26
+Södermalm,Åsögatan 174 *Accept pris*,4030000,87609,2394.0,46,2022-08-26
+Östermalm,Nybrogatan 62,5400000,131707,1072.0,41,2022-08-26
+Vasastan,"Birkagatan 10, 3tr",6675000,104297,1472.0,64,2022-08-26
+Södermalm,Tideliusgatan 33,3850000,89535,1158.0,43,2022-08-26
+Årsta,Tämnarvägen 20,2915000,63370,2657.0,46,2022-08-26
+Årsta,Slätbaksvägen 25,2875000,67647,2452.0,42,2022-08-26
+Södermalm,Allhelgonagatan 7,4325000,86500,2011.0,50,2022-08-26
+Östermalm,"Artillerigatan 33, 5 tr",5100000,134211,1671.0,38,2022-08-26
+Årsta,Årstavägen 14,2285000,51932,3205.0,44,2022-08-25
+Årsta,"Gullmarsvägen 27, ACCEPTERAT PRIS",3750000,62500,3517.0,60,2022-08-25
+Vasastan,Vikingagatan 27,5470000,111633,2183.0,49,2022-08-25
+Årsta,Årstavägen 101,3370000,62407,3591.0,54,2022-08-25
+Östermalm,"Karlaplan 5B, 2tr, ÖG",6500000,135417,2924.0,48,2022-08-25
+Södermalm,"Långholmsgatan 17, 6tr",4550000,74590,3008.0,61,2022-08-25
+Södermalm,Tobaksspinnargatan 10,4470000,89400,2648.0,50,2022-08-25
+Fredhäll,"Frödingsvägen 5, 2tr",3800000,95000,2173.0,40,2022-08-25
+Södermalm,Åsögatan 96,4000000,93023,2181.0,43,2022-08-25
+Årsta,"Borensvägen 1, 4 tr",3350000,64423,3809.0,52,2022-08-25
+Vasastan,"Tomtebogatan 51, 3tr",7050000,113710,3218.0,62,2022-08-24
+Vasastan,Rörstrandsgatan 14,7000000,107692,2137.0,65,2022-08-24
+Södermalm,Möregatan 7,3740000,101081,2656.0,37,2022-08-24
+Östermalm,Grev Magnigatan 10A,6100000,138636,2142.0,44,2022-08-24
+Östermalm,Styrmansgatan 49,5000000,113636,3119.0,44,2022-08-24
+Östermalm,"Grev Turegatan 80, BV",7150000,119167,2332.0,60,2022-08-24
+Södermalm,Brännerigatan 5,5070000,97500,2913.0,52,2022-08-24
+Östermalm,Birger Jarlsgatan 104M,5300000,106000,3612.0,50,2022-08-23
+Årsta,Årstavägen 71,3000000,67416,3127.0,44,2022-08-23
+Vasastan,"Sveavägen 97, vindsvåning",7900000,121538,2726.0,65,2022-08-23
+Södermalm,"Folkskolegatan 5, 2 tr",3550000,107576,2359.0,33,2022-08-23
+Södermalm,"Åsögatan 92, 5 tr",3600000,105882,2021.0,34,2022-08-23
+Södermalm,"Folkungagatan 63, 2,5 tr mot gård!",6000000,117647,2618.0,51,2022-08-23
+Vasastan,"Hälsingehöjden 11, 5tr",8300000,136066,2359.0,61,2022-08-23
+Vasastan,Sankt eriksgatan 101,5350000,111458,2008.0,48,2022-08-22
+Vasastan,Sveavägen 99 - Gårdsläge,4350000,106098,1928.0,41,2022-08-22
+Södermalm,"Högalidsgatan 48A, 3.5 tr",6600000,110000,2872.0,60,2022-08-22
+Vasastan,Ingemarsgatan 3A,3650000,98649,1927.0,37,2022-08-21
+Årsta,Årstavägen 99,3410000,63148,3591.0,54,2022-08-20
+Södermalm,"Folkungagatan 114, 2 tr",3635000,98243,1740.0,37,2022-08-20
+Vasastan,"Sonja Kovalevskys gata 3, 3tr",5470000,107255,2550.0,51,2022-08-19
+Södermalm,Tideliusgränd 11,4000000,95238,2702.0,42,2022-08-19
+Årsta,Bolmensvägen 33,2600000,63415,2998.0,41,2022-08-19
+Vasastan,Ynglingagatan 17 - ACCEPTERAT PRIS,4450000,96739,2686.0,46,2022-08-19
+Årsta,Möckelvägen 23,3100000,65957,2457.0,47,2022-08-19
+Årsta,Årstavägen 103,3200000,54701,3591.0,58,2022-08-18
+Vasastan,Upplandsgatan 71,6060000,106316,1889.0,57,2022-08-18
+Årsta,"Borensvägen 38, 2tr",2870000,66744,3047.0,43,2022-08-18
+Vasastan,"Observatoriegatan 9, 1,5tr",6000000,103448,2867.0,58,2022-08-18
+Vasastan,"Roslagsgatan 25, 1tr",3700000,102778,2405.0,36,2022-08-18
+Vasastan,Dalagatan 41,7300000,123729,2733.0,59,2022-08-18
+Vasastan,Dalagatan 74B,5990000,108909,2902.0,55,2022-08-18
+Södermalm,"Heleneborgsgatan 52, 5 tr",7000000,111643,2757.0,62,2022-08-18
+Vasastan,"Ynglingagatan 26, 2 tr",5550000,95690,1874.0,58,2022-08-18
+Södermalm,"Anders Reimers väg 13, 3 tr",5010000,104375,3318.0,48,2022-08-18
+Södermalm,Bjurholmsplan 17,5400000,85714,2814.0,63,2022-08-17
+Södermalm,"Krukmakargatan 6, 7 tr",5850000,100862,2646.0,58,2022-08-17
+Södermalm,Brännkyrkagatan 66,4010000,105526,1525.0,38,2022-08-17
+Södermalm,Bergsunds Strand 34,5400000,90000,2829.0,60,2022-08-17
+Södermalm,"Tantogatan 43, 5 tr",3500000,82353,2062.0,42,2022-08-17
+Vasastan,Sankt Eriksplan 13,5350000,104902,2748.0,51,2022-08-17
+Södermalm,Kristinehovsgatan 5A,3100000,88571,2219.0,35,2022-08-17
+Årsta,Siljansvägen 39,2500000,50000,3530.0,50,2022-08-17
+Södermalm,"Maria Prästgårdsgata 24, 3 tr",4470000,120485,2088.0,37,2022-08-17
+Södermalm,"Gotlandsgatan 64, 4 tr",4700000,111905,2270.0,42,2022-08-17
+Årsta,"Hjälmarsvägen 1, 3 tr",3000000,70258,2683.0,42,2022-08-17
+Södermalm,Rosenlundsgatan 12,4995000,96990,2242.0,51,2022-08-17
+Södermalm,"Ringvägen 62, 6tr",3580000,89500,2225.0,40,2022-08-17
+Vasastan,Gävlegatan 11,3960000,104211,1452.0,38,2022-08-16
+Vasastan,"Gävlegatan 26, 3tr",3890000,97250,2000.0,40,2022-08-16
+Vasastan,"Gävlegatan 9, 4tr",4800000,109091,1741.0,44,2022-08-16
+Vasastan,"Torsgatan 42C, Ö.G",4200000,106329,2304.0,39,2022-08-16
+Vasastan,"Frejgatan 18, 4 tr",3850000,87500,2043.0,44,2022-08-16
+Vasastan,Vulcanusgatan 10,4625000,118590,2023.0,39,2022-08-16
+Vasastan,"Sigtunagatan 14A, 2 tr",5250000,134615,1492.0,39,2022-08-15
+Vasastan,"Hagagatan 1, vån 6",5125000,85417,2780.0,60,2022-08-15
+Vasastan,"Kammakargatan 21, vån 5",6300000,134043,3283.0,47,2022-08-15
+Vasastan,"Norra Stationsgatan 119, 6tr Vind under produktion",6750000,122727,3208.0,55,2022-08-14
+Östermalm,Grev Turegatan 50,7300000,128070,1867.0,57,2022-08-13
+Fredhäll,Stagneliusvägen 30,3350000,82716,2815.0,40,2022-08-13
+Vasastan,"Bråvallagatan 3, 2tr",4500000,107143,2785.0,42,2022-08-12
+Vasastan,"Tulegatan 43,  6 tr",5900000,98333,2397.0,60,2022-08-12
+Östermalm,Linnégatan 94,4100000,128125,1718.0,32,2022-08-12
+Vasastan,Valhallavägen 22B,4850000,88182,2973.0,55,2022-08-12
+Vasastan,Norrbackagatan 15,5780000,113333,1289.0,51,2022-08-12
+Södermalm,Assessorsgatan 6,3685000,92125,2594.0,40,2022-08-12
+Östermalm,Grev Turegatan 8A - ACCEPTERAT PRIS,7850000,142727,1868.0,55,2022-08-11
+Fredhäll,Stagneliusvägen 42,3700000,86047,2227.0,43,2022-08-11
+Årsta,Årstavägen 107,3200000,58716,3544.0,54,2022-08-11
+Vasastan,"Hagaesplanaden 63, vån 6",4400000,102326,2452.0,43,2022-08-10
+Östermalm,Kaptensgatan 15 A,5800000,128889,2151.0,45,2022-08-10
+Vasastan,"Vanadisplan 1, 3tr",4925000,109444,1822.0,45,2022-08-10
+Fredhäll,"Vitalisvägen 11, vån 2",3400000,89474,2025.0,38,2022-08-10
+Vasastan,Gävlegatan 26,5100000,92727,2750.0,55,2022-08-10
+Fredhäll,"Rålambsvägen 69, 1 tr",3200000,86486,2537.0,37,2022-08-10
+Södermalm,Tavastgatan 24,3500000,89744,2500.0,39,2022-08-09
+Södermalm,Gotlandsgatan 60 (Gårdsläge!),2995000,99833,1597.0,30,2022-08-09
+Södermalm,"Heleneborgsgatan 40, 5 tr",4400000,110000,2283.0,40,2022-08-09
+Vasastan,"Birkagatan 26, 1,5tr",4250000,125000,1713.0,34,2022-08-09
+Årsta,"Hjälmarsvägen 1, 2 tr",2900000,67916,2625.0,42,2022-08-09
+Vasastan,"Hagagatan 50A, 2tr",6500000,114035,3384.0,57,2022-08-09
+Östermalm,"Runebergsgatan 6, Ö.g",7600000,118750,2433.0,64,2022-08-08
+Årsta,Storsjövägen 59,2700000,62791,2366.0,43,2022-08-08
+Södermalm,"Bergsundsgatan 16, BV",3350000,93056,2088.0,36,2022-08-08
+Södermalm,Tjurbergsgatan 38,5600000,84848,3782.0,66,2022-08-06
+Årsta,"Slätbaksvägen 27, Accepterat pris!",2775000,65294,2573.0,42,2022-08-06
+Årsta,Årstavägen 73,2930000,60412,3441.0,48,2022-08-05
+Östermalm,Sibyllegatan 11A,5950000,121429,2771.0,49,2022-08-05
+Södermalm,Tengdahlsgatan 35,5550000,96522,3617.0,57,2022-08-05
+Södermalm,"Erstagatan 22, 5tr",6050000,107080,3146.0,56,2022-08-05
+Vasastan,Luntmakargatan 74,6100000,110909,3300.0,55,2022-08-05
+Södermalm,Wollmar Yxkullsgatan 48D,3775000,95570,2344.0,39,2022-08-04
+Vasastan,"Frejgatan 4, 4tr",6800000,104615,2953.0,65,2022-08-04
+Södermalm,Allhelgonagatan 15,5500000,90164,2576.0,61,2022-08-04
+Södermalm,"Västgötagränd 15, 3 tr",4900000,72059,4197.0,68,2022-08-04
+Östermalm,Östermalmsgatan 42A,6150000,130851,2076.0,47,2022-08-04
+Södermalm,Fatburs Kvarngata 11,5100000,76119,4276.0,67,2022-08-03
+Vasastan,Nina einhorns gata 7,4900000,91589,2571.0,53,2022-08-02
+Södermalm,Åsögatan 181,4475000,93229,2346.0,48,2022-08-02
+Årsta,Möckelvägen 3,3300000,82500,2228.0,40,2022-08-02
+Södermalm,"Högbergsgatan 50, 4 tr",4485000,99667,1184.0,45,2022-08-01
+Vasastan,Tomtebogatan 13B,4050000,103846,1528.0,39,2022-08-01
+Fredhäll,Vitalisvägen 3,3450000,82143,2290.0,42,2022-07-31
+Södermalm,"Katarina bangata 60, vån 5",5500000,93220,2616.0,59,2022-07-29
+Årsta,"Sköntorpsvägen 1, 7tr",3953000,67000,2285.0,59,2022-07-29
+Östermalm,"Riddargatan 20, 2tr",10225000,132792,2129.0,77,2022-07-28
+Vasastan,Rådmansgatan 75,3800000,105556,1799.0,36,2022-07-27
+Vasastan,"Sonja Kovalevskys gata 3, 5 tr",5150000,107292,2565.0,48,2022-07-27
+Fredhäll,Stagneliusvägen 23,4150000,87368,3330.0,47,2022-07-27
+Vasastan,Sonja Kovalevskys Gata 3,5225000,85656,3050.0,61,2022-07-27
+Vasastan,Birger Jarlsgatan 99B,5650000,113000,1390.0,50,2022-07-26
+Södermalm,"Gotlandsgatan 37, 4tr",5000000,83333,3539.0,60,2022-07-26
+Vasastan,Birger Jarlsgatan 120B - ACCEPTERAT PRIS,5150000,83065,1485.0,62,2022-07-25
+Årsta,Årstavägen 95,3020000,56449,3429.0,53,2022-07-24
+Vasastan,Roslagsgatan 55,5110000,105361,2664.0,48,2022-07-23
+Vasastan,Gävlegatan 9,3100000,84932,1524.0,36,2022-07-23
+Fredhäll,Vitalisvägen 13 - Accepterat pris!,3295000,82375,2114.0,40,2022-07-22
+Östermalm,"Sibyllegatan 26, 4 tr",4225000,117361,1470.0,36,2022-07-22
+Södermalm,"Magnus Ladulåsgatan 49, 1tr",3900000,78000,2375.0,50,2022-07-22
+Södermalm,Gotlandsgatan 60,3800000,80851,2502.0,47,2022-07-21
+Vasastan,Karlbergsvägen 78,3425000,118103,1508.0,29,2022-07-21
+Vasastan,Vulcanusgatan 4,4425000,113462,2198.0,39,2022-07-20
+Vasastan,Bråvallagatan 5,4500000,102273,2590.0,44,2022-07-20
+Östermalm,"Riddargatan 49A, 4tr",8000000,123077,1825.0,65,2022-07-20
+Årsta,"Bolmensvägen 1, 2 tr",3325000,61574,3216.0,54,2022-07-19
+Vasastan,"Observatoriegatan 12A, Gårdshus",5700000,118750,1536.0,48,2022-07-19
+Vasastan,Hagagatan 14A,6200000,95385,2712.0,65,2022-07-18
+Fredhäll,"Adlerbethsgatan 15, 3 tr-",4325000,94022,2543.0,46,2022-07-18
+Vasastan,Luntmakargatan 89,5425000,106373,2291.0,51,2022-07-17
+Vasastan,"Vulcanusgatan 4, 1,5 tr",4950000,123750,2220.0,40,2022-07-17
+Vasastan,"Torsgatan 52, 3 tr",6450000,121698,2297.0,53,2022-07-15
+Södermalm,Krukmakargatan 4,4020000,118235,1686.0,34,2022-07-15
+Vasastan,"Atlasgatan 9, 4 tr",3200000,100000,1720.0,32,2022-07-15
+Vasastan,Västmannagatan 74,7600000,116923,1779.0,65,2022-07-15
+Årsta,Borensvägen 16 ACCEPTERAT PRIS,2900000,55769,3402.0,52,2022-07-15
+Vasastan,"Birger Jarlsgatan 115A, 2 tr",4800000,88889,2373.0,54,2022-07-14
+Vasastan,Hagaesplanaden 63,4300000,100000,2452.0,43,2022-07-14
+Årsta,Årstavägen 72 - 4 / 6tr,3160000,57455,3464.0,55,2022-07-13
+Södermalm,Ringvägen 79,3750000,86207,1629.0,43,2022-07-13
+Södermalm,Tegelviksgatan 61 - med uteplats,3975000,74299,4363.0,53,2022-07-13
+Vasastan,"Torbjörn klockares gata 11, 3 tr",4165000,96860,2361.0,43,2022-07-13
+Södermalm,"Blekingegatan 4, 4tr",3700000,92500,1734.0,40,2022-07-13
+Fredhäll,"Frödingsvägen 5, 3 tr",3800000,95000,2195.0,40,2022-07-12
+Södermalm,"Ringvägen 35, 5 / 6 tr mot gård",4600000,88462,2680.0,52,2022-07-12
+Södermalm,"Tjustgatan 2, 4 tr",3400000,87179,3401.0,39,2022-07-12
+Vasastan,Norrtullsgatan 32,3650000,89024,2365.0,41,2022-07-12
+Södermalm,Rutger Fuchsgatan 9,2750000,91667,1861.0,30,2022-07-11
+Södermalm,"Tjustgatan 4, 4 tr",3200000,100000,2791.0,32,2022-07-10
+Årsta,Hjälmarsvägen 19 - Accepterat pris,3200000,59041,3189.0,54,2022-07-08
+Vasastan,"Ninni Kronbergs Gata 16, 2tr",4100000,100000,2361.0,41,2022-07-08
+Södermalm,"Folkungagatan 65, 3tr",4700000,87037,2841.0,54,2022-07-08
+Vasastan,Sankt Eriksgatan 118,5800000,93548,4220.0,62,2022-07-08
+Vasastan,"Tomtebogatan 1A, 2 tr",5600000,119149,1100.0,47,2022-07-07
+Södermalm,Gotlandsgatan 60,3825000,83152,2449.0,46,2022-07-07
+Vasastan,Sankt Eriksgatan 84,4400000,118919,1351.0,37,2022-07-07
+Vasastan,Sigtunagatan 19,5870000,122292,2020.0,48,2022-07-07
+Östermalm,Skeppargatan 58,7500000,111940,2627.0,67,2022-07-06
+Södermalm,Bergsundsgatan 21,3850000,89535,2287.0,43,2022-07-06
+Södermalm,Tantogatan 71,3540000,83294,2033.0,42,2022-07-06
+Östermalm,Artillerigatan 43,9100000,129078,3729.0,70,2022-07-06
+Östermalm,Grevgatan 57,7900000,125397,2653.0,63,2022-07-06
+Södermalm,"Katarina bangata 25, 4 tr",4500000,102273,2080.0,44,2022-07-05
+Södermalm,"Bergsunds Strand 15, 3 tr",4500000,107143,1741.0,42,2022-07-05
+Östermalm,Ruddammsbacken 28,6000000,92308,3629.0,65,2022-07-04
+Fredhäll,"Frödingsvägen 12, 2,5 tr",4495000,84811,3013.0,53,2022-07-04
+Fredhäll,"Ernst Ahlgrens väg 8, Högst upp",3700000,93671,2260.0,39,2022-07-04
+Årsta,"Tavelsjövägen 22, 3tr",3110000,53621,4304.0,58,2022-07-04
+Östermalm,Skeppargatan 20A,4300000,113158,1901.0,38,2022-07-01
+Södermalm,"Älvsborgsgatan 1, 1,5tr",3495000,89615,2557.0,39,2022-07-01
+Årsta,Slätbaksvägen 36,2420000,56279,3135.0,43,2022-07-01
+Vasastan,"Atlasmuren 16, 4 tr",4350000,98864,2272.0,44,2022-07-01
+Årsta,"Skagersvägen 5, 3 tr",3500000,61404,3778.0,57,2022-07-01
+Östermalm,Surbrunnsgatan 5,4825000,117683,1699.0,41,2022-07-01
+Södermalm,Ringvägen 161,4150000,103750,1292.0,40,2022-06-30
+Vasastan,"Karlbergsvägen 76, 2 tr - ACCEPTERAT PRIS",5400000,88525,2238.0,61,2022-06-30
+Vasastan,Birger Jarlsgatan 111C - Accepterat pris,6100000,108929,2520.0,56,2022-06-30
+Östermalm,Melodislingan 22,5000000,113636,3702.0,44,2022-06-29
+Vasastan,"Norrtullsgatan 36, 1,5 tr.",3795000,92561,2365.0,41,2022-06-29
+Årsta,"Sköntorpsvägen 49, 3 tr",2815000,59894,2845.0,47,2022-06-29
+Vasastan,"Torsgatan 31, 2 tr",3650000,121667,1620.0,30,2022-06-29
+Östermalm,Värtavägen 4,5295000,112660,2144.0,47,2022-06-29
+Årsta,"Skedviksvägen 1, ACCEPTERAT PRIS",3050000,54464,3237.0,56,2022-06-29
+Södermalm,"Vindragarvägen 4, 2 tr",4170000,99286,2429.0,42,2022-06-29
+Fredhäll,Vitalisvägen 6,3550000,92208,2048.0,38,2022-06-29
+Vasastan,"Torsgatan 25, 4tr",7495000,102671,3584.0,73,2022-06-28
+Vasastan,"Karlbergsvägen 51A, 2 tr ög",7300000,117742,2667.0,62,2022-06-28
+Vasastan,Frejgatan 42,4800000,96000,1918.0,50,2022-06-28
+Östermalm,Wittstocksgatan 2,7300000,121667,3117.0,60,2022-06-27
+Vasastan,"Norrtullsgatan 25 C, 4 tr",6250000,109649,2710.0,57,2022-06-27
+Årsta,Siljansvägen 33,2600000,57778,3242.0,45,2022-06-23
+Vasastan,Sveavägen 87,4800000,106667,2113.0,45,2022-06-23
+Årsta,Borensvägen 25,2750000,67073,2394.0,41,2022-06-23
+Årsta,Storsjövägen 41,3110000,59808,3195.0,52,2022-06-23
+Södermalm,"Bondegatan 16B, 3 tr",6000000,103448,2495.0,58,2022-06-23
+Fredhäll,Runiusgatan 5,3165000,85541,1590.0,37,2022-06-23
+Vasastan,Norrbackagatan 25B,5775000,96250,2694.0,60,2022-06-23
+Södermalm,"Lundagatan 50, 2 tr - Accepterat pris!",4250000,108974,1919.0,39,2022-06-23
+Vasastan,"Norrtullsgatan 63, fönster mot innergård",3995000,70088,2842.0,57,2022-06-22
+Vasastan,"Torsgatan 42A, 2tr",5300000,115217,2207.0,46,2022-06-22
+Fredhäll,"Adlerbethsgatan 15, 1tr",4200000,91304,2630.0,46,2022-06-22
+Årsta,Möckelvägen 22,2700000,58696,2990.0,46,2022-06-22
+Fredhäll,Ernst ahlgrens väg 5,3950000,87778,2351.0,45,2022-06-22
+Södermalm,Mariatorget 6A,7750000,115672,2680.0,67,2022-06-22
+Södermalm,Blekingegatan 36,3350000,79762,2167.0,42,2022-06-22
+Fredhäll,"Ernst Ahlgrens Väg 5, 1,5tr",4050000,90000,2460.0,45,2022-06-21
+Södermalm,"Malmgårdsvägen 30L, Vån 5",6000000,103448,3438.0,58,2022-06-21
+Södermalm,"Närkesgatan 2, 2 tr",5450000,97321,2250.0,56,2022-06-21
+Södermalm,Krukmakargatan 50A,5400000,93103,2644.0,58,2022-06-21
+Östermalm,Rådmansgatan 1B,7500000,138889,1583.0,54,2022-06-21
+Södermalm,"Klippgatan 14 F, 4tr",3850000,102667,2125.0,37,2022-06-21
+Årsta,Sandfjärdsgatan 130,3100000,52101,3980.0,59,2022-06-20
+Södermalm,Skinnarviksringen 20,5150000,91964,4230.0,56,2022-06-20
+Årsta,"Eklångsvägen 37, 2 tr",2840000,65287,2676.0,43,2022-06-20
+Södermalm,"Lindvallsplan 10, 6 tr",4400000,88000,3047.0,50,2022-06-20
+Vasastan,"Valhallavägen 38A, gårdshus",5000000,94340,2738.0,53,2022-06-19
+Årsta,Skälderviksplan 6,3000000,55556,4031.0,54,2022-06-18
+Fredhäll,"Frödingsvägen 7, 3 tr",3850000,93902,2173.0,41,2022-06-17
+Södermalm,Ölandsgatan 46,3750000,98684,2465.0,38,2022-06-17
+Östermalm,"Linnégatan 31, 5 tr",6300000,157500,1167.0,40,2022-06-17
+Vasastan,"Hälsingegatan 3A, 2 tr",6400000,119626,1802.0,53,2022-06-17
+Södermalm,Stigbergsgatan 32B,4900000,102083,2036.0,48,2022-06-17
+Vasastan,Västmannagatan 93,8020000,108378,3319.0,74,2022-06-16
+Vasastan,"Dalagatan 44 A, Gårdshus högst upp 3tr",5680000,129091,1316.0,44,2022-06-16
+Vasastan,"Roslagsgatan 42B, 2tr",5225000,102451,2667.0,51,2022-06-16
+Vasastan,"Sveavägen 87, 5tr -Vind",9200000,141538,2834.0,65,2022-06-16
+Vasastan,Roslagsgatan 49,5550000,101835,3236.0,54,2022-06-16
+Södermalm,Repslagargatan 10A,4950000,84615,4112.0,58,2022-06-16
+Södermalm,"Heleneborgsgatan 12A, 4 tr",8100000,124615,2185.0,65,2022-06-16
+Östermalm,"Brahegatan 3 A, 1,5 tr, Över Gård",5100000,118605,1792.0,43,2022-06-16
+Södermalm,"Timmermansgatan 44, 4 tr",4400000,104762,2584.0,42,2022-06-16
+Årsta,"Ottsjövägen 25, 4 tr",4100000,68333,3981.0,60,2022-06-16
+Fredhäll,"Fredhällsgatan 5, 3tr",4050000,90000,2239.0,45,2022-06-15
+Vasastan,Roslagsgatan 25,7420000,121639,3353.0,61,2022-06-15
+Södermalm,Åsögatan 98,4400000,146667,1901.0,30,2022-06-15
+Södermalm,"Ringvägen 83, gårdshus",5300000,106000,2639.0,50,2022-06-15
+Södermalm,"Katarina bangata 52, 4tr",5900000,100000,3010.0,59,2022-06-15
+Vasastan,Västmannagatan 87A,4695000,120385,2073.0,39,2022-06-15
+Vasastan,"Observatoriegatan 9, 1tr",4350000,127941,1680.0,34,2022-06-15
+Vasastan,Västmannagatan 27,7000000,111111,1704.0,63,2022-06-15
+Östermalm,Brahegatan 33 Gårdshus.,10000000,185185,2567.0,54,2022-06-15
+Vasastan,Observatoriegatan 12A,7750000,125000,2131.0,62,2022-06-14
+Södermalm,Krukmakargatan 26,4550000,89216,2715.0,51,2022-06-14
+Vasastan,Torbjörn klockares gata 11,4350000,108750,2263.0,40,2022-06-14
+Östermalm,"Grevgatan 19, 4 tr",6350000,127000,1952.0,50,2022-06-14
+Vasastan,"Dalagatan 86D, 2 tr",3970000,110278,2139.0,36,2022-06-14
+Vasastan,"Karlbergsvägen 55, 3tr",8300000,138333,1615.0,60,2022-06-13
+Vasastan,Sigtunagatan 13,4075000,135833,983.0,30,2022-06-13
+Södermalm,Heleneborgsgatan 15A,4800000,92308,3156.0,52,2022-06-12
+Årsta,Borensvägen 21,3150000,57273,3212.0,55,2022-06-12
+Vasastan,"Sigtunagatan 11, 2 TR",7000000,122807,3356.0,57,2022-06-12
+Vasastan,Atlasgatan 7,4600000,115000,1960.0,40,2022-06-12
+Vasastan,Luntmakargatan 86A,4130000,86042,2719.0,48,2022-06-12
+Fredhäll,"Frödingsvägen 5, 1tr",3880000,91294,2244.0,42,2022-06-11
+Vasastan,"Sveavägen 99, 2,5 tr",4825000,116265,1928.0,41,2022-06-11
+Södermalm,"Fatburs Brunnsgata 26, 8tr",7100000,102899,3435.0,69,2022-06-11
+Vasastan,Völundsgatan 11,4275000,114000,2194.0,37,2022-06-10
+Östermalm,Birger Jarlsgatan 104E - Accepterat pris,4900000,113953,2995.0,43,2022-06-10
+Årsta,Sköntorpsvägen 115,2300000,71875,2454.0,32,2022-06-10
+Södermalm,"Högalidsgatan 32A, vån 4",4300000,113158,1708.0,38,2022-06-10
+Södermalm,Ringvägen 139B,5150000,90351,3245.0,57,2022-06-10
+Södermalm,"Heleneborgsgatan 40, 2 tr.",4200000,105000,2284.0,40,2022-06-10
+Vasastan,Frejgatan 45,3650000,104286,1809.0,35,2022-06-10
+Södermalm,"Bjurholmsplan 23, 2,5 tr",4825000,107222,3238.0,45,2022-06-10
+Årsta,"Bolmensvägen 5, vån 3 / 3",3000000,71429,2650.0,42,2022-06-10
+Södermalm,"Ringvägen 139 A, 4 tr",6240000,99048,3356.0,63,2022-06-10
+Vasastan,Frejgatan 10,8500000,146552,995.0,58,2022-06-10
+Östermalm,Brahegatan 3B,6250000,125000,2127.0,50,2022-06-10
+Södermalm,"Bergsundsgatan 7, 3 tr",3850000,91667,2793.0,42,2022-06-10
+Södermalm,Ringvägen 127A,5900000,100000,2177.0,59,2022-06-10
+Vasastan,"Gästrikegatan 13, 1tr",5910000,131333,1499.0,45,2022-06-09
+Fredhäll,"Frödingsvägen 1, 2,5 tr",4400000,94624,2565.0,46,2022-06-09
+Östermalm,"Karlaplan 19C, 6tr",4800000,126316,1594.0,38,2022-06-09
+Södermalm,"Ringvägen 161, 3tr",4100000,102500,1291.0,40,2022-06-09
+Södermalm,"Högbergsgatan 81 D, 2,5 tr",5350000,104902,3057.0,51,2022-06-09
+Södermalm,"Bondegatan 13, 5 tr",4375000,125000,2209.0,35,2022-06-09
+Vasastan,"Tegnérgatan 57A, 4 tr",4350000,90625,2628.0,48,2022-06-09
+Södermalm,Blekingegatan 42,5700000,93443,2625.0,61,2022-06-09
+Vasastan,Luntmakargatan 70,6800000,109677,1905.0,62,2022-06-09
+Vasastan,Idungatan 6A,4000000,123077,1516.0,32,2022-06-09
+Södermalm,Bergsundsgatan 14,3700000,88095,3299.0,42,2022-06-09
+Östermalm,Styrmansgatan 13,5100000,134211,2725.0,38,2022-06-09
+Östermalm,Linnégatan 51,4850000,134722,633.0,36,2022-06-08
+Vasastan,"Frejgatan 34, 1tr",4800000,107865,2345.0,44,2022-06-08
+Vasastan,"Birger Jarlsgatan 115A, 4tr",6500000,120370,2373.0,54,2022-06-08
+Södermalm,Gotlandsgatan 60,3050000,105172,1544.0,29,2022-06-08
+Östermalm,Styrmansgatan 24,6225000,155625,992.0,40,2022-06-08
+Årsta,Hjälmarsvägen 24A,3500000,59322,4195.0,59,2022-06-08
+Södermalm,"Borgmästargatan 9, 4 tr",4300000,104878,2128.0,41,2022-06-08
+Årsta,"Storsjövägen 52, 2 tr",3400000,60714,3960.0,56,2022-06-08
+Årsta,Borensvägen 13,2900000,63043,2464.0,46,2022-06-08
+Vasastan,"Observatoriegatan 2A, 2tr",5100000,113333,1492.0,45,2022-06-07
+Årsta,Årstavägen 85,3500000,64815,3591.0,54,2022-06-07
+Årsta,"Borensvägen 11, 3 tr - Accepterat pris!",2950000,65556,2464.0,45,2022-06-07
+Södermalm,Urvädersgränd 6C Ö.G,4300000,110256,1367.0,39,2022-06-05
+Vasastan,Sonja Kovalevskys gata 11,4825000,107222,2250.0,45,2022-06-04
+Årsta,Gullmarsvägen 81,3650000,67593,3113.0,54,2022-06-04
+Vasastan,Tre Liljor 5,4100000,110811,1854.0,37,2022-06-03
+Södermalm,"Lundagatan 36E, 2tr",3495000,97083,1846.0,36,2022-06-03
+Vasastan,"Tomtebogatan 37A, 3tr ög",7500000,138889,2696.0,54,2022-06-03
+Södermalm,Hornsgatan 55A,5500000,103774,2194.0,53,2022-06-03
+Södermalm,Götgatan 96A,3725000,106429,1026.0,35,2022-06-03
+Fredhäll,"Runiusgatan 7, 2tr",3050000,80263,1703.0,38,2022-06-03
+Årsta,"Hjälmarsvägen 24 A, 5 tr, seniorboende 55+",3420000,57966,4195.0,59,2022-06-03
+Årsta,Borensvägen 34,2375000,55233,2908.0,43,2022-06-03
+Vasastan,"Tomtebogatan 46, 3,5 tr",4250000,128788,1783.0,33,2022-06-03
+Östermalm,Valhallavägen 14,7860000,120923,2453.0,65,2022-06-03
+Östermalm,Valhallavägen 148F,4920000,106957,1951.0,46,2022-06-03
+Södermalm,Tavastgatan 23,5500000,134474,2052.0,4097,2022-06-03
+Södermalm,Assessorsgatan 18F,5250000,82031,2352.0,64,2022-06-03
+Södermalm,"Åsögatan 102, Vån 6",5700000,118750,2476.0,48,2022-06-03
+Vasastan,"Birger Jarlsgatan 97A, 3 tr",6300000,100000,2619.0,63,2022-06-03
+Södermalm,Metargatan 9,3160000,101935,2067.0,31,2022-06-02
+Vasastan,"Sonja Kovalevskys Gata 11, ACCEPTERAT PRIS",6395000,101508,3150.0,63,2022-06-02
+Vasastan,"Ynglingagatan 27, 2,5tr.",6320000,110877,2625.0,57,2022-06-02
+Vasastan,"Hälsingegatan 7, 2tr ög",7200000,135849,1903.0,53,2022-06-02
+Vasastan,"Robert Almströmsgatan 4, 1tr",5125000,116477,2349.0,44,2022-06-02
+Vasastan,"Karlbergsvägen 43A, 2tr",4630000,112107,1511.0,41,2022-06-02
+Fredhäll,Runiusgatan 9,3300000,70213,2019.0,47,2022-06-02
+Årsta,Bolmensvägen 35,2900000,70732,2998.0,41,2022-06-02
+Södermalm,Helgalunden 1,5700000,98276,3895.0,58,2022-06-02
+Vasastan,Tulegatan 5 B,7150000,115323,4018.0,62,2022-06-02
+Södermalm,"Götgatan 101A, 4 / 4 tr ÖG",3800000,108571,1597.0,35,2022-06-02
+Södermalm,"Vickergatan 15, 3 tr",3100000,87324,2038.0,35,2022-06-01
+Södermalm,Verkstadsgatan 5,4550000,119737,2076.0,38,2022-06-01
+Fredhäll,Ernst Ahlgrens Väg 5,3200000,84211,2025.0,38,2022-06-01
+Årsta,Årstavägen 83,2635000,53232,3553.0,49,2022-06-01
+Södermalm,Renstiernas gata 27,4000000,102564,2791.0,39,2022-06-01
+Södermalm,"Tjustgatan 4, vån 5",3230000,100938,3147.0,32,2022-06-01
+Årsta,"Slätbaksvägen 13, 2 tr",2900000,65169,2047.0,44,2022-06-01
+Vasastan,"Observatoriegatan 12A, Gårdshus",7900000,127419,2779.0,62,2022-06-01
+Årsta,Borensvägen 60,3650000,71569,1818.0,51,2022-05-31
+Vasastan,"Hälsingegatan 12, 2tr, ög",6975000,136765,2664.0,51,2022-05-31
+Södermalm,Ringvägen 155C (Gårdshus!),5700000,109615,3543.0,52,2022-05-31
+Årsta,Sköntorpsvägen 124,3200000,54701,2416.0,58,2022-05-31
+Vasastan,"Medevigatan 8, 2tr",3900000,111429,3217.0,35,2022-05-31
+Årsta,Siljansvägen 38,2825000,63483,3712.0,44,2022-05-31
+Vasastan,Tomtebogatan 22,4100000,124242,2943.0,33,2022-05-31
+Vasastan,"Upplandsgatan 26, 2 tr",7500000,104167,1997.0,72,2022-05-31
+Södermalm,Bergsunds strand 36,4500000,109756,2322.0,41,2022-05-31
+Södermalm,Ringvägen 54,4500000,84906,2137.0,53,2022-05-31
+Södermalm,"Rosenlundsgatan 24, 1 tr",4170000,106923,2454.0,39,2022-05-31
+Vasastan,Falugatan 22,4250000,114865,2090.0,37,2022-05-31
+Vasastan,"Gävlegatan 36B, 11 tr",4325000,123219,4220.0,35,2022-05-31
+Vasastan,"Sankt Eriksgatan 118, 3 tr",5750000,95833,2295.0,60,2022-05-31
+Årsta,"Rämensvägen 27A, 4tr",2700000,77143,1090.0,35,2022-05-30
+Södermalm,Tjärhovsgatan 19,5450000,102830,2578.0,53,2022-05-30
+Södermalm,"Ringvägen 153B, 1 tr",4400000,89796,2296.0,49,2022-05-30
+Södermalm,Kocksgatan 40,3475000,93919,2860.0,37,2022-05-30
+Årsta,"Långhalsvägen 9, 2 tr",2880000,64143,2204.0,44,2022-05-30
+Vasastan,"Dalagatan 86H, 2tr",4075000,110135,2180.0,37,2022-05-30
+Vasastan,"Hälsingegatan 10A, 3tr",4675000,108721,2007.0,43,2022-05-29
+Vasastan,Upplandsgatan 39,5400000,135000,2632.0,40,2022-05-29
+Vasastan,"Hagagatan 46A, 3 tr gårdshus",6400000,112281,2711.0,57,2022-05-28
+Östermalm,Engelbrektsgatan 33,8325000,136475,2652.0,61,2022-05-28
+Vasastan,Tulegatan 42,5550000,97368,3126.0,57,2022-05-27
+Årsta,"Siljansvägen 44, 2tr",2600000,58427,1492.0,44,2022-05-27
+Södermalm,"Östgötagatan 48A, 5tr",3500000,92105,2904.0,38,2022-05-27
+Östermalm,"Nybrogatan 83, 5 tr",8750000,141129,2171.0,62,2022-05-27
+Fredhäll,"Runiusgatan 5, 1tr",3450000,73404,2089.0,47,2022-05-27
+Årsta,"Årstavägen 7, vån. 5 / 5",3550000,65741,3398.0,54,2022-05-27
+Södermalm,Götgatan 44A,6650000,103906,1795.0,64,2022-05-26
+Södermalm,"Tantogatan 47, vån 12",3700000,87059,2097.0,42,2022-05-26
+Södermalm,Heleneborgsgatan 27,6500000,101563,3374.0,64,2022-05-26
+Fredhäll,"Runiusgatan 5, 1 tr",3200000,84211,1633.0,38,2022-05-26
+Östermalm,"Uggelviksgatan 13, 2 tr",11000000,132530,3092.0,83,2022-05-26
+Årsta,"Siljansvägen 3, 2 tr",3600000,63717,4051.0,56,2022-05-26
+Södermalm,"Fatburs Brunnsgata 16, 6 tr.",5500000,83333,3604.0,66,2022-05-26
+Vasastan,Rörstrandsgatan 15,5450000,136250,2159.0,40,2022-05-26
+Vasastan,Idungatan 8,10000000,161290,2485.0,621,2022-05-26
+Södermalm,"Lundagatan 40B, 4 tr",4200000,101205,2104.0,41,2022-05-25
+Vasastan,"Sigtunagatan 6A, 3tr",7210000,118197,3155.0,61,2022-05-25
+Vasastan,"Vanadisvägen 31B, 1tr",5875000,110849,2414.0,53,2022-05-25
+Fredhäll,"Frödingsvägen 1, 2 tr.",3980000,92558,2262.0,43,2022-05-25
+Södermalm,"Kocksgatan 36, 4 tr",3560000,117105,1863.0,30,2022-05-25
+Årsta,Kolsnarsvägen 7,3050000,71429,2547.0,42,2022-05-25
+Vasastan,Surbrunnsgatan 43B,6200000,129167,2614.0,48,2022-05-25
+Årsta,"Malgomajvägen 6, 3 tr",3500000,61404,4091.0,57,2022-05-25
+Södermalm,Bjurholmsplan 23,3830000,112647,2374.0,34,2022-05-25
+Södermalm,"Högbergsgatan 18 / Roddargatan 8, 1 tr",4750000,96939,1808.0,49,2022-05-25
+Vasastan,Kungstensgatan 53A,3700000,123333,2005.0,30,2022-05-25
+Vasastan,Dalagatan 78C,7100000,136538,2089.0,52,2022-05-25
+Södermalm,Östgötagatan 89,3300000,89189,1711.0,37,2022-05-25
+Södermalm,Helgalunden 5,5500000,94828,4339.0,58,2022-05-25
+Vasastan,"Torsgatan 58, 1,5 tr.",4200000,102439,2991.0,41,2022-05-24
+Södermalm,"Katarina Bangata 31 A, 4 tr ö.g.",7625000,110507,2265.0,69,2022-05-24
+Södermalm,"Klippgatan 21, 5 trp",5230000,104600,3468.0,50,2022-05-24
+Södermalm,Krukmakargatan 26,5180000,97736,2821.0,53,2022-05-24
+Södermalm,Gotlandsgatan 60,3730000,113030,1651.0,33,2022-05-24
+Södermalm,"Tavastgatan 5, 1tr - Accepterat pris!",4700000,106818,2838.0,44,2022-05-24
+Vasastan,Holländargatan 40,7850000,120769,2762.0,65,2022-05-24
+Östermalm,Artillerigatan 65,5600000,109804,2823.0,51,2022-05-24
+Södermalm,"Slipgatan 14, 3tr, 2:a med balkong!",3600000,102857,2440.0,35,2022-05-23
+Vasastan,Rörstrandsgatan 2A,7000000,140000,550.0,50,2022-05-23
+Södermalm,Bergsunds Strand 9,6220000,121961,2614.0,51,2022-05-23
+Östermalm,Gyllenstiernsgatan 3,4100000,105128,1979.0,39,2022-05-22
+Östermalm,"Brahegatan 37, 2 tr",5700000,154054,1743.0,37,2022-05-21
+Vasastan,"Hagagatan 18A, Gårdshus",4000000,105263,1640.0,38,2022-05-21
+Vasastan,Rådmansgatan 80a,2850000,118750,1237.0,24,2022-05-20
+Södermalm,Ljusterögatan 5,4320000,84706,3176.0,51,2022-05-20
+Vasastan,"Odengatan 37, 4tr",5050000,140278,606.0,36,2022-05-20
+Södermalm,"Högalidsgatan 38D, 1tr",4000000,125000,1374.0,32,2022-05-20
+Södermalm,"Katarina Bangata 47, 2 tr",4750000,103261,2613.0,46,2022-05-20
+Vasastan,Teknologgatan 9B,5900000,122917,2318.0,48,2022-05-20
+Södermalm,"Vindragarvägen 2, 2 tr",6290000,103115,3493.0,61,2022-05-20
+Vasastan,Birger Jarlsgatan 115A,3850000,110000,1795.0,35,2022-05-20
+Årsta,Orrfjärdsgränd 20B,4200000,64615,4178.0,65,2022-05-20
+Östermalm,Birger Jarlsgatan 104 G,5000000,116279,2912.0,43,2022-05-20
+Vasastan,Robert Almströmsgatan 12,5050000,123171,1982.0,41,2022-05-20
+Södermalm,Verkstadsgatan 5,4250000,106250,2185.0,40,2022-05-20
+Årsta,Järnlundsvägen 12,3325000,60455,3671.0,55,2022-05-19
+Årsta,Sandfjärdsgatan 132,2850000,47899,4180.0,59,2022-05-19
+Årsta,"Hjälmarsvägen 24B, seniorboende 55+",3750000,63559,4195.0,59,2022-05-19
+Vasastan,"Sveavägen 117B, över gård",5750000,95833,2121.0,60,2022-05-19
+Södermalm,"Kocksgatan 29, 1 tr",4850000,121250,2262.0,40,2022-05-19
+Södermalm,Metargatan 9,3220000,103871,2067.0,31,2022-05-19
+Södermalm,"Ploggatan 12, 3tr",4840000,107556,2181.0,45,2022-05-19
+Vasastan,"Frejgatan 22, 1tr",5900000,113462,2136.0,52,2022-05-19
+Vasastan,"Ninni Kronbergs Gata 16, 4tr - Accepterat pris",4595000,112073,2481.0,41,2022-05-19
+Södermalm,"Ringvägen 79, 3tr",4500000,103448,1661.0,43,2022-05-19
+Östermalm,Skeppargatan 22,5850000,142683,1674.0,41,2022-05-19
+Södermalm,Åsögatan 128,6850000,122321,2782.0,56,2022-05-19
+Vasastan,Hälsingehöjden 3,7600000,120635,3185.0,63,2022-05-18
+Vasastan,"Dalagatan 45, 5tr",6650000,102308,3143.0,65,2022-05-18
+Vasastan,"Sankt Eriksgatan 84, 1tr",4550000,122973,1284.0,37,2022-05-18
+Vasastan,"Vanadisplan 6, 4tr",4200000,116667,1415.0,36,2022-05-18
+Södermalm,"Hornsgatan 29F, 2 tr. ö.g.",7500000,110294,2920.0,68,2022-05-18
+Södermalm,Östgötagatan 32,6650000,99254,2372.0,67,2022-05-18
+Vasastan,Birkagatan 16C,4000000,86957,2264.0,46,2022-05-18
+Östermalm,Linnégatan 51,6350000,113393,1150.0,56,2022-05-18
+Södermalm,Högbergsgatan 66A,5775000,111058,3019.0,52,2022-05-18
+Vasastan,Roslagsgatan 23,7050000,123684,2410.0,57,2022-05-18
+Vasastan,Västmannagatan 71B - Accepterat pris!,6950000,110317,2211.0,63,2022-05-18
+Södermalm,"Åsögatan 137, 1,5 tr",6800000,113333,2646.0,60,2022-05-18
+Södermalm,"Ölandsgatan 48, 4 tr",6600000,124528,1966.0,53,2022-05-18
+Vasastan,Rådmansgatan 80 B,4920000,129474,2016.0,38,2022-05-18
+Vasastan,"Torsgatan 50, 1,5tr",5925000,98750,1832.0,60,2022-05-17
+Vasastan,"Emmy Rappes Gata 3, vån 10",4450000,110149,2381.0,40,2022-05-17
+Södermalm,Högbergsgatan 76B,4885000,93942,2061.0,52,2022-05-17
+Södermalm,"Ringvägen 86, vån 2",3825000,100658,1780.0,38,2022-05-17
+Södermalm,Katarina västra kyrkogata 10,6400000,106667,3119.0,60,2022-05-17
+Vasastan,"Hagagatan 20, 2 tr",7000000,127273,2037.0,55,2022-05-17
+Vasastan,Surbrunnsgatan 57,4700000,97917,2212.0,48,2022-05-17
+Östermalm,"Banérgatan 29A, högst upp ö.g.",7100000,151064,742.0,47,2022-05-17
+Södermalm,"Högalidsgatan 38D, Gårdshus",5630000,114898,1960.0,49,2022-05-17
+Östermalm,Narvavägen 20A,9250000,149194,2773.0,62,2022-05-17
+Årsta,Sköntorpsvägen 96,2760000,64186,2215.0,43,2022-05-17
+Vasastan,Frejgatan 15,7500000,110294,2200.0,68,2022-05-17
+Vasastan,Norrbackagatan 30,5350000,107000,1593.0,50,2022-05-17
+Årsta,Eklångsvägen 42,3700000,68773,3234.0,53,2022-05-16
+Årsta,Slätbaksvägen 39,3110000,73176,2324.0,42,2022-05-16
+Årsta,"Malgomajvägen 16, 2 tr",3400000,59649,3603.0,57,2022-05-16
+Östermalm,Valhallavägen 174,4900000,119512,1961.0,41,2022-05-14
+Vasastan,"Sigtunagatan 1, 3 tr",5700000,116327,987.0,49,2022-05-13
+Södermalm,Ekehjelmstorget 6,4895500,82975,2104.0,59,2022-05-13
+Vasastan,"Frejgatan 81, Uteplats 12kvm",4200000,120000,1630.0,35,2022-05-13
+Vasastan,"Västmannagatan 35, Vindslägenhet",9100000,143307,2728.0,63,2022-05-13
+Södermalm,Södermannagatan 21,4250000,121429,1696.0,35,2022-05-13
+Vasastan,"Tomtebogatan 49, 4 tr",7100000,122414,3760.0,58,2022-05-13
+Vasastan,"Dalagatan 38A, i gårdshus",4300000,107500,2041.0,40,2022-05-13
+Östermalm,Narvavägen 22A,8320000,154074,1344.0,54,2022-05-13
+Vasastan,Roslagsgatan 54,5100000,102000,2114.0,50,2022-05-13
+Östermalm,"Lützengatan 3, ACCEPTERAT PRIS / Först Till Kvarn!",5400000,76056,1968.0,71,2022-05-13
+Vasastan,"Birger Jarlsgatan 95, 2tr mot gård",6000000,109091,2198.0,55,2022-05-12
+Vasastan,"Gävlegatan 36B, 6 tr",4600000,143750,1911.0,32,2022-05-12
+Östermalm,Styrmansgatan 51A,5100000,141667,2186.0,36,2022-05-12
+Södermalm,"Högalidsgatan 48B, 5 tr",6600000,111864,2976.0,59,2022-05-12
+Vasastan,Roslagsgatan 27,4200000,100000,1806.0,42,2022-05-12
+Södermalm,"Ringvägen 29, vån 6",5250000,100962,2722.0,52,2022-05-12
+Södermalm,"Rutger Fuchsgatan 4, 1 tr",4000000,111111,1758.0,36,2022-05-11
+Vasastan,"Sveavägen 99, vån 4 av 5",4800000,107865,2106.0,44,2022-05-11
+Östermalm,Karlavägen 59D,6200000,148325,1976.0,41,2022-05-11
+Årsta,"Årstavägen 66, 2 tr",3850000,68750,3237.0,56,2022-05-11
+Södermalm,Erstagatan 20,5050000,97115,1485.0,52,2022-05-11
+Södermalm,Hallandsgatan 34,6800000,98551,2875.0,69,2022-05-11
+Södermalm,Åsögatan 194,5000000,112360,2323.0,44,2022-05-11
+Fredhäll,Ernst ahlgrens väg 10,3910000,95366,2173.0,41,2022-05-11
+Vasastan,"Sveavägen 134, gårdsläge.",3775000,96795,2237.0,39,2022-05-11
+Vasastan,"Gävlegatan 36B, 8 tr",4700000,141141,1982.0,33,2022-05-11
+Östermalm,"Kommendörsgatan 40 A, 1 tr. gårdshuset",6600000,115789,2712.0,57,2022-05-11
+Södermalm,"Hallandsgatan 34, 3 tr",7000000,101449,2875.0,69,2022-05-11
+Årsta,"Sandfjärdsgatan 15, 2tr",2900000,50435,3327.0,57,2022-05-10
+Vasastan,Hälsingegatan 12,5850000,121875,2304.0,48,2022-05-10
+Fredhäll,"Frödingsvägen 1,  3,tr",3975000,95783,2280.0,41,2022-05-10
+Södermalm,"Bondegatan 1 G, 2 tr",7000000,114754,2362.0,61,2022-05-10
+Östermalm,Wittstocksgatan 28,6500000,112069,1099.0,58,2022-05-10
+Fredhäll,Frödingsvägen 4,4050000,82653,2506.0,49,2022-05-10
+Södermalm,"Renstiernas gata 23, 3 tr",5000000,125000,1139.0,40,2022-05-10
+Södermalm,Nytorgsgatan 15A,3950000,103947,2138.0,38,2022-05-10
+Södermalm,"Fatburstrappan 18, 17 tr",5450000,132927,3223.0,41,2022-05-10
+Årsta,"Skattungsvägen 16, 2tr",3730000,65439,3136.0,57,2022-05-10
+Östermalm,Östermalmsgatan 84B,6600000,150000,0.0,44,2022-05-10
+Södermalm,Lundagatan 50,5050000,129487,1919.0,39,2022-05-10
+Vasastan,"Luntmakargatan 91, 1tr",5350000,104902,2291.0,51,2022-05-09
+Östermalm,"Karlavägen 82, 7 tr",6100000,169444,1545.0,36,2022-05-09
+Vasastan,"Birger Jarlsgatan 109C, 4tr",6525000,116518,2559.0,56,2022-05-09
+Vasastan,Upplandsgatan 54F,7700000,102667,3148.0,75,2022-05-09
+Östermalm,"Linnégatan 17A, 5tr",6400000,160000,1758.0,40,2022-05-08
+Östermalm,Birger Jarlsgatan 104H,5000000,116279,2879.0,43,2022-05-07
+Vasastan,Sigtunagatan 19,7850000,140179,2360.0,56,2022-05-07
+Årsta,Siljansvägen 20,3200000,71910,3005.0,44,2022-05-06
+Vasastan,"Tomtebogatan 40, 5 tr",7250000,120833,2588.0,60,2022-05-06
+Vasastan,Teknologgatan 9C,4250000,113333,1646.0,37,2022-05-06
+Årsta,"Tämnarvägen 28, 3 tr",3450000,62727,3290.0,55,2022-05-06
+Östermalm,Frejgatan 4A,6050000,126042,2453.0,48,2022-05-06
+Östermalm,"Karlavägen 54, 2 tr",7240000,113125,1310.0,64,2022-05-06
+Södermalm,"Repslagargatan 8, 4tr",6225000,95769,4483.0,65,2022-05-06
+Södermalm,"Bergsundsgatan 15, 3 tr",4750000,96939,2153.0,49,2022-05-06
+Östermalm,Eriksbergsgatan 36,7500000,138889,3213.0,54,2022-05-06
+Södermalm,Bergsundsgatan 15,4700000,97917,2014.0,48,2022-05-06
+Årsta,Hjälmarsvägen 1,2900000,67916,2625.0,42,2022-05-06
+Östermalm,"Grevgatan 4A, 3 tr",8600000,136508,2790.0,63,2022-05-06
+Årsta,Siljansvägen 53,3200000,61538,3544.0,52,2022-05-05
+Vasastan,"Kammakargatan 33, 1,5 tr",6460000,117455,2827.0,55,2022-05-05
+Södermalm,Älvsborgsgatan 1,4410000,100227,2773.0,44,2022-05-05
+Vasastan,"Völundsgatan 3, 3tr",5210000,124048,2841.0,42,2022-05-05
+Södermalm,"Högbergsgatan 50, 5 tr",4675000,103889,1209.0,45,2022-05-05
+Södermalm,Högalidsgatan 50B,3550000,93421,1708.0,38,2022-05-05
+Södermalm,"Heleneborgsgatan 19, 4 tr",4110000,100244,1838.0,41,2022-05-05
+Årsta,"Borensvägen 54, 3tr",3150000,75000,2289.0,42,2022-05-05
+Södermalm,"Bondegatan 16D, 3 tr",4470000,111750,1705.0,40,2022-05-05
+Södermalm,"Heleneborgsgatan 26, 5 tr",6560000,96471,2512.0,68,2022-05-05
+Östermalm,Styrmansgatan 5,7850000,117164,2990.0,67,2022-05-05
+Vasastan,Roslagsgatan 54A,6450000,126471,3000.0,51,2022-05-05
+Östermalm,Styrmansgatan 7A,8400000,142373,1973.0,59,2022-05-05
+Östermalm,Östermalmsgatan 43,5850000,114706,1970.0,51,2022-05-05
+Årsta,Siljansvägen 75,3120000,54737,3522.0,57,2022-05-05
+Södermalm,"Siargatan 11, 4tr",5595000,90242,3316.0,62,2022-05-05
+Södermalm,"Katarina Bangata 64, 1 / 2 tr",5400000,90000,2979.0,60,2022-05-05
+Vasastan,Völundsgatan 10,3825000,123387,1984.0,31,2022-05-04
+Årsta,Möckelvägen 9,3200000,80000,2083.0,40,2022-05-04
+Vasastan,"Robert Almströmsgatan 9a, 4tr",6775000,120982,2421.0,56,2022-05-04
+Vasastan,Karlbergsvägen 80A,4400000,137500,1530.0,32,2022-05-04
+Vasastan,"Hagagatan 54A, 2 tr",4300000,122857,2040.0,35,2022-05-04
+Södermalm,"Åsögatan 196, 5tr",3920000,130667,2040.0,30,2022-05-04
+Vasastan,"Hälsingegatan 15, 1tr",6720000,120000,2408.0,56,2022-05-04
+Vasastan,Birger Jarlsgatan 110,5300000,115217,1269.0,46,2022-05-04
+Vasastan,"Birkagatan 4, 3 tr",6235000,132660,2326.0,47,2022-05-04
+Vasastan,"Robert Almströmsgatan 12, 2tr",5400000,135000,1944.0,40,2022-05-04
+Östermalm,Skeppargatan 22,8100000,162000,1960.0,50,2022-05-04
+Vasastan,Surbrunnsgatan 2,6800000,106250,2849.0,64,2022-05-04
+Södermalm,Erstagatan 30,4925000,92925,2849.0,53,2022-05-04
+Vasastan,Sankt Eriksgatan 101,5800000,120833,2096.0,48,2022-05-03
+Vasastan,"Upplandsgatan 74, 1tr.",7850000,113112,2904.0,69,2022-05-03
+Södermalm,Södermannagatan 21,4225000,128030,1599.0,33,2022-05-03
+Östermalm,Valhallavägen 14,7000000,100430,2556.0,69,2022-05-03
+Södermalm,Helgagatan 36G,3500000,125000,1631.0,28,2022-05-03
+Södermalm,Svartensgatan 12B,6150000,125510,1907.0,49,2022-05-03
+Årsta,Slätbaksvägen 36,3000000,70922,2324.0,42,2022-05-03
+Vasastan,"Tomtebogatan 15A, 1 tr",7900000,127419,2454.0,62,2022-05-03
+Östermalm,Grev Turegatan 84,6900000,156818,1965.0,44,2022-05-03
+Södermalm,"Heleneborgsgatan 46, 5tr",6420000,121132,1790.0,53,2022-05-02
+Årsta,"Bolmensvägen 7, 2tr",2820000,67143,2650.0,42,2022-05-02
+Vasastan,"Roslagsgatan 27, Högst upp i huset!",5800000,120833,2436.0,48,2022-05-02
+Vasastan,"David Bagares gata 26C, vindsvåning",5250000,164063,1608.0,32,2022-05-02
+Vasastan,Vanadisvägen 28,6300000,103279,2510.0,61,2022-05-02
+Vasastan,"Eastmansvägen 8B, 1 tr",7000000,127273,3300.0,55,2022-05-02
+Årsta,"Sandfjärdsgatan 9, 2 / 3tr",2825000,49130,3327.0,57,2022-05-01
+Årsta,Sköntorpsvägen 43,3150000,58118,3189.0,54,2022-05-01
+Östermalm,"Engelbrektsgatan 12A, vindsvåning",7265000,172976,1470.0,421,2022-05-01
+Vasastan,Västmannagatan 18,5200000,115556,2710.0,45,2022-05-01
+Vasastan,"Robert Almströmsgatan 12, BV",4900000,122500,1905.0,40,2022-05-01
+Årsta,Årstavägen 131,2725000,71711,3167.0,38,2022-04-30
+Södermalm,Åsögatan 189,5000000,121951,2060.0,41,2022-04-29
+Fredhäll,"Adlerbethsgatan 17, 2tr",3750000,87209,2416.0,43,2022-04-29
+Östermalm,"Kaptensgatan 9 A, NB",7020000,113226,2678.0,62,2022-04-29
+Vasastan,"Torsgatan 69, 3tr",4400000,115789,1790.0,38,2022-04-29
+Södermalm,"Folkungagatan 74A, 3tr. Gårdshuset",5650000,120213,1968.0,47,2022-04-29
+Södermalm,Kocksgatan 52,3500000,109375,1363.0,32,2022-04-29
+Årsta,"Tämnarvägen 12, 2 tr",3030000,67333,2583.0,45,2022-04-29
+Fredhäll,Stagneliusvägen 43,5925000,109722,1364.0,54,2022-04-29
+Södermalm,"Rosenlundsgatan 18, 5tr",4880000,108444,2479.0,45,2022-04-29
+Södermalm,Bastugatan 27,5175000,129375,1803.0,40,2022-04-29
+Södermalm,Hallandsgatan 34,6900000,104545,2784.0,66,2022-04-29
+Södermalm,"Södermannagatan 45, vind",9100000,140000,3773.0,65,2022-04-28
+Vasastan,"Birkagatan 29, 3tr",8050000,131967,2972.0,61,2022-04-28
+Södermalm,"Götgatan 90A, 5tr",4870000,118780,0.0,41,2022-04-28
+Södermalm,Slipgatan 5,4100000,97619,2205.0,42,2022-04-28
+Fredhäll,Stagneliusvägen 26,3900000,80412,3317.0,48,2022-04-28
+Vasastan,"Norrtullsgatan 63, 4 tr",5500000,98214,2800.0,56,2022-04-28
+Östermalm,Östermalmsgatan 68C,6275000,133511,1921.0,47,2022-04-28
+Södermalm,Tideliusgatan 37 5tr.,6700000,104688,1741.0,64,2022-04-28
+Södermalm,"Marmorgatan 3, 3 tr",4200000,79245,3685.0,53,2022-04-28
+Södermalm,"Dalslandsgatan 3, 2tr",5650000,99123,3144.0,57,2022-04-28
+Vasastan,Luntmakargatan 86A,6000000,95238,4059.0,63,2022-04-28
+Södermalm,Ölandsgatan 49B,5875000,90385,2832.0,65,2022-04-28
+Årsta,Bolmensvägen 7,2800000,66667,2881.0,42,2022-04-28
+Vasastan,"Norrbackagatan 11, 1,5 tr",5620000,124889,2283.0,45,2022-04-28
+Vasastan,"Hagagatan 50A, 3 tr Gårdshus",3875000,129167,1755.0,30,2022-04-27
+Södermalm,"Gotlandsgatan 66, 4tr",5350000,109184,2348.0,49,2022-04-27
+Södermalm,Östgötagatan 89,4100000,100000,1891.0,41,2022-04-27
+Södermalm,Högbergsgatan 67,4900000,116667,477.0,42,2022-04-27
+Södermalm,"Fatburs kvarngata 23, 4tr",6275000,90942,4382.0,69,2022-04-27
+Vasastan,"Vanadisvägen 25, 1,5 tr",4000000,125000,1919.0,32,2022-04-27
+Södermalm,Maria Prästgårdsgata 19A,6100000,124490,4098.0,49,2022-04-27
+Årsta,"Eklångsvägen 21, 2 / 3tr",3120000,73068,2550.0,42,2022-04-27
+Södermalm,"Verkstadsgatan 9, 1 tr",6350000,102419,3011.0,62,2022-04-27
+Södermalm,"Högalidsgatan 32C, 4 / 4 tr - gårdshus",5310000,136154,1519.0,39,2022-04-27
+Södermalm,"Tobaksspinnargatan 10, 4 tr",4900000,100000,2703.0,49,2022-04-27
+Södermalm,Bergsunds strand 27,8400000,123529,3649.0,68,2022-04-27
+Södermalm,"Kocksgatan 23, 4 tr",8675000,125725,2812.0,69,2022-04-27
+Årsta,"Årstavägen 71, 1tr",3515000,72474,3352.0,48,2022-04-27
+Södermalm,Katarina Västra Kyrkogata 6B,6850000,116102,2340.0,59,2022-04-27
+Östermalm,Birger Jarlsgatan 46B,9930000,146029,2060.0,68,2022-04-27
+Årsta,Slätbaksvägen 36,3100000,71264,2410.0,43,2022-04-27
+Årsta,"Dellensvägen 15, 3tr",3500000,60345,4177.0,58,2022-04-26
+Årsta,"Hjälmarsvägen 24 A, 2tr",4200000,71186,4195.0,59,2022-04-26
+Vasastan,"Norrtullsgatan 38, 2tr",4400000,97778,2472.0,45,2022-04-26
+Vasastan,Norrbackagatan 27A,6150000,93182,2744.0,66,2022-04-26
+Vasastan,Norrbackagatan 60,5700000,126667,2533.0,45,2022-04-26
+Södermalm,Bergsundsgatan 4,5000000,106383,1653.0,47,2022-04-26
+Södermalm,"Hallandsgatan 50A, 2tr",3900000,118182,1967.0,33,2022-04-26
+Södermalm,"Västgötagatan 21, VÅN3",5700000,114000,2141.0,50,2022-04-26
+Östermalm,Grevgatan 47,7600000,158333,1360.0,48,2022-04-26
+Vasastan,Karlbergsvägen 18,4200000,135484,884.0,31,2022-04-26
+Vasastan,Sonja Kovalevskys Gata 6,5550000,118085,2320.0,47,2022-04-26
+Vasastan,"Valhallavägen 22C, Gårdshus",4150000,112162,2111.0,37,2022-04-26
+Södermalm,"Katarina Bangata 62, 2 tr",5920000,123333,2341.0,48,2022-04-26
+Årsta,Siljansvägen 71,3510000,62124,3681.0,56,2022-04-25
+Östermalm,Nybrogatan 56,7500000,147059,2696.0,51,2022-04-25
+Södermalm,"Urvädersgränd 6C, Ö.G",6000000,115385,1494.0,52,2022-04-25
+Östermalm,Majorsgatan 6,5400000,145946,306.0,37,2022-04-25
+Östermalm,"Kommendörsgatan 40a, ög 1tr",6275000,128061,2185.0,49,2022-04-25
+Östermalm,Östermalmsgatan 101,8500000,132813,1381.0,64,2022-04-25
+Östermalm,Nybrogatan 62,5900000,147500,1402.0,40,2022-04-25
+Östermalm,Ruddammsbacken 28,4300000,102381,2275.0,42,2022-04-25
+Vasastan,"Sigtunagatan 14A, 1tr",5500000,141026,1479.0,39,2022-04-24
+Södermalm,"Erstagatan 30, 4 tr",5900000,111321,2849.0,53,2022-04-24
+Vasastan,"Luntmakargatan 70, 2 tr",6400000,125490,1653.0,51,2022-04-24
+Östermalm,"Skeppargatan 21, BV",5600000,160000,0.0,35,2022-04-24
+Vasastan,Birkagatan 21A,7750000,117424,2199.0,66,2022-04-24
+Östermalm,Torstenssonsgatan 13,6950000,139000,1690.0,50,2022-04-24
+Södermalm,"Västgötagatan 18, 5tr",6000000,98361,2387.0,61,2022-04-23
+Vasastan,"Torsplan 10, vån 13",7000000,137255,3354.0,51,2022-04-23
+Vasastan,"Sveavägen 136, BV",4500000,102273,1467.0,44,2022-04-23
+Södermalm,"Kocksgatan 23, 1tr",7400000,107246,2772.0,69,2022-04-23
+Vasastan,Birger Jarlsgatan 116,7000000,122807,1095.0,57,2022-04-23
+Södermalm,Bohusgatan 29,5700000,86364,3366.0,66,2022-04-23
+Vasastan,"Emmy Rappes gata 3, vån 7",7000000,106061,3846.0,66,2022-04-22
+Södermalm,Högbergsgatan 81 A,5900000,118000,2997.0,50,2022-04-22
+Östermalm,Lodgatan 1,9650000,141912,2179.0,68,2022-04-22
+Södermalm,"Mariagränd 2, 3tr + vindsvåning",7450000,116406,2586.0,641,2022-04-22
+Vasastan,Frejgatan 3 - Accepterat pris!,4985000,124625,1528.0,40,2022-04-22
+Östermalm,Skeppargatan 84,6500000,125000,1699.0,52,2022-04-22
+Östermalm,"Artillerigatan 38A, 3tr",8000000,155039,1370.0,51,2022-04-21
+Östermalm,Nybrogatan 57,5400000,150000,2120.0,36,2022-04-21
+Södermalm,Gotlandsgatan 67,4900000,113953,2044.0,43,2022-04-21
+Vasastan,Tomtebogatan 31A,4200000,123529,1005.0,34,2022-04-21
+Södermalm,Helgagatan 36H,4550000,105814,2413.0,43,2022-04-21
+Södermalm,Brännkyrkagatan 119,3810000,92927,3075.0,41,2022-04-21
+Årsta,Ottsjövägen 25,4000000,66667,3852.0,60,2022-04-21
+Södermalm,"Folkungagatan 69, 2tr",5350000,96396,1694.0,55,2022-04-21
+Södermalm,Lorensbergsgatan 3A,7040000,110000,2987.0,64,2022-04-21
+Årsta,"Hummelvägen 2, 3 / 3tr",3425000,60088,3603.0,57,2022-04-21
+Vasastan,"Robert Almströmsgatan 5, 5 tr",5120000,134737,1998.0,38,2022-04-20
+Vasastan,"Hälsingegatan 35, 3tr",5300000,135897,2378.0,39,2022-04-20
+Södermalm,"Bergsunds Strand 34, 4 tr",4100000,100000,1997.0,41,2022-04-20
+Vasastan,Upplandsgatan 78,6800000,141667,2188.0,48,2022-04-20
+Vasastan,"Sonja Kovalevskys Gata 3, vån 3",5780000,117959,2450.0,49,2022-04-19
+Östermalm,"Skeppargatan 52 A, BV",5500000,144737,1711.0,38,2022-04-19
+Årsta,Slätbaksvägen 22,3000000,70588,2151.0,42,2022-04-19
+Vasastan,Västmannagatan 83A,5050000,105208,1917.0,48,2022-04-18
+Fredhäll,Rålambsvägen 54,3480000,88101,2173.0,39,2022-04-18
+Årsta,"Svärdlångsvägen 49, Accepterat pris!",3400000,60714,4022.0,56,2022-04-16
+Vasastan,"Upplandsgatan 85A, 4tr",8500000,134921,3074.0,63,2022-04-15
+Södermalm,Folkskolegatan 4,4200000,102439,2040.0,41,2022-04-15
+Södermalm,Renstiernas gata 30,5000000,125000,2150.0,40,2022-04-15
+Årsta,"Tämnarvägen 32, 3tr",3600000,65455,2880.0,55,2022-04-14
+Årsta,"Sköntorpsvägen 70, 2 tr",3700000,66071,2475.0,56,2022-04-14
+Fredhäll,"Palmbladsvägen 2, ACCEPTERAT PRIS",4250000,77982,3254.0,54,2022-04-14
+Årsta,Årstavägen 68,3450000,62727,3464.0,55,2022-04-14
+Södermalm,"Sågargatan 14, 1,5 tr",4400000,107317,2776.0,41,2022-04-14
+Årsta,Storsjövägen 61,3600000,63158,3136.0,57,2022-04-14
+Södermalm,"Fatburs kvarngata 5, vån 3",5150000,76296,4888.0,67,2022-04-14
+Fredhäll,Ernst ahlgrens väg 6,4000000,100000,2173.0,40,2022-04-14
+Östermalm,Artillerigatan 36,8350000,151818,2477.0,55,2022-04-14
+Årsta,Årstavägen 66,3175000,56696,3237.0,56,2022-04-14
+Södermalm,Fatburstrappan 18,4775000,101596,3460.0,47,2022-04-14
+Årsta,Bråviksvägen 18,2750000,68750,2808.0,40,2022-04-13
+Södermalm,"Flintbacken 6, 11tr",2795000,83433,1688.0,33,2022-04-13
+Södermalm,Kocksgatan 25,9300000,134588,1470.0,69,2022-04-13
+Vasastan,"Tomtebogatan 16, 1,5 tr",5150000,132051,1297.0,39,2022-04-13
+Södermalm,"Bergsunds strand 36, 2 tr",4900000,106522,2193.0,46,2022-04-13
+Årsta,Siljansvägen 41b,3065000,68111,3360.0,45,2022-04-13
+Södermalm,"Bastugatan 45, Högst upp!",4200000,120000,1796.0,35,2022-04-13
+Södermalm,"Brännerigatan 5, vån 2",5500000,107843,2868.0,51,2022-04-13
+Vasastan,"Upplandsgatan 54D, 3tr.",7400000,108824,3356.0,68,2022-04-12
+Vasastan,Robert Almströmsgatan 6,8200000,130159,3629.0,63,2022-04-12
+Fredhäll,"Rålambsvägen 69, 3tr",3540000,95676,2328.0,37,2022-04-12
+Vasastan,"Sankt Eriksgatan 71 A, 2 tr",6500000,120370,2462.0,54,2022-04-12
+Södermalm,Reimersholmsgatan 4,4100000,113889,2474.0,36,2022-04-12
+Vasastan,"Gästrikegatan 4A, 2 tr",5250000,145833,1998.0,36,2022-04-12
+Södermalm,Åsögatan 167A,7250000,131818,2810.0,55,2022-04-12
+Årsta,"Järnlundsvägen 21, 3 / 3tr",3560000,63571,3268.0,56,2022-04-12
+Vasastan,Karlbergsvägen 12,13950000,183553,0.0,761,2022-04-12
+Östermalm,Kommendörsgatan 40,5850000,132955,2006.0,44,2022-04-12
+Södermalm,"Bergsundsgatan 13, 3tr",4200000,127273,2043.0,33,2022-04-12
+Östermalm,Riddargatan 28B,6150000,128125,2267.0,48,2022-04-12
+Södermalm,"Åsögatan 98, 1 tr",3875000,110714,2283.0,35,2022-04-12
+Södermalm,"Högbergsgatan 66C, 4 tr.",5850000,132955,2770.0,44,2022-04-12
+Södermalm,"Högalidsgatan 52C, 3 tr",4325000,120139,2589.0,36,2022-04-12
+Vasastan,"Tomtebogatan 26, 4tr",7100000,130755,2742.0,54,2022-04-11
+Södermalm,Folkskolegatan 20,4000000,100000,3140.0,40,2022-04-11
+Vasastan,Torsgatan 72,7000000,102941,2962.0,68,2022-04-11
+Östermalm,Stureparken 9,6200000,140909,1996.0,44,2022-04-11
+Östermalm,Nybrogatan 73A ÖG,9400000,156667,1197.0,60,2022-04-11
+Vasastan,Upplandsgatan 71,7300000,128070,1927.0,57,2022-04-11
+Södermalm,"Hornstulls Strand 13, 2 tr",3900000,73585,3370.0,53,2022-04-10
+Vasastan,"Tulegatan 32B, Gårdsläge",6150000,116038,2087.0,53,2022-04-09
+Östermalm,"Karlaplan 19C, 5tr",4825000,123718,1616.0,39,2022-04-09
+Södermalm,"Hornsgatan 62, gårdshus",5850000,127174,1162.0,46,2022-04-09
+Vasastan,"Torsplan 8, 13 tr",9000000,155172,3621.0,58,2022-04-08
+Fredhäll,Frödingsvägen 7,3800000,92683,2173.0,41,2022-04-08
+Fredhäll,"Rålambsvägen 69, 1tr",3650000,74490,3083.0,49,2022-04-08
+Södermalm,"Marmorgatan 11, 14 tr",3220000,84737,2725.0,38,2022-04-08
+Vasastan,Roslagsgatan 54A,6700000,128846,2850.0,52,2022-04-08
+Vasastan,"Tulegatan 43, 5 tr",5400000,90000,2395.0,60,2022-04-08
+Vasastan,"Upplandsgatan 53, 3 tr",8200000,136667,1886.0,60,2022-04-08
+Vasastan,Rörstrandsgatan 33B,6450000,105738,1700.0,61,2022-04-08
+Årsta,Skagersvägen 12,2600000,57778,3024.0,45,2022-04-07
+Årsta,Långhalsvägen 17,3000000,66815,2748.0,44,2022-04-07
+Vasastan,"Norrtullsgatan 13, 2tr Stor egen Balkong",5350000,122989,1296.0,43,2022-04-07
+Södermalm,Nytorgsgatan 15 A,5100000,134211,2182.0,38,2022-04-07
+Vasastan,Tre Liljor 2A,4375000,95109,2304.0,46,2022-04-07
+Östermalm,Karlavägen 6,4850000,127632,1220.0,38,2022-04-07
+Vasastan,"Dalagatan 86 C, 2 TR",3900000,118182,1977.0,33,2022-04-07
+Södermalm,"Folkungagatan 53, 2 tr",4560000,101333,2432.0,45,2022-04-07
+Vasastan,"Västeråsgatan 5, vån 2",6350000,129592,2391.0,49,2022-04-07
+Vasastan,Torsgatan 71,3750000,75000,2662.0,50,2022-04-07
+Fredhäll,"Stagneliusvägen 42, ACCEPTERAT PRIS",3350000,77907,2091.0,43,2022-04-07
+Vasastan,Vanadisplan 6,5575000,113776,1641.0,49,2022-04-07
+Vasastan,Sonja Kovalevskys Gata 11,5350000,116304,2300.0,46,2022-04-07
+Vasastan,"Torbjörn Klockares Gata 11, 2 tr",3800000,118750,1704.0,32,2022-04-07
+Östermalm,"Brahegatan 62, BV",5400000,114894,2334.0,47,2022-04-07
+Södermalm,"Katarina Bangata 66, 3tr",4850000,110227,2338.0,44,2022-04-07
+Östermalm,"Valhallavägen 22C, Gårdshus",4200000,113514,2068.0,37,2022-04-07
+Södermalm,Svartensgatan 8 B,6225000,105508,1878.0,59,2022-04-07
+Årsta,Siljansvägen 51,3250000,60748,3451.0,53,2022-04-06
+Södermalm,Åsögatan 106,5050000,91818,2833.0,55,2022-04-06
+Årsta,Tämnarvägen 18,3100000,67391,2437.0,46,2022-04-06
+Fredhäll,Frödingsvägen 5,4075000,101875,2195.0,40,2022-04-06
+Vasastan,"Vikingagatan 12, 2tr",7650000,136607,1501.0,56,2022-04-06
+Södermalm,"Götgatan 96, 3 tr",5010000,104375,1319.0,48,2022-04-06
+Fredhäll,"Rålambsvägen 52, 3 tr",4375000,102941,2226.0,42,2022-04-06
+Östermalm,"Valhallavägen 160, 2 tr",7500000,127768,2415.0,58,2022-04-06
+Östermalm,"Jungfrugatan 11, 2 tr",5425000,150694,1102.0,36,2022-04-06
+Fredhäll,Frödingsvägen 2,3430000,98000,1663.0,35,2022-04-06
+Södermalm,"Pålsundsgatan 5, 3tr",7210000,110923,3494.0,65,2022-04-06
+Vasastan,Upplandsgatan 39,5350000,133750,1818.0,40,2022-04-06
+Södermalm,"Bondegatan 18, 1 tr",5500000,91667,3385.0,60,2022-04-06
+Södermalm,"Hallandsgatan 28, 2 tr",4325000,108125,733.0,40,2022-04-06
+Fredhäll,Frödingsvägen 6,3825000,91071,1857.0,42,2022-04-06
+Vasastan,Hagagatan 1,5700000,90476,2898.0,63,2022-04-06
+Vasastan,Kungstensgatan 55,8375000,139583,2208.0,60,2022-04-06
+Vasastan,Frejgatan 45,5420000,120444,2326.0,45,2022-04-06
+Vasastan,"Upplandsgatan 85B, 4tr",7000000,116667,3510.0,60,2022-04-06
+Södermalm,Skinnarviksringen 20,6300000,123529,2834.0,51,2022-04-06
+Södermalm,"Ringvägen 151A, 4 tr",4730000,107500,2347.0,44,2022-04-06
+Årsta,Rämensvägen 24,3350000,67000,3530.0,50,2022-04-06
+Östermalm,Nybrogatan 54,6100000,148780,2187.0,41,2022-04-06
+Vasastan,Markvardsgatan 6,4400000,129412,1506.0,34,2022-04-06
+Södermalm,Fatbursgatan 2,5900000,101724,2559.0,58,2022-04-06
+Östermalm,Kommendörsgatan 33 A,5500000,125000,2322.0,44,2022-04-05
+Vasastan,"Bråvallagatan 9A, 2tr",5400000,127059,2250.0,42,2022-04-05
+Vasastan,"Tomtebogatan 27, 2tr",6100000,129787,2279.0,47,2022-04-05
+Södermalm,"Södermannagatan 37, högst upp!",7000000,104478,2801.0,67,2022-04-05
+Vasastan,"Västmannagatan 97, 1,5 TR",5810000,111731,3120.0,52,2022-04-05
+Södermalm,"Götgatan 94, 2 tr",6520000,93544,2212.0,69,2022-04-05
+Södermalm,"Anders Reimers väg 9, 1 tr",5740000,117143,3215.0,49,2022-04-05
+Östermalm,Linnégatan 20,4125000,114583,1585.0,36,2022-04-05
+Vasastan,"Norrtullsgatan 25F, 4tr",8500000,132813,3009.0,64,2022-04-05
+Vasastan,"Sveavägen 87, 3,5 tr",6225000,132447,2061.0,47,2022-04-05
+Vasastan,Torsgatan 73,6700000,106349,3643.0,63,2022-04-05
+Årsta,"Eklångsvägen 19, 2tr",3100000,72600,2550.0,42,2022-04-05
+Södermalm,"Malmgårdsvägen 28, 4 tr",5620000,117083,2440.0,48,2022-04-05
+Södermalm,"Gotlandsgatan 60, 3tr",5075000,115341,2343.0,44,2022-04-05
+Södermalm,"Malmgårdsvägen 20, 6tr",7050000,138235,2700.0,51,2022-04-05
+Östermalm,Styrmansgatan 17A,8400000,155556,1417.0,54,2022-04-05
+Vasastan,Roslagsgatan 25,4100000,132258,2241.0,31,2022-04-05
+Vasastan,Observatoriegatan 14,5800000,111538,2316.0,52,2022-04-05
+Östermalm,Oxenstiernsgatan 37,6600000,108197,2673.0,61,2022-04-04
+Vasastan,"Sveavägen 138, 6 tr mot innergård",4740000,110233,1747.0,43,2022-04-04
+Södermalm,Slipgatan 2,5000000,121951,2314.0,41,2022-04-04
+Vasastan,"Birger Jarlsgatan 115A, BV",6900000,101471,2419.0,68,2022-04-04
+Östermalm,Grevgatan 57,7675000,144811,2360.0,53,2022-04-04
+Vasastan,Karlbergsvägen 9a,4300000,134375,1365.0,32,2022-04-04
+Södermalm,"Bjurholmsgatan 16, 8 tr",7250000,130631,0.0,55,2022-04-02
+Årsta,Slätbaksvägen 36,2865000,65862,3220.0,43,2022-04-01
+Årsta,Årstavägen 57,3320000,69895,3459.0,47,2022-04-01
+Vasastan,"Bråvallagatan 5, 1tr",5750000,130682,2619.0,44,2022-04-01
+Östermalm,Körsbärsvägen 12,5500000,85938,3169.0,64,2022-04-01
+Vasastan,Gävlegatan 3,5500000,119565,1668.0,46,2022-04-01
+Vasastan,Torsplan 8 våning 14,9500000,155738,3766.0,61,2022-04-01
+Vasastan,"Atlasgatan 4, 2 tr",5500000,119565,2394.0,46,2022-04-01
+Södermalm,"Södermannagatan 35, 3 TR",6200000,119231,2825.0,52,2022-04-01
+Årsta,"Järnlundsvägen 6, 2 tr",3300000,60000,3671.0,55,2022-04-01
+Årsta,Möckelvägen 34,2770000,65952,3545.0,42,2022-04-01
+Vasastan,"Roslagsgatan 25, 2tr",4600000,127778,2323.0,36,2022-03-31
+Vasastan,Drottninggatan 114A,7200000,110769,2840.0,65,2022-03-31
+Årsta,Skagersvägen 10 vån 3 / 3,2875000,64607,3088.0,44,2022-03-31
+Årsta,Steningevägen 5,4950000,79839,3335.0,62,2022-03-31
+Årsta,Siljansvägen 78,3800000,67257,3707.0,56,2022-03-31
+Södermalm,Högalidsgatan 32A,4200000,137705,1406.0,30,2022-03-31
+Östermalm,Valhallavägen 152C,3200000,114286,1170.0,28,2022-03-31
+Årsta,Gullmarsvägen 81,3800000,70370,3113.0,54,2022-03-31
+Östermalm,Jungfrugatan 33,6850000,139796,2255.0,49,2022-03-31
+Södermalm,Heleneborgsgatan 15a,5250000,105000,3035.0,50,2022-03-31
+Årsta,Långhalsvägen 20,3750000,77320,2896.0,48,2022-03-31
+Årsta,Skagersvägen 16,3000000,54054,3240.0,55,2022-03-31
+Vasastan,Sveavägen 126,5600000,105660,2602.0,53,2022-03-31
+Årsta,"Sandfjärdsgatan 25, 3 tr",3350000,58261,3327.0,57,2022-03-31
+Södermalm,"Kapellgränd 19, 3,5 tr",6500000,125000,513.0,52,2022-03-31
+Vasastan,Karlbergsvägen 73A,6600000,129412,2011.0,51,2022-03-31
+Vasastan,Upplandsgatan 41,5550000,120652,2516.0,46,2022-03-31
+Östermalm,Grev Magnigatan 10A,8250000,160819,2549.0,51,2022-03-31
+Södermalm,Pokalvägen 3,6710000,115690,3401.0,58,2022-03-31
+Södermalm,Högalidsgatan 52C,5800000,103571,3619.0,56,2022-03-31
+Vasastan,Vanadisplan 1,5900000,120408,1901.0,49,2022-03-30
+Årsta,"Borensvägen 58, 3tr",3770000,73922,2779.0,51,2022-03-30
+Södermalm,Timmermansgatan 37,4050000,115714,2033.0,35,2022-03-30
+Södermalm,Östgötagatan 70,7850000,107534,3214.0,73,2022-03-30
+Södermalm,Södermannagatan 8,3745000,104028,1431.0,36,2022-03-30
+Östermalm,"Grev Turegatan 62, 3 tr",4000000,153846,1092.0,26,2022-03-30
+Vasastan,Norrtullsgatan 25A,9700000,153968,3204.0,63,2022-03-30
+Fredhäll,Frödingsvägen 3,4000000,102564,2106.0,39,2022-03-30
+Södermalm,"Lundagatan 38A, 2tr",4400000,107317,2094.0,41,2022-03-30
+Södermalm,Åsögatan 196,3995000,117500,2167.0,34,2022-03-30
+Södermalm,Bondegatan 5B,6150000,118269,3086.0,52,2022-03-30
+Vasastan,"Tomtebogatan 1A, 5 tr",6850000,131731,1664.0,52,2022-03-30
+Vasastan,"Vikingagatan 22B, 1 tr",5260000,128293,1441.0,41,2022-03-30
+Årsta,Bolmensvägen 9,2900000,69048,2881.0,42,2022-03-30
+Fredhäll,Stagneliusvägen 26,3500000,76923,2828.0,45,2022-03-30
+Vasastan,Vulcanusgatan 3,4125000,108553,2245.0,38,2022-03-30
+Fredhäll,"Rålambsvägen 52, 2 tr",4200000,98824,2226.0,42,2022-03-30
+Årsta,Dellensvägen 12,3100000,53448,3783.0,58,2022-03-30
+Södermalm,"Bysistorget 4, 2 tr",4700000,100000,1413.0,47,2022-03-30
+Södermalm,Marmorgatan 11,3750000,70755,4031.0,53,2022-03-30
+Vasastan,Roslagsgatan 19,7000000,127273,1555.0,55,2022-03-29
+Södermalm,"Samaritgränd 7, 2 tr",4900000,116667,2573.0,42,2022-03-29
+Södermalm,Bastugatan 45,4200000,120000,1670.0,35,2022-03-29
+Årsta,Sköntorpsvägen 73,2700000,63232,2609.0,42,2022-03-29
+Vasastan,"Dannemoragatan 14, 1tr",6800000,121429,2575.0,56,2022-03-29
+Södermalm,"Lundagatan 36E, 4  /  4 tr",4300000,110256,1997.0,39,2022-03-29
+Södermalm,"Bysistorget 6, 2tr",4600000,115000,1841.0,40,2022-03-29
+Vasastan,Tulegatan 28,5950000,125263,2001.0,47,2022-03-29
+Östermalm,"Grev Turegatan 84, 3,5 tr",9400000,159322,2489.0,59,2022-03-29
+Årsta,Skälderviksplan 10,2950000,53636,4075.0,55,2022-03-29
+Södermalm,"Heleneborgsgatan 6A, 4 tr",6400000,112281,3242.0,57,2022-03-29
+Vasastan,"Birkagatan 26, 1tr",5025000,128846,1789.0,39,2022-03-29
+Östermalm,"Karlavägen 59D, ög",5500000,130952,1976.0,42,2022-03-29
+Vasastan,"Falugatan 24, vån 2",4900000,120988,2560.0,40,2022-03-29
+Södermalm,"Krukmakargatan 2, 5tr",4100000,128125,1680.0,32,2022-03-29
+Vasastan,"Frejgatan 46B, 4tr",8350000,123887,3039.0,67,2022-03-29
+Vasastan,"Norrbackagatan 11, 2tr.",6450000,126471,2690.0,51,2022-03-28
+Vasastan,"Västmannagatan 76, 6tr",4700000,111905,2251.0,42,2022-03-28
+Vasastan,"Odengatan 71, HÖGST UPP!",9150000,130714,3609.0,70,2022-03-28
+Östermalm,Rådmansgatan 3,8750000,159091,2168.0,55,2022-03-28
+Östermalm,"Tyskbagargatan 10, 3tr",8700000,158182,2742.0,55,2022-03-27
+Fredhäll,"Ernst Ahlgrens Väg 5, 3tr",3700000,97368,2112.0,38,2022-03-27
+Östermalm,Ruddammsbacken 28,5100000,110870,2546.0,46,2022-03-27
+Östermalm,"Skeppargatan 39A, vån 3",8850000,173529,2444.0,51,2022-03-27
+Vasastan,Karlbergsvägen 80A,4100000,128125,1530.0,32,2022-03-26
+Vasastan,Dannemoragatan 18,3900000,105405,1936.0,37,2022-03-26
+Södermalm,Bastugatan 49,6525000,120833,2129.0,54,2022-03-25
+Södermalm,Brännkyrkagatan 66,4260000,106500,1706.0,40,2022-03-25
+Vasastan,"Hälsingegatan 10B, 1tr",4550000,142188,1744.0,32,2022-03-25
+Årsta,"Gullmarsvägen 29 , 6tr",4275000,76339,3827.0,56,2022-03-25
+Årsta,"Möckelvägen 23, 3 / 3tr",3375000,71809,2311.0,47,2022-03-25
+Årsta,Marviksvägen 5,4830000,76063,3800.0,63,2022-03-25
+Vasastan,Dalagatan 40A,6200000,137778,2004.0,45,2022-03-25
+Vasastan,"Upplandsgatan 68, 4 tr",7300000,104286,2673.0,70,2022-03-25
+Södermalm,Östgötagatan 55,8900000,167925,1267.0,53,2022-03-25
+Södermalm,Götgatan 96,4800000,100000,1319.0,48,2022-03-25
+Årsta,Ottsjövägen 25,3900000,65000,4010.0,60,2022-03-24
+Vasastan,Vikingagatan 20A,4300000,126471,1188.0,34,2022-03-24
+Vasastan,Hälsingegatan 15,6600000,124528,2408.0,53,2022-03-24
+Södermalm,"Högalidsgatan 50, 2 tr",3940000,98500,1992.0,40,2022-03-24
+Södermalm,Bondegatan 5B,6250000,120192,3086.0,52,2022-03-24
+Vasastan,Rådmansgatan 35,6600000,117857,1863.0,56,2022-03-24
+Södermalm,"Ringvägen 151A, 1.5 tr",3850000,113235,1965.0,34,2022-03-24
+Södermalm,Pålsundsgatan 7,6600000,103125,3045.0,64,2022-03-24
+Södermalm,Östgötagatan 45,9025000,155603,3379.0,583,2022-03-24
+Östermalm,Sibyllegatan 83,8500000,157407,1917.0,54,2022-03-24
+Årsta,"Årstavägen 16, 2 tr",2685000,61023,3205.0,44,2022-03-24
+Vasastan,"Upplandsgatan 77A, 2 tr Gårdshus",7200000,133333,2816.0,54,2022-03-24
+Årsta,Ralångsvägen 8,3900000,68421,2510.0,57,2022-03-24
+Södermalm,Heleneborgsgatan 5C,5750000,106481,3436.0,54,2022-03-24
+Årsta,"Tämnarvägen 34, 3 tr",3550000,64545,3057.0,55,2022-03-24
+Södermalm,"Hökens gata 8B, gårdshus",5300000,120455,2265.0,44,2022-03-24
+Årsta,Skagersvägen 15,2850000,66279,2909.0,43,2022-03-24
+Årsta,"Slätbaksvägen 10, 2 / 3tr",3100000,69663,2556.0,44,2022-03-23
+Vasastan,Nina Einhorns gata 4,6000000,109091,3387.0,55,2022-03-23
+Södermalm,Lundagatan 36E,4230000,111316,1954.0,38,2022-03-23
+Södermalm,Erstagatan 23,4080000,107937,2112.0,37,2022-03-23
+Södermalm,"Hallandsgatan 30, 4tr",4200000,110526,2393.0,38,2022-03-23
+Vasastan,Gävlegatan 5,4800000,111628,1705.0,43,2022-03-23
+Södermalm,"Maria Prästgårdsgata 2 B, 1 tr",6500000,127451,2981.0,51,2022-03-23
+Vasastan,"Frejgatan 12, 1tr",7410000,125593,1750.0,59,2022-03-23
+Södermalm,"Lorensbergsgatan 1A, 5 tr",7000000,114754,2852.0,61,2022-03-23
+Södermalm,"Lignagatan 5, 7tr",5920000,93968,2994.0,63,2022-03-23
+Södermalm,Brännkyrkagatan 88,6050000,110000,3046.0,55,2022-03-23
+Östermalm,Valhallavägen 152D,5550000,123333,1881.0,45,2022-03-23
+Södermalm,Krukmakargatan 60,6000000,88235,2954.0,68,2022-03-23
+Årsta,"Årstavägen 68, vån. 5 / 5",3860000,68929,3464.0,56,2022-03-23
+Årsta,Siljansvägen 73 A,4000000,65574,4240.0,61,2022-03-23
+Östermalm,Skeppargatan 22 A,8600000,150877,2049.0,57,2022-03-23
+Södermalm,Brännkyrkagatan 44,6825000,106641,3000.0,64,2022-03-22
+Vasastan,Luntmakargatan 92,3970000,136897,1545.0,29,2022-03-22
+Vasastan,Völundsgatan 7,5000000,119048,1764.0,42,2022-03-22
+Södermalm,"Fatbursgatan 33, 1,5 tr",4650000,116250,2779.0,40,2022-03-22
+Södermalm,Mariatorget 4 A,8950000,131618,2895.0,68,2022-03-22
+Östermalm,Riddargatan 29B,10650000,161364,2711.0,66,2022-03-22
+Vasastan,Dalagatan 44A,6200000,137778,1144.0,45,2022-03-22
+Södermalm,Heleneborgsgatan 20,8140000,131290,3232.0,62,2022-03-22
+Vasastan,"Torsgatan 69, 4 tr",4000000,105263,1790.0,38,2022-03-22
+Vasastan,"Norrbackagatan 11, 2tr",7920000,125714,3068.0,63,2022-03-22
+Södermalm,"Östgötagatan 66, 4tr",4875000,113372,937.0,43,2022-03-22
+Vasastan,Tomtebogatan 1A,6000000,115385,1664.0,52,2022-03-21
+Vasastan,"Dalagatan 70, 5tr",6300000,175000,1768.0,36,2022-03-21
+Södermalm,"Erstagatan 16, 2tr",5000000,102041,2977.0,49,2022-03-21
+Östermalm,Grevgatan 65,7200000,124138,2870.0,58,2022-03-21
+Östermalm,Grev Turegatan 8 A,9200000,161404,1895.0,57,2022-03-21
+Östermalm,"Artillerigatan 65, 3tr",11710000,150128,4027.0,78,2022-03-21
+Södermalm,Lundagatan 44A,3700000,101370,1814.0,36,2022-03-21
+Östermalm,Styrmansgatan 53,10800000,174194,2117.0,62,2022-03-20
+Årsta,Sköntorpsvägen 1,4100000,69492,2215.0,59,2022-03-18
+Fredhäll,Ernst Ahlgrens Väg 2,4400000,94624,2652.0,46,2022-03-18
+Vasastan,Rörstrandsgatan 42A,7000000,134615,1918.0,52,2022-03-18
+Södermalm,"Östgötagatan 53, 5tr",5100000,113333,1129.0,45,2022-03-18
+Södermalm,Skaraborgsgatan 3,4290000,92258,3444.0,46,2022-03-18
+Södermalm,Malmgårdsvägen 30L,6000000,103448,3438.0,58,2022-03-18
+Östermalm,"Nybrogatan 44, 3 tr.  Två garageplatser ingår",11200000,193103,3274.0,58,2022-03-18
+Vasastan,Tomtebogatan 3A,5550000,138750,1125.0,40,2022-03-18
+Årsta,"Årstavägen 14, 2 / 3tr",2750000,62500,3205.0,44,2022-03-17
+Södermalm,Folkungagatan 67,4850000,103191,1610.0,47,2022-03-17
+Årsta,"Siljansvägen 83, 2 / 3tr",3550000,60684,3732.0,58,2022-03-17
+Årsta,"Siljansvägen 51, 2tr",3500000,65421,3521.0,53,2022-03-17
+Vasastan,"Dalagatan 78C, 1 tr",6500000,127451,2090.0,51,2022-03-17
+Södermalm,Bondegatan 29,4575000,99457,2822.0,46,2022-03-17
+Årsta,Eklångsvägen 35,3150000,72414,2732.0,43,2022-03-17
+Södermalm,"Katarina Bangata 50, 5tr",7800000,134483,3047.0,58,2022-03-17
+Södermalm,"Drakenbergsgatan 4, 8tr",6200000,96875,2660.0,64,2022-03-17
+Södermalm,Fredmansgatan 7A ingång Maria Prästgårdsg 2A,6400000,125490,2923.0,51,2022-03-17
+Södermalm,Tavastgatan 13,4500000,121622,2624.0,37,2022-03-17
+Årsta,"Sköntorpsvägen 126, plan 1",3300000,56410,3443.0,58,2022-03-17
+Östermalm,Linnégatan 16,8500000,154545,2704.0,55,2022-03-17
+Södermalm,Ölandsgatan 46,4400000,95652,3065.0,46,2022-03-17
+Vasastan,"Tulegatan 42, 5 tr",6650000,116667,2742.0,57,2022-03-17
+Årsta,"Johanneshovsvägen 114, 2 tr",3905000,72315,3618.0,54,2022-03-17
+Årsta,Årstavägen 107,3700000,67890,3612.0,54,2022-03-17
+Södermalm,"Hökens gata 8 A, vindsetage",10200000,143662,3652.0,711,2022-03-17
+Östermalm,Birger Jarlsgatan 104K,4825000,117683,2822.0,41,2022-03-16
+Östermalm,"Linnégatan 80, 3tr. En garageplats ingår",8950000,147690,1062.0,60,2022-03-16
+Vasastan,Völundsgatan 11,5050000,136486,2142.0,37,2022-03-16
+Södermalm,"Bergsunds strand 5, 2tr",4760000,119000,2628.0,40,2022-03-16
+Östermalm,Riddargatan 28 -1 tr,7200000,107303,3143.0,67,2022-03-16
+Östermalm,Iversonsgatan 6 BV,4200000,155556,1087.0,27,2022-03-16
+Södermalm,"Swedenborgsgatan 26, 5 tr",6200000,101639,3334.0,61,2022-03-16
+Vasastan,"Frejgatan 20, 2 tr",5650000,117708,2247.0,48,2022-03-16
+Östermalm,"Karlavägen 2, 4tr",8500000,118056,2264.0,72,2022-03-16
+Årsta,Bråviksvägen 10,2580000,73714,2762.0,35,2022-03-16
+Årsta,Sandfjärdsgatan 86,3350000,56303,4220.0,59,2022-03-15
+Årsta,Storsjövägen 43,3150000,60577,3195.0,52,2022-03-15
+Vasastan,"Tempeltrappan 2, 1,5tr",6375000,98077,3241.0,65,2022-03-15
+Fredhäll,"Atterbomsvägen 58, 2tr",4300000,102381,2299.0,42,2022-03-15
+Södermalm,"Hornstulls Strand 1, 3 tr",7000000,162791,2191.0,43,2022-03-15
+Södermalm,Helgalunden 17,5000000,104167,2941.0,48,2022-03-15
+Södermalm,Brännkyrkagatan 81,5250000,116667,1631.0,45,2022-03-15
+Södermalm,"Ringvägen 114, 5 / 5 trappor",5100000,121429,2006.0,42,2022-03-15
+Södermalm,Åsögatan 130,7200000,122034,2912.0,59,2022-03-15
+Fredhäll,Rålambsvägen 70,4200000,76364,3289.0,55,2022-03-15
+Södermalm,"Katarina Bangata 55, 2tr",7750000,117424,3561.0,66,2022-03-15
+Fredhäll,"Frödingsvägen 3, 3 TR",3800000,93827,2304.0,40,2022-03-15
+Fredhäll,Fredhällsgatan 9,3500000,116667,1336.0,30,2022-03-15
+Södermalm,Bondegatan 13,3700000,119355,2019.0,31,2022-03-15
+Fredhäll,Rålambsvägen 50,4200000,97674,2329.0,43,2022-03-15
+Södermalm,"Hornsgatan 151, 5 tr",5200000,118182,2551.0,44,2022-03-15
+Östermalm,Brahegatan 50,7700000,130508,2962.0,59,2022-03-15
+Vasastan,"Tulegatan 25A, 3tr",5760000,140488,2024.0,41,2022-03-15
+Vasastan,"Gästrikegatan 22, 4 tr",6500000,144444,1324.0,45,2022-03-15
+Östermalm,Jungfrugatan 21,5825000,135465,1917.0,43,2022-03-14
+Södermalm,Åsögatan 98,3800000,108571,2283.0,35,2022-03-14
+Vasastan,"Sveavägen 93, 3 tr",5400000,122727,2128.0,44,2022-03-14
+Vasastan,"Roslagsgatan 15A, 2tr",4240000,141333,1611.0,30,2022-03-14
+Vasastan,Falugatan 15,4850000,110227,2671.0,44,2022-03-14
+Östermalm,Karlavägen 75B,11900000,156579,3727.0,76,2022-03-14
+Vasastan,"Surbrunnsgatan 1, 3 tr",5750000,130682,1333.0,44,2022-03-14
+Södermalm,Folkskolegatan 4,5100000,92727,2794.0,55,2022-03-14
+Södermalm,"Ölandsgatan 46, 2,5 tr",4250000,111842,2532.0,38,2022-03-13
+Östermalm,Grev Magnigatan 17 C,8675000,152193,1793.0,57,2022-03-13
+Årsta,Siljansvägen 55,2450000,70000,2240.0,35,2022-03-12
+Östermalm,Oxenstiernsgatan 35,6250000,104167,3292.0,60,2022-03-11
+Östermalm,Jungfrugatan 36,6200000,172222,1536.0,36,2022-03-11
+Södermalm,Doktor Abelins Gata 4,5050000,117442,2333.0,43,2022-03-11
+Vasastan,Tomtebogatan 23A,6000000,111111,1200.0,54,2022-03-11
+Vasastan,Roslagsgatan 15A,4600000,135294,1820.0,34,2022-03-11
+Årsta,"Bolmensvägen 1, 3tr",3530000,65370,3216.0,54,2022-03-11
+Årsta,Siljansvägen 73 A,4550000,74590,4241.0,61,2022-03-11
+Vasastan,"Karlbergsvägen 35, BV",6100000,101667,2358.0,60,2022-03-11
+Årsta,Ymsenvägen 8,4600000,80702,2588.0,57,2022-03-11
+Östermalm,Melodislingan 22,5725000,130114,3702.0,44,2022-03-10
+Södermalm,"Krukmakargatan 4, 3tr",6975000,116250,2642.0,60,2022-03-10
+Fredhäll,"Stagneliusvägen 38, 2tr",5000000,89286,2840.0,56,2022-03-10
+Vasastan,Hälsingehöjden 11,7800000,123810,2800.0,63,2022-03-10
+Vasastan,"Upplandsgatan 85 A, 1tr",4835000,127237,1960.0,38,2022-03-10
+Södermalm,Bondegatan 46,4670000,111190,2409.0,42,2022-03-10
+Årsta,Årstavägen 83,3600000,72727,3632.0,49,2022-03-10
+Södermalm,Folkskolegatan 22B,6220000,94242,3531.0,66,2022-03-10
+Södermalm,"Stigbergsgatan 32B, 5 tr",7550000,121774,2869.0,62,2022-03-10
+Södermalm,"Marmorgatan 11, 15tr",4430000,86863,4030.0,51,2022-03-10
+Södermalm,"Ringvägen 79, 4tr",4250000,98837,1665.0,43,2022-03-09
+Vasastan,"Tomtebogatan 40, 2 tr.",7300000,119672,2665.0,61,2022-03-09
+Östermalm,"Kaptensgatan 7A, gårdsläge bv",6200000,137778,2045.0,45,2022-03-09
+Vasastan,"Rödabergsgatan 9B, 3 tr",4550000,110976,2560.0,41,2022-03-09
+Vasastan,"Rödabergsgatan 7, 2 TR",4325000,113816,2434.0,38,2022-03-09
+Södermalm,"Hornsgatan 149, 3 tr",4025000,100625,2294.0,40,2022-03-09
+Årsta,Ymsenvägen 3,3300000,59459,2437.0,55,2022-03-09
+Vasastan,"Roslagsgatan 36B, 4 tr ög",5900000,140476,1784.0,42,2022-03-09
+Södermalm,"Bergsunds strand 38, 2 tr",4450000,92708,2271.0,48,2022-03-09
+Årsta,Sandfjärdsgatan 15,3500000,60870,3327.0,57,2022-03-09
+Södermalm,Bergsunds Strand 38,4930000,102708,2271.0,48,2022-03-09
+Södermalm,"Östgötagatan 89, 2,5 tr",4000000,108108,1711.0,37,2022-03-09
+Årsta,"Malgomajvägen 9, 3tr",3630000,63684,3603.0,57,2022-03-08
+Årsta,"Sandfjärdsgatan 112, 2 / 3tr",2700000,62791,2963.0,43,2022-03-08
+Vasastan,Idungatan 1B - Accepterat Pris -,3550000,114516,1914.0,31,2022-03-08
+Vasastan,Karlbergsvägen 87B,7100000,136538,2817.0,52,2022-03-08
+Södermalm,Östgötagatan 77,4775000,97449,1842.0,49,2022-03-08
+Södermalm,Metargatan 9,3950000,117910,2234.0,33,2022-03-08
+Södermalm,"Möregatan 6, 4tr",6050000,112037,3300.0,54,2022-03-08
+Södermalm,"Tantogatan 67, 6tr",3800000,89412,2068.0,42,2022-03-08
+Södermalm,Lundagatan 44B,5400000,113684,2362.0,47,2022-03-08
+Vasastan,Västmannagatan 67,5825000,105909,2053.0,55,2022-03-08
+Vasastan,"Vikingagatan 28, 1tr",8300000,133871,1483.0,62,2022-03-08
+Östermalm,"Linnégatan 60, 4 tr",11250000,144231,4472.0,78,2022-03-08
+Vasastan,Hälsingegatan 14C,9300000,138806,1962.0,67,2022-03-08
+Södermalm,Ringvägen 131,4775000,111047,2211.0,43,2022-03-08
+Östermalm,Nybrogatan 83 A,6120000,149268,1781.0,41,2022-03-08
+Södermalm,Folkskolegatan 22B,7760000,119385,3481.0,65,2022-03-08
+Vasastan,Tomtebogatan 3,5050000,136486,1070.0,37,2022-03-07
+Östermalm,"Riddargatan 29 B, 2 tr",10850000,164394,2962.0,66,2022-03-07
+Vasastan,Frejgatan 45,4300000,122857,2055.0,35,2022-03-07
+Östermalm,Sibyllegatan 14A,9500000,148438,1739.0,64,2022-03-07
+Östermalm,Artillerigatan 57,8600000,153571,2777.0,56,2022-03-05
+Vasastan,"Bråvallagatan 9A, 1tr",5650000,122826,2381.0,46,2022-03-05
+Södermalm,Hökens gata 1,5145000,105000,909.0,49,2022-03-05
+Södermalm,Lundagatan 36D,4100000,107895,1954.0,38,2022-03-05
+Östermalm,"Karlaplan 10, 2 tr",9900000,126923,2997.0,78,2022-03-05
+Vasastan,Frejgatan 6A,6750000,133663,2670.0,50,2022-03-05
+Vasastan,Rörstrandsgatan 34A,7800000,123810,3042.0,63,2022-03-04
+Södermalm,"Tideliusgatan 57, 2 tr.",5625000,86538,2968.0,65,2022-03-04
+Södermalm,Bergsundsgatan 14,3900000,95122,3223.0,41,2022-03-04
+Vasastan,Upplandsgatan 60,7050000,138235,1840.0,51,2022-03-04
+Vasastan,Upplandsgatan 40,8500000,134921,2596.0,63,2022-03-04
+Östermalm,Skeppargatan 25C,11500000,188525,2442.0,61,2022-03-04
+Södermalm,"Renstiernas gata 30, 5  /  5 tr",6000000,120000,2478.0,50,2022-03-04
+Årsta,"Årstavägen 95, 3 tr",3800000,71028,3556.0,53,2022-03-04
+Södermalm,Folkungagatan 146 A,4820000,109545,1261.0,44,2022-03-03
+Fredhäll,"Frödingsvägen 10, 3tr",3600000,100000,2630.0,36,2022-03-03
+Vasastan,Gästrikegatan 16A,4300000,126471,1242.0,34,2022-03-03
+Fredhäll,"Vitalisvägen 3, 1tr",4300000,90526,2535.0,47,2022-03-03
+Årsta,"Ymsenvägen 2, 4 tr",4350000,75000,2889.0,58,2022-03-03
+Vasastan,Völundsgatan 1,6750000,114407,3262.0,59,2022-03-03
+Östermalm,"Linnégatan 67, 5tr",8500000,141667,3857.0,60,2022-03-03
+Södermalm,"Hallandsgatan 50 A, 4tr",3875000,113971,2024.0,34,2022-03-03
+Vasastan,"Tegnérgatan 19, 5tr",7700000,128333,2818.0,60,2022-03-02
+Vasastan,"Sigtunagatan 16, 3 tr",7600000,112760,2677.0,67,2022-03-02
+Vasastan,Västmannagatan 52,6005000,93828,3529.0,64,2022-03-02
+Södermalm,Högalidsgatan 40A,7000000,112903,2604.0,62,2022-03-02
+Fredhäll,Rålambsvägen 50,3800000,87356,2270.0,43,2022-03-02
+Vasastan,Dalagatan 86F,4020000,129677,1847.0,31,2022-03-02
+Södermalm,Tideliusgränd 9,5600000,88889,3519.0,63,2022-03-02
+Södermalm,"Heleneborgsgatan 11A, 3 tr",4850000,103191,2349.0,47,2022-03-02
+Östermalm,Engelbrektsgatan 43 A,6200000,112727,1643.0,55,2022-03-02
+Östermalm,Odengatan 12A,8400000,135484,1433.0,62,2022-03-02
+Södermalm,"Möregatan 10, 5 tr",3950000,116176,1926.0,34,2022-03-02
+Östermalm,"Wittstocksgatan 2, bv",7900000,133898,2799.0,59,2022-03-02
+Årsta,Järnlundsvägen 12,3300000,60000,3671.0,55,2022-03-01
+Södermalm,"Lorensbergsgatan 5 A, 4 tr",7900000,128455,2602.0,61,2022-03-01
+Vasastan,Gävlegatan 5,5250000,119318,1741.0,44,2022-03-01
+Östermalm,"Banérgatan 6, BV",6850000,126852,2620.0,54,2022-03-01
+Södermalm,Kapellgränd 6B,7550000,130172,2477.0,58,2022-03-01
+Vasastan,Drejargatan 6,5525000,125568,2383.0,44,2022-03-01
+Vasastan,"Gästrikegatan 8A, 3tr",7100000,131481,3522.0,54,2022-03-01
+Vasastan,"Robert Almströmsgatan 7, 2tr",4475000,127857,1873.0,35,2022-03-01
+Vasastan,Sankt Eriksgatan 120,4275000,104268,3069.0,41,2022-03-01
+Östermalm,Nybrogatan 56,4750000,115854,2188.0,41,2022-03-01
+Östermalm,Surbrunnsgatan 3,7120000,127143,3536.0,56,2022-03-01
+Årsta,Glindragränd 10,4050000,75000,3398.0,54,2022-03-01
+Fredhäll,Atterbomsvägen 38,3700000,86047,2442.0,43,2022-03-01
+Södermalm,Hornstulls Strand 1,6000000,139535,2192.0,43,2022-03-01
+Vasastan,Hagagatan 8,4700000,138235,1555.0,34,2022-03-01
+Vasastan,"Norrbackagatan 25a,1tr",6450000,99231,2918.0,65,2022-03-01
+Vasastan,"Karlbergsvägen 72B, 2tr",5610000,143846,1161.0,39,2022-03-01
+Södermalm,Bjurholmsgatan 37,4300000,104878,1988.0,41,2022-02-28
+Södermalm,Slipgatan 12,4000000,114286,2236.0,35,2022-02-28
+Vasastan,Birger Jarlsgatan 81,9100000,122973,3054.0,74,2022-02-28
+Södermalm,Lorensbergsgatan 5A,7900000,129508,2613.0,61,2022-02-27
+Vasastan,Birger Jarlsgatan 103A,5550000,132143,2121.0,42,2022-02-25
+Fredhäll,Fredhällsgatan 13,5200000,92857,2624.0,56,2022-02-25
+Södermalm,"Östgötagatan 85, 1tr",7000000,107692,3520.0,65,2022-02-25
+Södermalm,Kocksgatan 45A,7200000,120000,2721.0,60,2022-02-25
+Årsta,Årstavägen 70 vån 6 / 7,3400000,61818,3434.0,55,2022-02-25
+Södermalm,Bondegatan 6,6200000,131915,2722.0,47,2022-02-25
+Södermalm,Bellmansgatan 6,8925000,131250,2601.0,68,2022-02-25
+Vasastan,Luntmakargatan 95,5200000,118182,1577.0,44,2022-02-25
+Årsta,"Storsjövägen 40, 1tr",2950000,68605,2394.0,43,2022-02-24
+Årsta,"Årstavägen 57, 2 / 4tr",3200000,73563,3150.0,43,2022-02-24
+Södermalm,"Reimersholmsgatan 4, 1 tr",3570000,102000,2382.0,35,2022-02-24
+Vasastan,Luntmakargatan 86A,5700000,111765,2785.0,51,2022-02-24
+Årsta,Sköntorpsvägen 7,4050000,66942,4203.0,60,2022-02-24
+Årsta,Årstavägen 27 entréplan,3370000,61273,3473.0,55,2022-02-24
+Vasastan,Gästrikegatan 10,6050000,96032,2592.0,63,2022-02-24
+Vasastan,"Dannemoragatan 18, 5 tr",4300000,119444,1885.0,36,2022-02-24
+Vasastan,Döbelnsgatan 31 A,7200000,153191,2112.0,47,2022-02-24
+Södermalm,"Repslagargatan 16, 1tr",4060000,90222,3605.0,45,2022-02-24
+Södermalm,"Flintbacken 2, 3tr",3000000,85714,1661.0,35,2022-02-24
+Södermalm,"Folkungagatan 69, 3tr",5650000,101802,1694.0,55,2022-02-24
+Vasastan,Västmannagatan 39,8025000,136017,2765.0,59,2022-02-24
+Fredhäll,"Vitalisvägen 11, 3tr",3700000,92500,2114.0,40,2022-02-24
+Östermalm,Östermalmsgatan 68A,8575000,171500,2088.0,50,2022-02-24
+Vasastan,Sveavägen 117A,9100000,124658,2581.0,73,2022-02-24
+Årsta,Ottsjövägen 25,4075000,67917,4050.0,60,2022-02-23
+Vasastan,Hälsingegatan 10B,4600000,143750,1744.0,32,2022-02-23
+Östermalm,Nybrogatan 81,9925000,150379,2960.0,66,2022-02-23
+Södermalm,"Rosenlundsgatan 18, 5tr",3970000,110278,2032.0,36,2022-02-23
+Södermalm,"Hornsgatan 29 F, gårdshus",6200000,108772,2643.0,57,2022-02-23
+Fredhäll,Vitalisvägen 3,4300000,88660,2511.0,48,2022-02-23
+Södermalm,Högbergsgatan 24,5200000,115556,2746.0,45,2022-02-23
+Vasastan,"Vanadisvägen 4, 4 tr",6495000,94130,2396.0,69,2022-02-23
+Södermalm,"Doktor Abelins gata 6, 2 tr",4070000,113056,1786.0,36,2022-02-23
+Södermalm,Metargatan 9,3675000,109701,2234.0,33,2022-02-23
+Södermalm,Ringvägen 155 A,4900000,119512,2270.0,41,2022-02-23
+Fredhäll,Stagneliusvägen 42,5030000,98627,2620.0,51,2022-02-22
+Södermalm,Ringvägen 162,4700000,97917,2504.0,48,2022-02-22
+Vasastan,Hagaesplanaden 61 CEDERHUSEN,4300000,104878,2426.0,41,2022-02-22
+Vasastan,"Hagagatan 8, högst upp",7550000,134821,2561.0,56,2022-02-22
+Vasastan,Sankt Eriksplan 5,7900000,125397,1969.0,63,2022-02-22
+Vasastan,"Frejgatan 54A, 2tr",5100000,141667,1554.0,36,2022-02-22
+Årsta,Dellensvägen 35,3560000,69804,3138.0,51,2022-02-22
+Södermalm,Åsögatan 167A,6900000,116949,3128.0,59,2022-02-22
+Östermalm,Narvavägen 22a BV,7675000,147596,1189.0,52,2022-02-22
+Södermalm,Åsögatan 194,4700000,97917,2415.0,48,2022-02-22
+Vasastan,"Teknologgatan 9B, 2tr",6550000,131000,2319.0,50,2022-02-22
+Södermalm,"Tobaksspinnargatan 4, 2½ tr",4710000,109535,2024.0,43,2022-02-22
+Vasastan,"Sonja Kovalevskys Gata 11, 3 tr",5200000,115556,2250.0,45,2022-02-22
+Östermalm,"Skeppargatan 60, 2tr",6900000,127778,2058.0,54,2022-02-22
+Södermalm,Kocksgatan 20 A,7000000,127273,2272.0,55,2022-02-22
+Vasastan,Tomtebogatan 18,7700000,114925,3160.0,67,2022-02-22
+Vasastan,Roslagsgatan 9,6750000,137755,1917.0,49,2022-02-22
+Vasastan,"Upplandsgatan 39, 4tr.",6260000,156500,2041.0,40,2022-02-21
+Vasastan,Kammakargatan 64B,7200000,104348,3435.0,69,2022-02-21
+Södermalm,"Rutger Fuchsgatan 4, 2tr",4350000,120833,1758.0,36,2022-02-21
+Vasastan,"Tegnérgatan 55B, 6tr",4850000,161667,2089.0,30,2022-02-21
+Vasastan,"Vanadisvägen 3, 1 / 2 tr",4750000,110465,1748.0,43,2022-02-21
+Södermalm,Hallandsgatan 48 - mot gård,4800000,102128,2835.0,47,2022-02-20
+Östermalm,Valhallavägen 65,3675000,105000,2158.0,35,2022-02-19
+Södermalm,Bergsundsgatan 14,4000000,108108,3044.0,37,2022-02-19
+Vasastan,Karlbergsvägen 47A,9100000,130000,2547.0,70,2022-02-19
+Södermalm,Maria Bangata 2B,4300000,126471,1842.0,344,2022-02-19
+Södermalm,Ploggatan 5,5300000,112766,2906.0,47,2022-02-19
+Östermalm,Odengatan 16 A,6510000,127647,1261.0,51,2022-02-18
+Vasastan,"Frejgatan 42, 3tr",7850000,126613,2444.0,62,2022-02-18
+Vasastan,"Västmannagatan 24, 3tr",4700000,123684,1247.0,38,2022-02-18
+Vasastan,"Idungatan 6A, 4tr",7975000,119030,2521.0,67,2022-02-18
+Södermalm,"Hökens gata 1, Högst upp!",4700000,120513,687.0,39,2022-02-18
+Vasastan,"Frejgatan 101, 1 tr",4600000,131054,1508.0,35,2022-02-18
+Vasastan,Döbelnsgatan 52,5700000,108987,2128.0,52,2022-02-18
+Vasastan,Rödabergsgatan 7,5070000,117907,2608.0,43,2022-02-18
+Vasastan,"Dalagatan 21, 4tr",5200000,126829,1456.0,41,2022-02-17
+Vasastan,Upplandsgatan 62,6800000,123636,2374.0,55,2022-02-17
+Vasastan,Robert Almströmsgatan 5,7000000,101449,2957.0,69,2022-02-17
+Södermalm,"Wollmar yxkullsgatan 48B, 4 tr",4500000,113924,2517.0,39,2022-02-17
+Östermalm,Kommendörsgatan 42,4725000,147656,726.0,32,2022-02-17
+Södermalm,Katarina bangata 25,4570000,101556,2080.0,45,2022-02-17
+Vasastan,Vanadisplan 8,8250000,110000,2208.0,75,2022-02-17
+Vasastan,Tomtebogatan 3A,6450000,161250,1125.0,40,2022-02-17
+Vasastan,Upplandsgatan 79,7500000,127119,1869.0,59,2022-02-17
+Vasastan,"Drejargatan 6, 1tr",6000000,142857,2275.0,42,2022-02-17
+Södermalm,Östgötagatan 77,7250000,120833,2217.0,60,2022-02-17
+Östermalm,Valhallavägen 116,7210000,128750,1959.0,56,2022-02-17
+Östermalm,Wittstocksgatan 21,6100000,127083,2284.0,48,2022-02-16
+Södermalm,Urvädersgränd 7,5500000,144737,1301.0,38,2022-02-16
+Vasastan,Drejargatan 1,4550000,137879,1202.0,33,2022-02-16
+Vasastan,"Rådmansgatan 80A,4 tr",4100000,132258,1698.0,31,2022-02-16
+Östermalm,"Majorsgatan 6, 1tr",5000000,138889,275.0,36,2022-02-16
+Södermalm,"Gotlandsgatan 64, 3,5 tr",4800000,117073,2270.0,41,2022-02-16
+Vasastan,"Vikingagatan 7, 4 tr",7000000,109375,3331.0,64,2022-02-16
+Södermalm,"Bellmansgatan 15, 2 tr",5060000,117674,1821.0,43,2022-02-16
+Vasastan,Upplandsgatan 34,5400000,125581,1855.0,43,2022-02-16
+Södermalm,"Kocksgatan 41A, 2 tr",6000000,133333,2439.0,45,2022-02-16
+Vasastan,Dannemoragatan 22,4610000,107209,2029.0,43,2022-02-16
+Södermalm,"Magnus Ladulåsgatan 45, 5 tr",4950000,85345,2794.0,58,2022-02-16
+Södermalm,Götgatan 102,5300000,88333,2612.0,60,2022-02-16
+Vasastan,"Rörstrandsgatan 14, 2 tr (ög 1 tr + 1 tr)",7100000,131481,1701.0,54,2022-02-16
+Vasastan,"Sveavägen 95, 4 tr",5400000,121348,2106.0,44,2022-02-16
+Vasastan,"Hagagatan 22, 5tr",4320000,108000,2885.0,40,2022-02-16
+Östermalm,Grev Turegatan 62,8300000,162745,2142.0,51,2022-02-16
+Årsta,"Siljansvägen 21, 3 tr",4000000,70796,4124.0,56,2022-02-16
+Södermalm,"Brännkyrkagatan 119, 1 / 2tr",5100000,98077,3900.0,52,2022-02-16
+Östermalm,"Narvavägen 14, BV",5700000,150000,1583.0,38,2022-02-16
+Årsta,Malgomajvägen 7,3485000,61140,3603.0,57,2022-02-16
+Vasastan,"Hälsingegatan 3A, 4tr. vindsvåning",6450000,184286,1178.0,35,2022-02-15
+Östermalm,"Oxenstiernsgatan 33, 4tr",6100000,124490,577.0,49,2022-02-15
+Fredhäll,"Runiusgatan 7, 1 tr",3600000,73469,1976.0,49,2022-02-15
+Södermalm,"Gotlandsgatan 75, 5tr",7620000,124918,3084.0,61,2022-02-15
+Vasastan,"Vikingagatan 22 A, 1 tr",6800000,121429,1989.0,56,2022-02-15
+Vasastan,"Sveavägen 134, 3 tr",4250000,128788,1868.0,33,2022-02-15
+Vasastan,"Sveavägen 99, 1.5tr",4700000,108046,2057.0,43,2022-02-15
+Vasastan,"Gävlegatan 9, 1 tr",5050000,117442,1705.0,43,2022-02-15
+Södermalm,Katarina bangata 50,7130000,119832,3112.0,59,2022-02-15
+Fredhäll,Rålambsvägen 52,4300000,102381,2173.0,42,2022-02-15
+Östermalm,Valhallavägen 22,3325000,118750,1810.0,28,2022-02-15
+Östermalm,Grevgatan 23c,7500000,136364,2755.0,55,2022-02-15
+Vasastan,Valhallavägen 38A,8600000,126471,3617.0,68,2022-02-15
+Årsta,Rörviksbacken 9,3650000,68868,3017.0,53,2022-02-15
+Södermalm,Tavastgatan 31,7080000,118000,1758.0,60,2022-02-15
+Södermalm,Tobaksspinnargatan 1,6550000,114912,2925.0,57,2022-02-15
+Vasastan,"Luntmakargatan 74, 3 tr",7250000,131818,3300.0,55,2022-02-14
+Östermalm,Tyskbagargatan 9,6600000,183333,1644.0,36,2022-02-14
+Södermalm,Östgötagatan 48A,4000000,105263,1492.0,38,2022-02-14
+Vasastan,Roslagsgatan 47,4300000,102381,2300.0,42,2022-02-14
+Fredhäll,"Ernst Ahlgrens väg 4, 2tr",3850000,95062,2304.0,40,2022-02-14
+Östermalm,Kaptensgatan 7A,6800000,151111,1876.0,45,2022-02-14
+Fredhäll,Rålambsvägen 52,4150000,97647,2244.0,42,2022-02-14
+Vasastan,Rörstrandsgatan 27,5035000,125875,1364.0,40,2022-02-14
+Årsta,Tämnarvägen 36,3550000,64545,3057.0,55,2022-02-14
+Fredhäll,"Adlerbethsgatan 15, 2tr",4700000,102174,2630.0,46,2022-02-13
+Vasastan,"Vanadisvägen 4, 2tr",6200000,89855,2526.0,69,2022-02-12
+Södermalm,Ringvägen 83,4500000,97826,2427.0,46,2022-02-12
+Vasastan,Norrbackagatan 44,8175000,125769,3282.0,65,2022-02-12
+Fredhäll,"Stagneliusvägen 23, 6 tr",4700000,96907,3445.0,48,2022-02-11
+Södermalm,"Ringvägen 155, 5 tr",5250000,138158,2226.0,38,2022-02-11
+Vasastan,"Surbrunnsgatan 43A, 3tr",6600000,134694,2656.0,49,2022-02-11
