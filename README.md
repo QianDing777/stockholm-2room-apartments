@@ -20,7 +20,7 @@ However, it is important to note that the data only includes factors such as mon
 1. Clone this repository
 2. Install the necessary packages from `requirements.txt`
 3. Run `clean.ipynb`, `analysis_intro.ipynb`, `analysis.ipynb`, `modeling.ipynb` to view the data cleaning, analysis, and modeling process
-4. The resulting cleaned data and analysis results can be found in `data.csv` and `analysis_results.csv`, respectively.
+4. The resulting cleaned data and analysis results can be found in `data.csv`(cleaned the original raw data), `no_outlier_price.csv`(removed outliers for modeling) and `analysis_results.csv`, respectively.
 
 ## Conclusion
 This project provides insight into the affordability of 2-room apartments in Stockholm for junior data analysts. While there are limitations to the data set and the prediction model, this project demonstrates the importance of data analysis in making informed decisions about where to live and how much to save.
